@@ -35,7 +35,7 @@ jobs:
           context: .
           file: docker/frontend/Dockerfile
           push: true
-          tags: "ghcr.io/${{ github.repository }}/frontend:latest"
+          tags: "ghcr.io/${{ github.repository }}:latest"
 
       - name: Build and push Backend
         uses: docker/build-push-action@v3
