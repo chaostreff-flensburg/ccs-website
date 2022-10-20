@@ -1,4 +1,4 @@
-# Hacks on the Habour Website
+# CCS Website
 
 ![build](https://github.com/chaostreff-flensburg/hacks-on-the-harbour-web/actions/workflows/build.yml/badge.svg) 
 ![deploy-ghpages](https://github.com/chaostreff-flensburg/hacks-on-the-harbour-web/actions/workflows/deploy-ghpages.yml/badge.svg) 
