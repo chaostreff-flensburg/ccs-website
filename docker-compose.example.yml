@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+  api:
+    image: node:alpine
+    restart: always
+    expose:
+      - 3000
+    volumes:
+      - ./api/:/home/node/app/api/
+    working_dir: /home/node/app/api
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - AUTH_USERNAME=
+      - AUTH_PASSWORD=
+    command: sh -c 'npm i && nodejs index.mjs'
+
+  frontend:
+    build:
+      context: ./
+      dockerfile: "frontend.Dockerfile"
+    restart: always
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    expose:
+      - 8080
+    ports:
+      - "8080:8080"
+    depends_on:
+      - api
