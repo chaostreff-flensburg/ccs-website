@@ -1,0 +1,32 @@
+version: "3.7"
+
+networks:
+  web:
+    external: true
+  ccs-website:
+
+services:
+  api:
+    image: ghcr.io/chaostreff-flensburg/ccs-website/api:latest
+    env_file:
+      - .env
+    restart: unless-stopped
+    networks:
+      - ccs-website
+
+  app:
+    image: ghcr.io/chaostreff-flensburg/ccs-website/frontend:latest
+    restart: unless-stopped
+    depends_on:
+      - api
+    networks:
+      - web
+      - ccs-website
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.ccs-website.rule=Host(`ccs.chaostreff-flensburg.de`)
+      - traefik.http.routers.ccs-website.entrypoints=websecure
+      - traefik.http.routers.ccs-website.tls=true
+      - traefik.http.routers.ccs-website.certresolver=le
+      - traefik.http.services.ccs-website.loadbalancer.server.port=8080
+      - traefik.docker.network=web

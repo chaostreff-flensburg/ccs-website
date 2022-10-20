@@ -1,7 +1,6 @@
 # CCS Website
 
-![build](https://github.com/chaostreff-flensburg/hacks-on-the-harbour-web/actions/workflows/build.yml/badge.svg) 
-![deploy-ghpages](https://github.com/chaostreff-flensburg/hacks-on-the-harbour-web/actions/workflows/deploy-ghpages.yml/badge.svg) 
+![build](https://github.com/chaostreff-flensburg/ccs-website/actions/workflows/build-and-deploy.yml/badge.svg) 
 
 Requirement: Node
 
@@ -18,7 +17,8 @@ $ npm run dev
 $ npm run build
 ```
 
-## deploy with docker
+## start local with docker
+
 ```yaml
 docker-compose -p ccs up -d
 ```

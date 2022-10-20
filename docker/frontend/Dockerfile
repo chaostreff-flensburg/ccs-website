@@ -7,5 +7,5 @@ RUN npm run build
 
 FROM nginx:alpine
 
-COPY ./nginx.conf /etc/nginx/nginx.conf
+COPY ./docker/frontend/nginx.conf /etc/nginx/nginx.conf
 COPY --from=builder ./dist/ /var/www/html/
