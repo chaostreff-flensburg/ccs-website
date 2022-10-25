@@ -2,13 +2,13 @@
 
 ## FAQ
 ### Über den Beirat
-Um eine möglichst diverse Förderung von Projekten zu ermöglichen, werden die Stipendien nach der Empfehlung des CCS-Beirats vergeben. Der Beirat hat insgesamt 5/7 Mitglieder die ihren Schwerpunkt in verschiedenen Bereichen haben. 
+Um eine möglichst diverse Förderung von Projekten zu ermöglichen, werden die Stipendien nach der Empfehlung des CCS-Beirats vergeben. Der Beirat hat insgesamt 5/7 Mitglieder die ihren Schwerpunkt in verschiedenen Bereichen haben.
 
-* 1 Beate Beispiel; Forschung und Entwicklung bessere Lorem Ipsum Texte
-* 2 Max Mustermann; Security & Gesellschaftliche Unordnung
-* 3 Beate Beispiel; Forschung und Entwicklung bessere Lorem Ipsum Texte
-* 4 Max Mustermann; Security & Gesellschaftliche Unordnung
-* 5 Beate Beispiel; Forschung und Entwicklung bessere Lorem Ipsum Texte
+* Anja Rabich; IT-Sicherheit
+* Dorothea Piko Koch; Voice & Computer Artist
+* Jana Peper; Ingenieurwissenschafte
+* Lana Hedinger, Software Entwicklung & Sozialwissenschaften
+* Samuel Brinkmann; Software Entwicklung & Geschäftsführung
 
 Der Beirat ist jederzeit unter ccs@chaostreff-flensburg.de zu erreichen, alle Fragen sind willkommen!
 
