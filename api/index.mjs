@@ -55,34 +55,38 @@ app.post('/api/form', async (req, res) => {
       roles: ['Customer'],
     });
   } catch (e) {
-    if (e.response.data.error === 'Email address is already used for other user.') {
+    if (e.response.data.includes('Email address is already used for other user.')) {
       console.error(`user "${ req.body.email }" does already exit`);
     } else {
       console.error(e);
       res.status(500);
-      res.send('failed_to_create_user');
+      res.send('Beim Erstellen des Benutzers ist ein Fehler aufgetreten. Wenn der Fehler noch mal auftritt, solltest du dich an ccs@chaostreff-flensburg.de melden.');
       return;
     }
   }
 
   try {
+    let body = ''
+    Object.entries(req.body).forEach(element=>{
+      body += `${element[0]}: \n ${element[1]} \n\n`
+    })
+    body += JSON.stringify(req.body)
     await axiosZammad.post('/tickets', {
       title: `CCS Bewerbung - ${ req.body.name } - ${ req.body.thesisName }`,
       customer: req.body.email,
       group: 'Users',
       article: {
         subject: `CCS Bewerbung - ${ req.body.name } - ${ req.body.thesisName }`,
-        body: JSON.stringify(req.body),
-        type: 'note',
+        body,
+        type: 'email',
         internal: false,
       },
     });
     res.status(200);
-    res.send('completed');
+    res.send('Wir haben deine Bewerbung Erfolgreich gespeichert.');
   } catch (e) {
-    console.error(e);
     res.status(500);
-    res.send('failed_to_create_ticket');
+    res.send('Beim Erstellen des Tickets ist ein Fehler aufgetreten. Wenn der Fehler noch mal auftritt, solltest du dich an ccs@chaostreff-flensburg.de melden.');
   }
 });
 
