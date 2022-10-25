@@ -21,7 +21,6 @@ const requiredFields = [
   'hochschule',
   'startdate',
   'thesisName',
-  'institutProfessor',
   'thesisTask',
   'reasonApplicationThesis',
   'reasonApplicationPerson',
