@@ -22,11 +22,11 @@
       </div>
     </div>
     <div class="row my-2">
-      <div class="form-group col">
+      <div class="form-group col-sm-12 col-md-6">
         <label for="hochschule">Hochschule/Universität</label>
         <input type="text" class="form-control" id="hochschule" name="hochschule" placeholder="" required>
       </div>
-      <div class="form-group col">
+      <div class="form-group col-sm-12 col-md-6">
         <label for="startdate">(geplantes) Startdatum</label>
         <input type="date" class="form-control" id="startdate" name="startdate" placeholder="" required>
       </div>
