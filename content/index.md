@@ -6,7 +6,7 @@ Um eine möglichst diverse Förderung von Projekten zu ermöglichen, werden die 
 
 * Anja Rabich; IT-Sicherheit
 * Dorothea Piko Koch; Voice & Computer Artist
-* Jana Peper; Ingenieurwissenschafte
+* Jana Peper; Ingenieurwissenschaften
 * Lana Hedinger, Software Entwicklung & Sozialwissenschaften
 * Samuel Brinkmann; Software Entwicklung & Geschäftsführung
 
