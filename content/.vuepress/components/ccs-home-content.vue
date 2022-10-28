@@ -104,7 +104,7 @@
       Bitte lies dir vorher die <router-link to="/#stipendiumsbedingungen">Förderbedingungen</router-link> durch.
       Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir keine ausführlichen Begründungen liefern.
     </p>
-    <CCSForm class="section" />
+    <ccs-form class="section" />
     <div class="row section">
       <h2 class="text-primary text-center">
         Impulsfragen, an denen du dich bei der Themenfindung orientieren kannst (aber nicht musst!)
