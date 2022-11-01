@@ -73,9 +73,6 @@ Erzähle gern deinen Studierenden von diesem Stipendienprogramm und erarbeite mi
 ### Du hast noch weitere Fragen?
 Dann schreib uns eine E-Mail an ccs@chaostreff-flensburg.de. Wenn du irgendwelche Probleme beim Beirat oder beim Prozess melden möchtest, schreib bitte eine E-Mail an vorstand@chaostreff-flensburg.de Beide E-Mail-Adressen werden in einem Ticketsystem verarbeitet und werden ggf. von verschiedenen Personen gesehen.
 
-## Newsletter
-Mit dem Newsletter bleibst du immer top informiert! [Jetzt Anmelden](https://mailtrain.chaostreff-flensburg.de/subscription/SyNA43JZo)
-
 ## Stats
 
 ```chart

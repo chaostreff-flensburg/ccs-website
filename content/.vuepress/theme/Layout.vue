@@ -30,9 +30,9 @@
           <ccs-nav class="nav" />
           <div class="card-body content">
             <ccs-home-content class="p-md-4" />
+            <Content class="p-md-4" />
             <ccs-newsletter-form/>
           </div>
-
         </div>
       </main>
       <ccs-footer class="footer"/>
