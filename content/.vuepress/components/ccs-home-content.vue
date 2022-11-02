@@ -126,7 +126,7 @@
         <ul>
           <li>Welchen Mehrwert bringt Open Data für xyz?</li>
           <li>
-            In welchen Ländern Regionen gibt es sehr wenig staatliche
+            In welchen Ländern und Regionen gibt es sehr wenig staatliche
             Überwachungsmaßnahmen und hängt das mit xyz zusammen?
           </li>
           <li>

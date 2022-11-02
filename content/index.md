@@ -22,7 +22,6 @@ Der Beirat ist jederzeit unter ccs@chaostreff-flensburg.de zu erreichen, alle Fr
     * Die Fachrichtung ist uns egal, wir freuen uns auf Einreichungen aus vielen verschiedenen Wissenschaftsbereichen
     * Uns interessieren theoretische Überlegungen oder Konzepte, spezifische Implementierungen, soziologische Erhebungen, künstlerische Auseinandersetzungen und und und
 * Du schreibst deine Masterarbeit an einer deutschen Universität oder Hochschule und bist in Deutschland steuerpflichtig
-	* Diese Begrenzung ist für den Anfang bewusst gewählt.
 * Wir nehmen keinen Einfluss auf den Inhalt der Arbeit
 * Die Arbeit wird frei zugänglich veröffentlicht 
     * Das bedeutet, es darf keine Geheimhaltungsvereinbarungen geben

@@ -82,7 +82,7 @@ app.post('/api/form', async (req, res) => {
       },
     });
     res.status(200);
-    res.send('Wir haben deine Bewerbung Erfolgreich gespeichert.');
+    res.send('Wir haben deine Bewerbung erfolgreich gespeichert.');
   } catch (e) {
     res.status(500);
     res.send('Beim Erstellen des Tickets ist ein Fehler aufgetreten. Wenn der Fehler noch mal auftritt, solltest du dich an ccs@chaostreff-flensburg.de melden.');

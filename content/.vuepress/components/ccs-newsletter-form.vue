@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h3 id="newsletter-anmelden">Zum #CCS Newsletter Anmelden</h3>
+    <h3 id="newsletter-anmelden">Zum #CCS Newsletter anmelden</h3>
               <p>Mit dem Newsletter bleibst du immer top informiert! Nach der Registration bekommst du eine E-Mail, die bestätigt werden muss. Leider ist diese manchmal erst im Spam Ordner zu finden.</p>
 
 <form
