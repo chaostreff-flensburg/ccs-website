@@ -8,7 +8,7 @@
     "build": "vuepress build content"
   },
   "devDependencies": {
-    "sass": "^1.54.9",
+    "sass": "^1.56.0",
     "sass-loader": "^10.3.1",
     "vuepress": "^1.9.7"
   },
