@@ -63,7 +63,7 @@
     </div>
     <div class="row my-2">
       <div class="form-group col">
-        <label for="captcha">Captcha: Wie heißt die nördlichste Stadt Deutschlands?</label>
+        <label for="captcha">Captcha: In welcher Stadt wird die Mischsprache <a href="https://de.wikipedia.org/wiki/Petuh" target="_blank">Petuh</a> gesprochen?</label>
         <input type="text" class="form-control" id="captcha" name="captcha" required>
       </div>
     </div>
