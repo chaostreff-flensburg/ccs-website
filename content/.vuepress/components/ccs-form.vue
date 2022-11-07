@@ -63,7 +63,7 @@
     </div>
     <div class="row my-2">
       <div class="form-group col">
-        <label for="captcha">Captcha: Wie heißt die nördlichste Stadt Deutschlands?</label>
+        <label for="captcha">Captcha: Aus welcher Stadt kommt der Chaostreff Flensburg e.V.?</label>
         <input type="text" class="form-control" id="captcha" name="captcha" required>
       </div>
     </div>
