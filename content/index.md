@@ -1,5 +1,3 @@
-<HomeContent />
-
 ## FAQ
 ### Über den Beirat
 Um eine möglichst diverse Förderung von Projekten zu ermöglichen, werden die Stipendien nach der Empfehlung des CCS-Beirats vergeben. Der Beirat hat insgesamt 5/7 Mitglieder die ihren Schwerpunkt in verschiedenen Bereichen haben.
