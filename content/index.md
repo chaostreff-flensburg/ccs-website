@@ -74,15 +74,15 @@ Dann schreib uns eine E-Mail an ccs@chaostreff-flensburg.de. Wenn du irgendwelch
 
 ## Stats
 
-Vergebende Gelder: 1.500€
-Nicht vergebende Gelder: 4.500€
+Vergebende Gelder: 3.000€
+Nicht vergebende Gelder: 3.000€
 
 ```chart
 {
   "type": "doughnut",
   "data": {
     "datasets": [{
-      "data": [4500, 1500],
+      "data": [3000, 3000],
       "backgroundColor": [
         "rgba(46, 204, 113)",
         "rgba(50, 0, 255)"
