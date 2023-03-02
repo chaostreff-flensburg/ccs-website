@@ -15,7 +15,7 @@ Der Beirat ist jederzeit unter ccs@chaostreff-flensburg.de zu erreichen, alle Fr
 ### Stipendiumsbedingungen
 
 * Du schreibst im Wintersemester 2022/23 eine Master- oder Diplomarbeit
-    * Der Bearbeitungsbeginn liegt zwischen Oktober 2022 und März 2023
+    * Der Bearbeitungsbeginn liegt zwischen Oktober 2022 und ende März 2023
     * Du kannst Themen einreichen, die noch nicht offiziell bei deiner Universität angemeldet werden, als auch solche, die bereits bestätigt wurden.
     * Wenn du Hilfe bei der Ausformulierung einer Idee möchtest, wende dich gern an uns unter ccs@chaostreff-flensburg.de
 * Du schreibst über ein Thema, das sich die Informationstechnologien dieser Welt genauer anschaut, ihren Einfluss auf die Gesellschaft untersucht und/oder Ideen entwickelt, wie die Welt nach den Grundsätzen der [Hacker\*innen-Ethik](#hacker-innen-ethik) verbesserbar ist.
@@ -63,7 +63,7 @@ Eine Masterarbeit ist eine Abschlussarbeit eines Masterstudienganges nach Vorgab
 Auch Förderung von Diplomarbeiten als Abschlussarbeiten eines Diplomstudienganges sind möglich. 
 
 ### Wie lange kann ich mich bewerben?
-Für die Bewerbung auf ein Stipendium gibt es fürs Wintersemester 2022 keine zeitliche Begrenzung. Sobald alle Gelder vergeben sind, wird es keine Möglichkeit mehr geben, sich zu bewerben. Wie viele Gelder schon vergeben sind, kannst du ganz unter [stats](#stats) sehen.
+Für die Bewerbung auf ein Stipendium gibt es fürs Wintersemester 2022/23 keine zeitliche Begrenzung. Sobald alle Gelder vergeben sind, wird es keine Möglichkeit mehr geben, sich zu bewerben. Wie viele Gelder schon vergeben sind, kannst du ganz unter [stats](#stats) sehen.
 
 ### Ich bin Professor\*in, Teil eines Institut, Wissenschaftler\*in
 Schön dass du hier bist! Wir suchen immer spannende Kontakte. Am besten schreibst du eine kurze E-Mail an ccs@chaostreff-flensburg.de und wir starten ins Gespräch. 
@@ -74,15 +74,15 @@ Dann schreib uns eine E-Mail an ccs@chaostreff-flensburg.de. Wenn du irgendwelch
 
 ## Stats
 
-Vergebende Gelder: 3.000€
-Nicht vergebende Gelder: 3.000€
+Vergebende Gelder: 4.500€
+Nicht vergebende Gelder: 1.500€
 
 ```chart
 {
   "type": "doughnut",
   "data": {
     "datasets": [{
-      "data": [3000, 3000],
+      "data": [1500, 4500],
       "backgroundColor": [
         "rgba(46, 204, 113)",
         "rgba(50, 0, 255)"

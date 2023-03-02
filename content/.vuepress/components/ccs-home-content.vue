@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h1 class="text-center" id="headline">Stipendien - 2022.Winter</h1>
+    <h1 class="text-center" id="headline">Stipendien - 2022/23.Winter</h1>
     <p class="text-center">
       Mit dem “Chaotischen Catalysator Stipendien #CCS” werden fürs
-      Wintersemester 2022 vier Stipendien für Masterarbeiten vergeben. Jedes
+      Wintersemester 2022/23 vier Stipendien für Masterarbeiten vergeben. Jedes
       Stipendium wird in Höhe von insgesamt 1.500€ gefördert.
     </p>
     <div class="row section">

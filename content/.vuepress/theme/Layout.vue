@@ -7,9 +7,9 @@
             <div class="col">
               <h1 class="headLine">
                 Winter <br />
-                2022
+                2022/23
               </h1>
-              <p>Chaotischer Catalysator Stipendien - 2022.Winter</p>
+              <p>Chaotischer Catalysator Stipendien - 2022/23.Winter</p>
             </div>
             <div class="col-auto d-flex flex-column justify-content-end">
               <a

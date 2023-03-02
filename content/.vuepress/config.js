@@ -3,7 +3,7 @@ module.exports = {
     "/": {
       lang: "de-DE",
       title: "Chaotischer Catalysator Stipendien #CCS",
-      description: "Mit dem “Chaotischen Catalysator Stipendien #CCS” werden fürs Wintersemester 2022 vier Stipendien für Masterarbeiten vergeben. Jedes Stipendium wird in Höhe von insgesamt 1.500€ gefördert."
+      description: "Mit dem “Chaotischen Catalysator Stipendien #CCS” werden fürs Wintersemester 2022/23 vier Stipendien für Masterarbeiten vergeben. Jedes Stipendium wird in Höhe von insgesamt 1.500€ gefördert."
     }
   },
   head: [
