@@ -9,7 +9,7 @@ export default (
             <div class="col">
               <h1 class="headLine">
                 {props.text.title_season} <br />
-                2022/23
+                2023
               </h1>
               <p>
                 {props.text.subtitle}
