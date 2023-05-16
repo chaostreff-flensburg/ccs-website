@@ -1,11 +1,21 @@
-FROM node:16-alpine AS builder
+FROM denoland/deno:alpine as builder
 
-COPY . ./
+# chache lume builder for future builds
+WORKDIR /app
+ADD deno.json ./\
+    deno.lock ./\
+    build.ts ./
+RUN deno cache build.ts
 
-RUN npm ci
-RUN npm run build
+# build site
+ADD . .
+RUN deno task build
 
+
+# build nginx webserver
 FROM nginx:alpine
 
+EXPOSE 80
+
 COPY ./docker/frontend/nginx.conf /etc/nginx/nginx.conf
-COPY --from=builder ./dist/ /var/www/html/
+COPY --from=builder /app/_site/ /var/www/html/

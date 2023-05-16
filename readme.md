@@ -1,6 +1,6 @@
 # CCS Website
 
-![build](https://github.com/chaostreff-flensburg/ccs-website/actions/workflows/build-and-deploy.yml/badge.svg) 
+![build](https://github.com/chaostreff-flensburg/ccs-website/actions/workflows/build-and-deploy.yml/badge.svg)
 
 Requirement: Node
 
@@ -25,4 +25,5 @@ docker-compose -p ccs up -d
 
 ---
 
-Made with ♡ at [Chaostreff Flensburg](https://twitter.com/chaos_fl) | [License](./LICENSE)
+Made with ♡ at [Chaostreff Flensburg](https://twitter.com/chaos_fl) |
+[License](./LICENSE)
