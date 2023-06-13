@@ -2,19 +2,18 @@
 
 ![build](https://github.com/chaostreff-flensburg/ccs-website/actions/workflows/build-and-deploy.yml/badge.svg)
 
-Requirement: Node
+Repo der Webseite des #CCS Chaotischer Catalysator Stipendien. [Live Version](https://ccs.chaostreff-flensburg.de/). Gebaut mit [Lume](https://lume.land/) auf Basis von [Deno](https://deno.com).
 
-## Build Setup
+## Framework Setup
 
+Development
 ```bash
-# install dependencies
-$ npm install
+deno task serve
+```
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production
-$ npm run build
+Production
+```bash
+deno task build
 ```
 
 ## start local with docker
