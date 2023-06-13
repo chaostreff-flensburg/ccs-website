@@ -661,7 +661,7 @@
       "postcss-nesting@11.2.1": "postcss-nesting@11.2.1_postcss@8.4.21_postcss-selector-parser@6.0.11",
       "postcss-nesting@11.2.2": "postcss-nesting@11.2.2_postcss@8.4.21_postcss-selector-parser@6.0.11",
       "postcss@8.4.21": "postcss@8.4.21",
-      "preact": "preact@10.13.2",
+      "preact": "preact@10.14.1",
       "preact-render-to-string@5.2.6": "preact-render-to-string@5.2.6_preact@10.12.1",
       "preact-render-to-string@6.0.2": "preact-render-to-string@6.0.2_preact@10.12.1",
       "preact@10.12.1": "preact@10.12.1",
@@ -2030,6 +2030,10 @@
       },
       "preact@10.13.2": {
         "integrity": "sha512-q44QFLhOhty2Bd0Y46fnYW0gD/cbVM9dUVtNTDKPcdXSMA7jfY+Jpd6rk3GB0lcQss0z5s/6CmVP0Z/hV+g6pw==",
+        "dependencies": {}
+      },
+      "preact@10.14.1": {
+        "integrity": "sha512-4XDSnUisk3YFBb3p9WeKeH1mKoxdFUsaXcvxs9wlpYR1wax/TWJVqhwmIWbByX0h7jMEJH6Zc5J6jqc58FKaNQ==",
         "dependencies": {}
       },
       "pretty-format@3.8.0": {
