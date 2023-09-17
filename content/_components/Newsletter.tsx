@@ -10,6 +10,7 @@ export default () => (
         <input
           type="email"
           name="email"
+          aria-label="Deine E-Mail Adresse (Pflichtfeld)"
           required
           placeholder="E-Mail"
           class="form-control"
@@ -19,6 +20,7 @@ export default () => (
         <input
           type="text"
           name="name"
+          aria-label="Deine Name  (optional)"
           placeholder="Name (optional)"
           class="form-control"
         />
@@ -28,9 +30,10 @@ export default () => (
         <input
           hidden
           id="31061"
-          type="checkbox"
+          type="hidden"
           name="l"
           checked
+          aria-hidden="true"
           value="5da15f43-d544-456e-9512-1e4a4ca8c1cd"
         />
       </p>
@@ -38,6 +41,7 @@ export default () => (
       <p>
         <input
           type="submit"
+          aria-label="Jetzt Abbonieren"
           class="btn btn-success"
           value="Abonnieren"
         />
