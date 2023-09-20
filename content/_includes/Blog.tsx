@@ -7,28 +7,15 @@ export default (
         <div class="card border-0 shadow rounded">
           <div class="headerBackground row">
             <div class="col">
-              <h1 class="headLine">
-                {props.text.title_season} <br />
-                2023
+              <h1>
+                Chaotischer Catalysator Stipendien
               </h1>
               <p>
-                {props.text.subtitle}
+                Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren
+                Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln,
+                wie die Welt nach den Grundsätzen der Hacker*innen-Ethik
+                verbesserbar ist.
               </p>
-              <ul class="list-inline">
-                {props.alternates?.map((alt) => (
-                  <li class="list-inline-item">
-                    <a
-                      class={alt.lang === props.lang
-                        ? "fw-bold text-white btn btn-outline-light"
-                        : "text-white btn"}
-                      aria-current={alt.lang === props.lang ? "page" : "false"}
-                      href={alt.url}
-                    >
-                      {alt.lang}
-                    </a>
-                  </li>
-                ))}
-              </ul>
             </div>
             <div class="col-auto d-flex flex-column justify-content-end">
               <a
@@ -36,11 +23,16 @@ export default (
                 target="blank"
                 class="btn btn-outline-light"
               >
-                {props.text.subscribe_newsletter}
+                Newsletter abonnieren
               </a>
             </div>
           </div>
-          <props.comp.Header {...props} />
+          <section class="shadow header">
+            <nav class="navbar">
+              <a href="/">Startseite</a>
+              <a href="/blog/page/1">Blog</a>
+            </nav>
+          </section>
           <div class="card-body content">
             <main class="p-md-4">
               {children}
