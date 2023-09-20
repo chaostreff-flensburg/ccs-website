@@ -37,14 +37,6 @@ jobs:
           push: true
           tags: "ghcr.io/${{ github.repository }}/frontend:latest"
 
-      - name: Build and push Backend
-        uses: docker/build-push-action@v3
-        with:
-          context: .
-          file: docker/api/Dockerfile
-          push: true
-          tags: "ghcr.io/${{ github.repository }}/api:latest"
-
       - name: pull and start new image
         uses: appleboy/ssh-action@master
         with:

@@ -6,19 +6,10 @@ networks:
   ccs-website:
 
 services:
-  api:
-    image: ghcr.io/chaostreff-flensburg/ccs-website/api:latest
-    env_file:
-      - .env
-    restart: unless-stopped
-    networks:
-      - ccs-website
 
   app:
     image: ghcr.io/chaostreff-flensburg/ccs-website/frontend:latest
     restart: unless-stopped
-    depends_on:
-      - api
     networks:
       - web
       - ccs-website
