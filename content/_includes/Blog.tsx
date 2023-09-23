@@ -10,12 +10,6 @@ export default (
               <h1>
                 Chaotischer Catalysator Stipendien
               </h1>
-              <p>
-                Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren
-                Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln,
-                wie die Welt nach den Grundsätzen der Hacker*innen-Ethik
-                verbesserbar ist.
-              </p>
             </div>
             <div class="col-auto d-flex flex-column justify-content-end">
               <a
@@ -30,7 +24,7 @@ export default (
           <section class="shadow header">
             <nav class="navbar">
               <a href="/">Startseite</a>
-              <a href="/blog/page/1">Blog</a>
+              <a class="active" href="/blog/page/1">Blog</a>
             </nav>
           </section>
           <div class="card-body content">

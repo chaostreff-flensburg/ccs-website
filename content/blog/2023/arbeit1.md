@@ -9,14 +9,39 @@ date: "2023-07-08T18:23:39.000Z"
 
 # "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"
 
-**Hochschule:** Hochschule Merseburg
-**Fachbereich:**  Soziale Arbeit, Medien, Kultur
-**Studiengang:**  Angewandte Medien-und Kulturwissenschaft
+<table class="table table-striped">
+<thead>
+<tr>
+<th><strong>Titel:</strong></th>
+<th>Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Untertitel:</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Hochschule:</strong></td>
+<td>Hochschule Merseburg</td>
+</tr>
+<tr>
+<td><strong>Fachbereich:</strong></td>
+<td>Soziale Arbeit, Medien, Kultur</td>
+</tr>
+<tr>
+<td><strong>Studiengang:</strong></td>
+<td>Angewandte Medien-und Kulturwissenschaft</td>
+</tr>
+<tr>
+<td><strong>Geschrieben von:</strong></td>
+<td>Joris Grahl</td>
+</tr>
+</tbody>
+</table>
 
-**Titel:** Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz
-**Geschrieben von:** Joris Grahl
 
-[PDF zum herunterladen](/arbeiten/arbeit-1.pdf)
+[Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-1.pdf)
 
 ## Kurze Zusammenfassung: Selbstwirksamkeit und Empowerment in Makerspaces und FabLabs
 
