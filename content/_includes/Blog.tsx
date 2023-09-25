@@ -24,7 +24,7 @@ export default (
           <section class="shadow header">
             <nav class="navbar">
               <a href="/">Startseite</a>
-              <a class="active" href="/blog/page/1">Blog</a>
+              <a class="active" href="/blog/page/1/">Blog</a>
             </nav>
           </section>
           <div class="card-body content">
