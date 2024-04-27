@@ -31,7 +31,7 @@ date: "2024-03-02T12:23:39.000Z"
 </tr>
 <tr>
 <td><strong>Studiengang:</strong></td>
-<td></td>
+<td>Kinder- und Jugendmedien</td>
 </tr>
 <tr>
 <td><strong>Geschrieben von:</strong></td>
