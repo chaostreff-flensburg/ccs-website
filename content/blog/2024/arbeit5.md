@@ -37,7 +37,7 @@ Datenverarbeitung in (Technik)Dystopien der Gegenwartsliteratur</td>
 </tr>
 <tr>
 <td><strong>Geschrieben von:</strong></td>
-<td>JJulia Steinke</td>
+<td>Julia Steinke</td>
 </tr>
 </tbody>
 </table>
