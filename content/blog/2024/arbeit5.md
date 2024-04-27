@@ -33,7 +33,7 @@ Datenverarbeitung in (Technik)Dystopien der Gegenwartsliteratur</td>
 </tr>
 <tr>
 <td><strong>Studiengang:</strong></td>
-<td></td>
+<td>Germanistik</td>
 </tr>
 <tr>
 <td><strong>Geschrieben von:</strong></td>
