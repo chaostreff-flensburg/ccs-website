@@ -2,7 +2,7 @@
 
 ![build](https://github.com/chaostreff-flensburg/ccs-website/actions/workflows/build-and-deploy.yml/badge.svg)
 
-Repo der Webseite des #CCS Chaotischer Catalysator Stipendien. [Live Version](https://ccs.chaostreff-flensburg.de/). Gebaut mit [Lume](https://lume.land/) auf Basis von [Deno](https://deno.com).
+Repo der Webseite des #CCS Chaotischer Catalysator Stipendien. [Live Version](https://chaos-stipendien.de/). Gebaut mit [Lume](https://lume.land/) auf Basis von [Deno](https://deno.com).
 
 ## Framework Setup
 

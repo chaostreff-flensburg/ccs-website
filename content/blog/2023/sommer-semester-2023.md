@@ -14,7 +14,7 @@ Das Chaotische Catalysatoren Stipendienprogramm geht in die nächste Runde!
 Im Rahmen des Chaotischen Catalysator Stipendienprogramms können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen.
 
 Das Stipendienprogramm ist im Wintersemester 2022/23 erfolgreich gestartet und wird nun fortgesetzt, Bewerbungen sind wieder möglich!
-Alle Informationen und Bewerbungsunterlagen sind unter [ccs.chaostreff-flensburg.de](https://ccs.chaostreff-flensburg.de/) zu finden.
+Alle Informationen und Bewerbungsunterlagen sind unter [chaos-stipendien.de/](https://chaos-stipendien.de/) zu finden.
 
 Die Mittel werden vom Chaos Computer Club e.V. zur Verfügung gestellt und vom Chaostreff Flensburg e.V. vergeben.
 
