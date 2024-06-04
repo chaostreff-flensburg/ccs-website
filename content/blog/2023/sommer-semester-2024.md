@@ -3,7 +3,7 @@ layout: Blog.tsx
 tags:
   - blog
 title: 'Die vierte Runde im Sommersemester 2024 startet'
-excerpt: 'Du kannst dich bis zum 30.10.2024 bewerben'
+excerpt: 'Du kannst dich bis zum 31.10.2024 bewerben'
 date: "2024-05-01T01:23:39.000Z"
 ---
 
