@@ -2,7 +2,7 @@
 layout: Blog.tsx
 tags:
   - blog
-title: 'Zwischen Überwachungskapitalismus und Überwachungsstaat'
+title: 'Arbeit Nr. 5: Zwischen Überwachungskapitalismus und Überwachungsstaat'
 excerpt: 'Geschrieben von: Julia Steinke'
 date: "2024-04-24T18:23:39.000Z"
 ---
