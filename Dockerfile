@@ -17,5 +17,5 @@ FROM nginx:alpine
 
 EXPOSE 80
 
-COPY ./docker/frontend/nginx.conf /etc/nginx/nginx.conf
-COPY --from=builder /app/_site/ /var/www/html/
+ADD ./nginx.conf /etc/nginx/nginx.conf
+COPY --from=builder /app/_site /var/www/html
