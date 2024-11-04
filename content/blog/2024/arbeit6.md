@@ -7,7 +7,7 @@ excerpt: 'Geschrieben von: Sarah Gosten'
 date: "2024-08-23T15:23:39.000Z"
 ---
 
-# "Zwischen Überwachungskapitalismus und Überwachungsstaat"
+# "Robots as Allies Against Sexism in Human-Robot Groups"
 
 <table class="table table-striped">
 <thead>
