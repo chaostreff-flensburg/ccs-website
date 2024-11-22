@@ -2,8 +2,8 @@
 layout: Blog.tsx
 tags:
   - blog
-title: 'Arbeit Nr. 6: Robots as Allies Against Sexism in Human-Robot Groups'
-excerpt: 'Geschrieben von: Sarah Gosten'
+title: "Arbeit Nr. 6: Robots as Allies Against Sexism in Human-Robot Groups"
+excerpt: "Geschrieben von: Sarah Gosten"
 date: "2024-08-23T15:23:39.000Z"
 ---
 
@@ -40,7 +40,6 @@ date: "2024-08-23T15:23:39.000Z"
 </tbody>
 </table>
 
-
 [Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-6_robots-as-allies-against-sexism-in-human-robot-groups.pdf)
 
 ## Abstract
@@ -49,8 +48,7 @@ In a society where gender biases persist, technological advancements are not imm
 able to show the potential of social robots to counter gender stereotypes, this study
 seeks to investigate their role in addressing sexist remarks within group settings.
 Using a mixed methods laboratory approach, the study examined how people react
-when the social robot Pepper intervenes in sexist encounters. Participants (N =
-68) engaged in a game scenario where a sexist comment was uttered, prompting
+when the social robot Pepper intervenes in sexist encounters. Participants (N = 68) engaged in a game scenario where a sexist comment was uttered, prompting
 Pepper to intervene in one of three ways: 1. avoidant, 2. argumentative, or 3.
 morally judgmental. Participants were assigned roles as either the target of the
 comment or the bystander. Results revealed that exposure to sexist remarks elicited

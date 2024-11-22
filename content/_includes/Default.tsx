@@ -1,6 +1,4 @@
-export default (
-  { title, children, ...props },
-) => (
+export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
     <section data-theme="dark" class="layout">
       <main class="container">
@@ -9,18 +7,18 @@ export default (
             <div class="col">
               <h1 class="headLine">
                 {props.text.title_season} <br />
-                2024
+                2024/2025
               </h1>
-              <p>
-                {props.text.subtitle}
-              </p>
+              <p>{props.text.subtitle}</p>
               <ul class="list-inline">
                 {props.alternates?.map((alt) => (
                   <li class="list-inline-item">
                     <a
-                      class={alt.lang === props.lang
-                        ? "fw-bold text-white btn btn-outline-light"
-                        : "text-white btn"}
+                      class={
+                        alt.lang === props.lang
+                          ? "fw-bold text-white btn btn-outline-light"
+                          : "text-white btn"
+                      }
                       aria-current={alt.lang === props.lang ? "page" : "false"}
                       href={alt.url}
                     >
@@ -45,7 +43,9 @@ export default (
             <main class="p-md-4">
               {children}
               <hr />
-              <h2 id="newsletter-anmelden" class="mt-6 mb-2">Newsletter</h2>
+              <h2 id="newsletter-anmelden" class="mt-6 mb-2">
+                Newsletter
+              </h2>
               <props.comp.Newsletter />
             </main>
           </div>
