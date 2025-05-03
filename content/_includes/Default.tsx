@@ -6,10 +6,11 @@ export default ({ title, children, ...props }) => (
           <div class="headerBackground row">
             <div class="col">
               <h1 class="headLine">
-                {props.text.title_season} <br />
-                {props.text.current_semester}
+                Chaotisches <br />
+                Catalysator <br />
+                Stipendium
               </h1>
-              <p>{props.text.subtitle}</p>
+              <p>{props.text.current_semester}</p>
               <ul class="list-inline">
                 {props.alternates?.map((alt) => (
                   <li class="list-inline-item">
