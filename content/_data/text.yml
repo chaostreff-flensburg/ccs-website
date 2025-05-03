@@ -1,3 +1,6 @@
+current_semester.de: "2024/2000.Winter"
+current_semester.en: "2024/2025.Winter"
+
 language_short.de: DE
 language_short.en: EN
 language.de: german
@@ -24,3 +27,11 @@ header_apply.de: Bewerben
 header_apply.en: Apply
 header_apply_link.de: "#bewerben"
 header_apply_link.en: "#apply"
+
+info_currentFundingRound_title.de: "Bald geht es weiter"
+info_currentFundingRound_title.en: "Soon we will continue"
+info_currentFundingRound_body.de: "Aktuell organisieren wir die Finanzierung der nächsten Runde. Dies kann noch einige Tage dauern. Abonniere unseren Newsletter, sende uns eine e-Mail um direkt infomiert zu werden wenn es weiter geht, oder schaue zu einer spären Zeit noch Mal bei uns vorbei."
+info_currentFundingRound_body.en: "We are currently organising the funding for the next round. This may take a few more days. Subscribe to our newsletter, send us an e-mail to be informed directly when it continues, or check back with us at a later date."
+
+funging_period.de: "Aktuelle Förderperiode: "
+funding_period.en: "Current funding period: "

@@ -7,7 +7,7 @@ export default ({ title, children, ...props }) => (
             <div class="col">
               <h1 class="headLine">
                 {props.text.title_season} <br />
-                2024/2025
+                {props.text.current_semester}
               </h1>
               <p>{props.text.subtitle}</p>
               <ul class="list-inline">
@@ -41,6 +41,7 @@ export default ({ title, children, ...props }) => (
           <props.comp.Header {...props} />
           <div class="card-body content">
             <main class="p-md-4">
+              <props.comp.InfoBoxes.FundingTimeInfoBox {...props} />
               {children}
               <hr />
               <h2 id="newsletter-anmelden" class="mt-6 mb-2">
