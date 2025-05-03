@@ -149,6 +149,13 @@ ul {
   }
 }
 
+.infoBox {
+  background-color: $primary;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
 footer {
   section.row {
     justify-content: space-between;
