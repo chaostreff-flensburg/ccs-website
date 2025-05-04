@@ -1,9 +1,9 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
+  - publication
 title: 'Arbeit Nr. 3: "Leben ohne Smartphone – Geographien der Entnetzung in einer mediatisierten Welt"'
-excerpt: 'Geschrieben von: Natalie Hilmers'
+excerpt: "Geschrieben von: Natalie Hilmers"
 date: "2023-09-24T18:23:39.000Z"
 ---
 
@@ -39,6 +39,5 @@ date: "2023-09-24T18:23:39.000Z"
 </tr>
 </tbody>
 </table>
-
 
 [Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-3_leben-ohne-smartphone-geographien-der-entnetzung-in-einer-mediatisierten-welt.pdf)

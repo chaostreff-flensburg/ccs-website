@@ -26,6 +26,8 @@ header_apply.de: Bewerben
 header_apply.en: Apply
 header_apply_link.de: "#bewerben"
 header_apply_link.en: "#apply"
+header_publication.de: "Publikationen"
+header_publication.en: "Publications"
 
 info_currentFundingRound_title.de: "Bald geht es weiter"
 info_currentFundingRound_title.en: "Soon we will continue"

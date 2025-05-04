@@ -1,9 +1,9 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
-title: 'Arbeit Nr. 5: Zwischen Überwachungskapitalismus und Überwachungsstaat'
-excerpt: 'Geschrieben von: Julia Steinke'
+  - publication
+title: "Arbeit Nr. 5: Zwischen Überwachungskapitalismus und Überwachungsstaat"
+excerpt: "Geschrieben von: Julia Steinke"
 date: "2024-04-24T18:23:39.000Z"
 ---
 
@@ -41,7 +41,6 @@ Datenverarbeitung in (Technik)Dystopien der Gegenwartsliteratur</td>
 </tr>
 </tbody>
 </table>
-
 
 [Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-5.pdf)
 

@@ -1,7 +1,7 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
+  - publication
 title: 'Arbeit Nr. 2: "Von der (Un-)Möglichkeit, digital mündig zu sein"'
 excerpt: 'Tracking-Infrastrukturen und die Responsibilisierung
 des Individuums im Internet. Geschrieben von: Mareike Lisker'
@@ -40,6 +40,5 @@ date: "2023-09-03T18:23:39.000Z"
 </tr>
 </tbody>
 </table>
-
 
 [Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-2.pdf)

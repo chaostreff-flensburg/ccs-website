@@ -1,9 +1,9 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
+  - publication
 title: 'Arbeit Nr. 1: "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"'
-excerpt: 'Geschrieben von: Joris Grahl'
+excerpt: "Geschrieben von: Joris Grahl"
 date: "2023-07-08T18:23:39.000Z"
 ---
 
@@ -40,7 +40,6 @@ date: "2023-07-08T18:23:39.000Z"
 </tbody>
 </table>
 
-
 [Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-1.pdf)
 
 ## Kurze Zusammenfassung: Selbstwirksamkeit und Empowerment in Makerspaces und FabLabs
@@ -54,19 +53,25 @@ Bildung in und von offenen Prozessen, in denen sich die Zivilgesellschaft ernst 
 Die Art, wie die Lausitzer Tüfteltour geführt wurde, kann nach dieser Auswertung nur als Engagement einer Gruppe von Early-Adopters in der ländlichen Umgebung gelten. Der Überführung von Open Innovation und Offenen Strukturen in die lokale Bedarfsgemeinschaft fehlt es dem Handlungswillen auf politischer Ebene. Für eine Kreislaufwirtschaft, beziehungsweise ein Umdenken in Richtung Politik der Commons braucht es Aktivismus und aktive, partizipierende Menschen. Diese müssen die Lehren teilen. Die Maker Bewegung ist politisch und aktiv, aber verankert in ehrenamtlichen Strukturen. Durch die Strukturwandelgelder werden jedoch nur zeitlich begrenzte Projekte gefördert, die konstruierte, nicht aus sich selbst gewachsene Räume, wie die untersuchten Workshops, konzipieren. Dies führt, wie Bourdieu schreibt, dazu, dass sich Menschen wiederum aufgrund ihrer sozialen Zugehörigkeit und den Räumen, die ihnen zugeteilt werden, verhalten (Bourdieu 1985: 49). Durch diese konstruierten Räume ergeben sich Abhängigkeiten (sozial, wie auch ökonomisch) und keine organisch gewachsenen Strukturen, die zu Partizipation auf zivilgesellschaftlicher Ebene führen. Unter dem Hauptaugenmerk darauf, dass in dem MoFab-Projekt Partnerschaften für Partizipation aufgebaut werden sollen, um gemeinsam effektiven Outcome zu erzeugen, können die Workshopformate dem Anspruch auf gesellschaftliche Teilhabe nicht gerecht werden. Dies wird auch deutlich, wie Bandura schreibt, dass Sozialreformisten daran glaubten, dass sie die kollektive Anstrengung zu mobilisieren vermögen, die für soziale Veränderungen erforderlich sei (1995: 13). Für Innovationen nötig sind aber resiliente Gefühle der (Selbst-) Effizienz. Dies bedeutet langwierige, aufwändige Projekte mit ungewissen Ergebnissen. Besonders bedeutend sei laut Bandura, dass Innovationen immer auch auf bereits bestehende Präferenzen, soziale Praktiken und damit auf soziale Reaktionen stößen (ebd.). In den für diese Arbeit geführten Interviews wurde diese Sichtweise hinsichtlich Projektarbeit und sozialer Innovationsprozesse deutlich. Beklagt wurde die mangelnde Bereitschaft, Gelder und gut ausgebildete Menschen für die Region zu gewinnen und zu halten. Dies werde durch Ehrenamtliche und somit „billige Arbeitskräfte“ ersetzt. Förderungen für diese Stellen zu bekommen sei in erster Linie durch die begrenzten Kapazitäten erschwert, andererseits durch die Wirrungen der behördlichen Anforderungen, Unterlagen und Förderpraktiken.
 
 Hieraus folgt die Logik, dass Partizipation und langfristiges Engagement in transformatorischen Prozessen, in denen die Menschen sowieso schon in schwierigen sozialen und beruflichen Situationen sind, wenig Zulauf erfährt. Dementsprechend lässt sich schlussendlich nicht mehr die Frage stellen, wie sich ein Strukturwandel von Unten gestalten lässt. Sondern, wie ein Strukturwandel aussehen wird, wenn er nicht von Unten in demokratischen Prozessen mitgetragen wird.
+
 #### <a name="_wykq5cywjei8"></a>Hintergrund zur Forschung
-Untersuchungsgegenstand waren Workshops des Forschungsprojektes *MoFab*, die in Kooperation mit dem Fabmobil e.V. durchgeführt wurden. MoFab ist ein Projekt des Netzwerkes Offener Werkstätten Brandenburg (NOW BB) und wurde durch die Open Knowledge Foundation Deutschland e.V. (OKF), den AWO Regionalverband Brandenburg Süd e.V. (AWO BB Süd), den Wissenschaftsladen Potsdam e.V. (WiLaP) und die Universität Potsdam, mit dem Lehrstuhl für Wirtschaftsinformatik, insbesondere Prozesse und Systeme (LSWI), forschend begleitet und umgesetzt. Das zweijährige Foschungsvorhaben wurde durch das Bundesministerium für Bildung und Forschung (BMBF) gefördert und war Teil des Wartung, Instandhaltung und Reparatur (WI+R) Bündnisses.
+
+Untersuchungsgegenstand waren Workshops des Forschungsprojektes _MoFab_, die in Kooperation mit dem Fabmobil e.V. durchgeführt wurden. MoFab ist ein Projekt des Netzwerkes Offener Werkstätten Brandenburg (NOW BB) und wurde durch die Open Knowledge Foundation Deutschland e.V. (OKF), den AWO Regionalverband Brandenburg Süd e.V. (AWO BB Süd), den Wissenschaftsladen Potsdam e.V. (WiLaP) und die Universität Potsdam, mit dem Lehrstuhl für Wirtschaftsinformatik, insbesondere Prozesse und Systeme (LSWI), forschend begleitet und umgesetzt. Das zweijährige Foschungsvorhaben wurde durch das Bundesministerium für Bildung und Forschung (BMBF) gefördert und war Teil des Wartung, Instandhaltung und Reparatur (WI+R) Bündnisses.
 
 Die Empirie dieser Forschungsarbeit bezieht sich auf drei Workshops, die mittels teilnehmender Beobachtung begleitet und im Anschluss durch vier Interviews mit Teilnehmenden ergänzt wurden. Im Zusammenhang zwischen Selbstwirksamkeit und Digital Literacy werden die individuellen Lernerfahrungen erforscht. Hieraus entstehen vier ineinandergreifende Thesen zum kritischen Umgang mit Technologie und Digitalisierung.
 
 Mit dem Fokus auf Reparaturkultur und Strukturwandel hatte das Projekt zum Ziel, mittels aktivierender Formate und direkte Ansprachen die Bedürfnisse der Menschen in der Region aufzudecken und diese zu einer technologischen Partizipation mittels moderner, digitaler Fertigungsmethoden zu ermächtigen. Hierunter gefasst wird der Anspruch an Wissen und Technologie, dass Selbstermächtigung frei von staatlichen und wirtschaftlichen Ansätzen erfahrbar wird. Grundlage bildet die Idee von offen zugänglicher und gemeinfreier Soft- und Hardware, Informationsfreiheit und dem Legitimitätsanspruch der freien, unabhängigen Entfaltbarkeit Aller mittels offener Technologienutzung.
 
 Gemeinsam mit interessierten Bürger:innen sollten konkrete technische Lösungen für den Alltag der regionalen Akteur:innen entwickelt und in den mobilen FabLabs umgesetzt werden. Die FabLabs stellten als (offene) Werkstätten dabei Werkzeuge und Fachexpertise zur Verfügung. Die zu Projektbeginn ermittelten Bedarfe, Problemfelder und Ideen wurden im weiteren Verlauf an die Community der partizipierenden zivilgesellschaftlichen Akteur:innen herangetragen und durch diese Akteur:innen hin zu einer Open Hardware Projektidee gebracht (Verbund MoFab 2021: 20). In den durch die Praxispartner:innen durchgeführten Workshops stand im Fokus, diese für die lokalen Problemlagen zu sensibilisieren. Wissen und Werte wurden durch die praxisorientierten Anwendungsbeispiele von Innovator:innen in die Bürgerschaft getragen (Inside-Out), damit diese eine „inspirierende Symbiose entwickeln“ (Verbund MoFab 2021: 21).
+
 #### <a name="_8g7hhm4mk84r"></a>Untersuchung und Vorgehensweise
-Die Masterarbeit ist in zwei Untersuchungsabschnitte eingeteilt. Inhalt der Forschung waren drei Workshops aus der Workshopreihe „Lausitzer Tüfteltour“ unter den Titeln *Neue Alte Technik* und *Maximal Regional*. Die Lausitzer Tüfteltour fand im Zeitraum vom 05.03.2022 bis 03.07.2022 statt und wurde vom MoFab Forschungsprojekt in Kooperation mit dem Fabmobil e.V. aus Dresden durchgeführt. Aus dieser Tour wurden drei Termine herangezogen und mittels offener-teilnehmender Beobachtung begleitet. Im Anschluss wurden fünf Teilnehmende aus den Workshops ausgewählt, die im Nachhinein für eine etwa 45-minütige qualitative Befragung bereitstanden.
+
+Die Masterarbeit ist in zwei Untersuchungsabschnitte eingeteilt. Inhalt der Forschung waren drei Workshops aus der Workshopreihe „Lausitzer Tüfteltour“ unter den Titeln _Neue Alte Technik_ und _Maximal Regional_. Die Lausitzer Tüfteltour fand im Zeitraum vom 05.03.2022 bis 03.07.2022 statt und wurde vom MoFab Forschungsprojekt in Kooperation mit dem Fabmobil e.V. aus Dresden durchgeführt. Aus dieser Tour wurden drei Termine herangezogen und mittels offener-teilnehmender Beobachtung begleitet. Im Anschluss wurden fünf Teilnehmende aus den Workshops ausgewählt, die im Nachhinein für eine etwa 45-minütige qualitative Befragung bereitstanden.
 
 Die Auswertung der Forschungsergebnisse basiert auf dem Konzept der Grounded Theory, das von den amerikanischen Soziologen Barney G. Glaser und Anselm L. Strauss (1967) entwickelt wurde. Die vorliegenden Daten aus den Interviews und der Beobachtung wurden induktiv analysiert und mittels generativ entwickelter Kategorien verglichen. Aus diesen Ergebnissen werden im folgenden vier Handlungsempfehlungen für Bildungsangebote an Drittorten vorgestellt.
+
 #### <a name="_pd5dcb9wsjcv"></a>Ergebnisse
+
 Kreativität und offene Ergebnisse bedürfen eines Grundwissens und Sicherheit mit sich selbst, um seine eigenen Möglichkeiten zu entdecken: „Wer Erfahrung hat, immer mehr Kompetenz erlangt und die eigene Komfortzone im Griff hat, kann sich trauen, sie zu verlassen und ‚den einen Schritt mehr‘ zu tun.“ (Pépin 2017: 120) Scheitern und sich trauen zu scheitern müssen dementsprechend auch erst einmal gelernt werden. Herleiten lässt sich das am besten mit Blick auf Platons Höhlengleichnis und der Lebensrealität der Jugendlichen in Forst: „Die Position, die jemand im sozialen Raum einnimmt, das heißt in der Distributionsstruktur der verschiedenen Kapitalsorten, die auch Waren sind, bestimmt auch seine Vorstellungen von diesem Raum und die Positionen, die er in den Kämpfen um dessen Erhalt oder Veränderung bezieht.“ (Bourdieu 1985: 26)
 
 Die Themen der Jugendlichen waren bestimmt von sozialem Misserfolg und Ausgrenzung; im Gegensatz zu den Themen und Projekten der Großstädter:innen in Cottbus. Um diese Menschen nun durch technische Bildung einzubinden und Selbstwirksamkeit erfahren zu lassen, müssen ihre alltäglichen Bedürfnisse erkannt und mit ihnen gemeinsam definiert werden. Für diese Lernprozesse sind sowohl Kommunikations- und Sozialkompetenzen erforderlich, wie auch fachliches Wissen und Kompetenzen in den angewandten Methoden oder Vorwissen im Umgang mit den Maschinen. Um dies zu erforschen müssen Empowerment und Selbstwirksamkeit aber eher als Prozess denn als messbare Instanz gesehen werden.
@@ -123,7 +128,7 @@ Heckl, Wolfgang M. (2015): Die Kultur der Reparatur. München: Goldmann.
 
 Kneuer, Marianne (2017). Politische Kommunikation und digitale Medien in der Demokratie. In: Gabski, Harald/Oberle, Monika/Staufer, Walter (Hg.): Medienkompetenz: Herausforderungen für Politik, politische Bil- dung und Medienbildung. S. 43-52. Bonn: bpb.
 
-Notz, Gisela (2012): Theorien alternativen Wirtschaftens. Fenster in eine andere Welt. 2. erweiterte Auflage. Stuttgart: Schmetterling Verlag. 		
+Notz, Gisela (2012): Theorien alternativen Wirtschaftens. Fenster in eine andere Welt. 2. erweiterte Auflage. Stuttgart: Schmetterling Verlag.
 
 Pépin, Charles (2017): Die Schönheit des Scheiterns. Kleine Philosophie der Niederlage. München: Carl Hanser.
 

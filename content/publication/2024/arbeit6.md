@@ -1,7 +1,7 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
+  - publication
 title: "Arbeit Nr. 6: Robots as Allies Against Sexism in Human-Robot Groups"
 excerpt: "Geschrieben von: Sarah Gosten"
 date: "2024-08-23T15:23:39.000Z"

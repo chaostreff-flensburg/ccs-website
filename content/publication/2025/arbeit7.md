@@ -1,7 +1,7 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
+  - publication
 title: "Arbeit Nr. 7: International Development in the Field of Cybersecurity"
 excerpt: "Geschrieben von: Leoni Papritz"
 date: "2025-01-01T15:23:39.000Z"

@@ -1,7 +1,7 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
+  - publication
 title: "Arbeit Nr. 8: You and Eye"
 excerpt: "Geschrieben von: Katharina Lübeck"
 date: "2025-03-12T15:23:39.000Z"

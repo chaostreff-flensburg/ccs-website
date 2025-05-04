@@ -1,13 +1,13 @@
 ---
 layout: Blog.tsx
 tags:
-  - blog
+  - publication
 title: 'Arbeit Nr. 4: "Kindliche Perspektiven auf Interaktionen mit sozialen Robotern - Eine Repertory Grid Analyse"'
-excerpt: 'Geschrieben von: Carolin Kinzl'
+excerpt: "Geschrieben von: Carolin Kinzl"
 date: "2024-03-02T12:23:39.000Z"
 ---
 
-# "Kindliche Perspektiven auf Interaktionen mit sozialen Robotern 
+# "Kindliche Perspektiven auf Interaktionen mit sozialen Robotern
 
 <table class="table table-striped">
 <thead>
@@ -39,6 +39,5 @@ date: "2024-03-02T12:23:39.000Z"
 </tr>
 </tbody>
 </table>
-
 
 [Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-4_kindliche-perspektiven-auf-interaktionen-mit-sozialen-robotern.pdf)
