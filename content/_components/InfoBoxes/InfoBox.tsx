@@ -3,7 +3,7 @@ const styles = {
     padding: "20px",
     margin: "35px 10px",
     borderRadius: "5px",
-    backgroundColor: "#9340ff",
+    backgroundColor: "#4f233a",
   },
   heading: {
     marginTop: "0",
