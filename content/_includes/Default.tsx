@@ -42,8 +42,15 @@ export default ({ title, children, ...props }) => (
           <props.comp.Header {...props} />
           <div class="card-body content">
             <main class="p-md-4">
-              <props.comp.InfoBoxes.FundingTimeInfoBox {...props} />
-              {children}
+              <div class="homeContent">
+                <props.comp.InfoBoxes.FundingTimeInfoBox {...props} />
+                <props.comp.Modules.Intro {...props} />
+                <props.comp.Modules.InfoTextList {...props} />
+                <props.comp.Modules.GetToKnowUs {...props} />
+                <props.comp.Modules.ApplyNow {...props} />
+                <props.comp.Modules.Impuls {...props} />
+                {children}
+              </div>
               <hr />
               <h2 id="newsletter-anmelden" class="mt-6 mb-2">
                 Newsletter

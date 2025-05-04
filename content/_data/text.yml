@@ -1,4 +1,4 @@
-current_semester.de: "2024/2000.Winter"
+current_semester.de: "2024/2025.Winter"
 current_semester.en: "2024/2025.Winter"
 
 language_short.de: DE
@@ -9,8 +9,7 @@ startpage.de: Startseite
 startpage.en: Home
 title_season.de: Sommer
 title_season.en: Summer
-subtitle.de: Chaotischer Catalysator Stipendien - 2024/2025.Winter
-subtitle.en: Chaotic Catalyst Scholarships - 2024/2025.Winter
+
 subscribe_newsletter.de: Newsletter abonnieren
 subscribe_newsletter.en: Subscribe to newsletter
 footer_imprint.de: Impressum
@@ -33,5 +32,76 @@ info_currentFundingRound_title.en: "Soon we will continue"
 info_currentFundingRound_body.de: "Aktuell organisieren wir die Finanzierung der nächsten Runde. Dies kann noch einige Tage dauern. Abonniere unseren Newsletter, sende uns eine e-Mail um direkt infomiert zu werden wenn es weiter geht, oder schaue zu einer spären Zeit noch Mal bei uns vorbei."
 info_currentFundingRound_body.en: "We are currently organising the funding for the next round. This may take a few more days. Subscribe to our newsletter, send us an e-mail to be informed directly when it continues, or check back with us at a later date."
 
-funging_period.de: "Aktuelle Förderperiode: "
-funding_period.en: "Current funding period: "
+intro_title.de: "Catalysiere deine Masterarbeit"
+intro_title.en: "Catalyse your Master's thesis"
+intro_text.de: "Mit dem Chaotischen Katalysator Stipendium (CCS) werden jedes Semester vier ausgewählte Masterarbeiten mit jeweils 1.500 € gefördert. Unser Ziel ist es dabei, die Forschung zu Technologien mit gesellschaftlichem Weitblick zu fördern, offene Daten bereitzustellen und Studierende, die mit ihrer Arbeit einen gesellschaftlichen Mehrwert bieten, zu unterstützen."
+intro_text.en: "The Chaotic Catalyst Scholarship (CCS) supports four selected Master's theses each semester with €1,500 each. Our aim is to promote research into technologies with a social vision, provide open data and support students whose work offers added social value."
+
+info_title1.de: "Interesse?"
+info_title1.en: "Interested?"
+info_text1.de: "Uns ist es egal, aus welchem Fachbereich du kommst oder welche Fachrichtung du studierst. Wir suchen nach Themen, die Informationstechnologien dieser Welt genauer betrachten, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt verbessert werden kann. Egal aus welcher Perspektive. Mit diesem Stipendium wollen wir dafür sorgen, dass deine Arbeitsergebnisse nicht in den geheimen Schubladen eines Konzerns landen, sondern frei zugänglich sind."
+info_text1.en: "We don't care what department you come from or what subject you are studying. We are looking for topics that take a closer look at the world's information technologies, analyse their impact on society and develop ideas on how the world can be improved. No matter what your perspective. With this scholarship, we want to ensure that the results of your work do not end up in the secret drawers of a corporation, but are freely accessible."
+info_title2.de: "Mehr als finanzielle Unterstützung"
+info_title2.en: "More than just financial support"
+info_text2.de: "Neben der finanziellen Unterstützung des Stipendiums stehen wir dir mit unserem Netzwerk zur Seite. Als Stipendiat*in stehen dir unsere Mentor*innen aus unterschiedlichen fachlichen Perspektiven und Hintergründen zur Verfügung, auch noch nach deiner Abgabe. Profitiere von unseren Alumni-Aktionen und Stipendiumstreffen. Nutze das Netzwerk des Chaos Computer Clubs, um dein Thema auf Events in Form von Vorträgen und Workshops weiterzubringen. Lass uns gemeinsam Mehrwert über deine Masterarbeit hinaus schaffen."
+info_text2.en: "In addition to the financial support of the scholarship, we will also support you with our network. As a scholarship holder, our mentors from different professional perspectives and backgrounds are available to you, even after you have submitted your application. Benefit from our alumni events and scholarship meetings. Use the Chaos Computer Club network to promote your topic at events in the form of lectures and workshops. Let's create added value together beyond your Master's thesis."
+info_title3.de: "Wie kann ich mich bewerben?"
+info_title3.en: "How do I apply?"
+info_text3.de: "In nur wenigen Klicks geht es bei uns zum Stipendium. Nimm dir vorher einmal die Zeit, unsere Stipendiumsbedingungen durchzulesen. Im Anschluss kannst du unser Formular ausfüllen. Mehr braucht es bei uns nicht. Achte bei deiner Bewerbung darauf, dass diese auch für fachfremde Personen verständlich ist. Der Beirat prüft bei jeder Bewerbung die Sinnhaftigkeit (Thema, Methodik, Umfang, Machbarkeit usw.) sowie, ob ein gesellschaftlicher Mehrwert erkennbar ist."
+info_text3.en: "Your scholarship is just a few clicks away. Take the time to read through our scholarship conditions first. You can then fill out our form. That's all we need. Make sure that your application is also understandable for people from outside your field of study. For each application, the advisory board checks whether it makes sense (topic, methodology, scope, feasibility, etc.) and whether there is recognisable added value for society."
+info_button1.de: "Stipendiumsbedingungen"
+info_button1.en: "Scholarship conditions"
+info_button2.de: "Bewerben"
+info_button2.en: "Apply"
+
+getToKnowUs_title.de: "Offene Sprechstunde"
+getToKnowUs_title.en: "Open consultation hours"
+getToKnowUs_text.de: "Du bist dir unsicher ob das Stipendium für dich in Frage kommt? Konnten wir nicht alle deine Fragen beantworten? Oder hast du Interesse zu erfahren wer hinter dem Projekt steckt? Dann lerne uns online in einem Video-Call kennen. Egal ob Student*in, Professor*in oder allgemein Interessierte*r, du bist herzlich willkommen. Eine Anmeldung ist nicht erforderlich. Schaue gerne vorbei. Die nächsten Termine sind wie folgt:"
+getToKnowUs_text.en: "Are you unsure whether the scholarship is right for you? Were we not able to answer all your questions? Or are you interested in finding out who is behind the project? Then get to know us online in a video call. Whether you are a student, professor or generally interested, you are very welcome. Registration is not required. Feel free to drop by. The next dates are as follows:"
+getToKnowUs_date1.de: "Donnerstag 29.05.2025 19:00 - 20:00 Uhr"
+getToKnowUs_date1.en: "Thursday 29.05.2025 19:00 - 20:00"
+getToKnowUs_date2.de: "Montag 09.06.2025 19:00 - 20:00 Uhr"
+getToKnowUs_date2.en: "Monday 09.06.2025 19:00 - 20:00"
+getToKnowUs_buttonText.de: "Zum VideoCall"
+getToKnowUs_buttonText.en: "Join VideoCall"
+
+applyNow_title.de: "Bewirb dich jetzt!"
+applyNow_title.en: "Apply Now!"
+applyNow_text.de: "Um dich auf ein Stipendium zu bewerben musst du das Formular im CCS Bewerbungs-Tool ausfüllen. Bitte lies dir vorher die Stipendiumsbedingungen durch. Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir dir leider keine ausführlichen Begründungen liefern. Viel Erfolg!"
+applyNow_text.en: "To apply for a scholarship, you must complete the form in the CCS application tool. Please read the scholarship conditions beforehand. Once your application has been received, it will be made available to the advisory board. We will try to confirm or reject your application as quickly as possible. In the latter case, you can receive a brief explanation if you wish. Due to the voluntary nature of the advisory board, we are unfortunately unable to provide you with detailed reasons. Good luck!"
+applyNow_buttonText.de: "Bewerben"
+applyNow_buttonText.en: "Apply"
+
+impuls_title.de: "Noch auf Ideen-Suche?"
+impuls_title.en: "Still searching for ideas?"
+impuls_heading1.de: "Impulsfragen"
+impuls_heading1.en: "Impulse questions"
+impuls_text1.de: "Welchen Einfluss hat die Informationstechnologie auf das Wahlverhalten der Bürger*innen? Entwickeln sich Unternehmen, die auf Open Data setzen, besser als andere? Inwieweit ist Datenschutz relevant für generelle Konsumentscheidungen? Welchen Mehrwert bringt Open Data für xyz? Wie kann man Schutz vor Überwachung künstlerisch umsetzen?"
+impuls_text1.en: "What influence does information technology have on the voting behaviour of citizens? Do companies that rely on open data perform better than others? To what extent is data protection relevant for general consumer decisions? What added value does open data bring for xyz? How can protection against surveillance be realised artistically?"
+impuls_heading2.de: "Hacker*innen-Ethik"
+impuls_heading2.en: "CCC Hacker Ethics"
+impuls_text2.de: "Der Chaos Computer Club hat mit der Häcker*innen Ethik als Basis des ethischen Hacken. Ihre Prinzipien sind heute noch genauso relevant wie zu ihrer Niederschrift in den 1980ern. Ihre Werte prägen uns auch im Stipendium."
+impuls_text2.en: "The Chaos Computer Club has developed the hacker ethic as the basis for ethical hacking. Its principles are just as relevant today as they were when they were written in the 1980s. Their values also characterise our scholarship."
+impuls_heading3.de: "Die Arbeiten der letzten Jahre"
+impuls_heading3.en: "What has already been funded"
+impuls_text3.de: "Auf der Seite unserer Veröffentlichungen findest du eine Übersicht der von uns geförderten Arbeiten. Hier kannst du einen Überblick erhalten welche Themen den Beirat bereits überzeugen konnten."
+impuls_text3.en: "On our publications page you will find an overview of the work we have sponsored. Here you can get an overview of the topics that have already convinced the advisory board."
+
+hackerEthic_title.de: "Hacker*innen-Ethik"
+hackerEthic_title.en: "CCC Hacker Ethics"
+hackerEthic_point1.de: "Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein."
+hackerEthic_point1.en: "Access to computers and anything that can show you how this world works should be unlimited and complete."
+hackerEthic_point2.de: "Alle Informationen müssen frei sein."
+hackerEthic_point2.en: "All information must be free."
+hackerEthic_point3.de: "Mißtraue Autoritäten – fördere Dezentralisierung."
+hackerEthic_point3.en: "Mistrust authorities - promote decentralisation."
+hackerEthic_point4.de: "Beurteile eine*n Hacker*in nach dem, was er*sie tut, und nicht nach üblichen Kriterien wie Aussehen, Alter, Herkunft, Spezies, Geschlecht oder gesellschaftliche Stellung."
+hackerEthic_point4.en: "Judge a hacker by what they do and not by the usual criteria such as appearance, age, origin, species, gender or social status."
+hackerEthic_point5.de: "Man kann mit einem Computer Kunst und Schönheit schaffen."
+hackerEthic_point5.en: "You can create art and beauty with a computer."
+hackerEthic_point6.de: "Computer können dein Leben zum Besseren verändern."
+hackerEthic_point6.en: "Computers can change your life for the better."
+hackerEthic_point7.de: "Mülle nicht in den Daten anderer Leute."
+hackerEthic_point7.en: "Don't mess around with other people's data."
+hackerEthic_point8.de: "Öffentliche Daten nützen, private Daten schützen."
+hackerEthic_point8.en: "Use public data, protect private data."
