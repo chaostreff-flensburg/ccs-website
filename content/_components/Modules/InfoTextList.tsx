@@ -46,12 +46,12 @@ export default ({ ...props }) => (
       }
       addOn={
         <div style="display:flex; gap:10px;">
-          <props.comp.Button link={"/#stipendiumsbedingungen"}>
+          <props.comp.Buttons.OutlineButton link={"/#stipendiumsbedingungen"}>
             {props.text.info_button1}
-          </props.comp.Button>
-          <props.comp.Button link={"/#bewerben"}>
+          </props.comp.Buttons.OutlineButton>
+          <props.comp.Buttons.Button link={"/#apply"}>
             {props.text.info_button2}
-          </props.comp.Button>
+          </props.comp.Buttons.Button>
         </div>
       }
     />

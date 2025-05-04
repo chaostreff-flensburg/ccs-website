@@ -10,8 +10,8 @@ export default ({ ...props }) => (
         </ul>
       </div>
     </p>
-    <props.comp.Button link="https://meet.ffmuc.net/ccs-info">
+    <props.comp.Buttons.OutlineButton link="https://meet.ffmuc.net/ccs-info">
       {props.text.getToKnowUs_buttonText}
-    </props.comp.Button>
+    </props.comp.Buttons.OutlineButton>
   </section>
 );
