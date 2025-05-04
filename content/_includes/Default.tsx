@@ -1,3 +1,11 @@
+import HorizontalLine from "../_components/HorizontalLine.tsx";
+import GetToKnowUs from "../_components/Modules/GetToKnowUs.tsx";
+import Impuls from "../_components/Modules/Impuls.tsx";
+import InfoTextList from "../_components/Modules/InfoTextList.tsx";
+import Intro from "../_components/Modules/Intro.tsx";
+import FundingTimeInfoBox from "../_components/InfoBoxes/FundingTimeInfoBox.tsx";
+import ApplyNow from "../_components/Modules/ApplyNow.tsx";
+
 export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
     <section data-theme="dark" class="layout">
@@ -43,12 +51,16 @@ export default ({ title, children, ...props }) => (
           <div class="card-body content">
             <main class="p-md-4">
               <div class="homeContent">
-                <props.comp.InfoBoxes.FundingTimeInfoBox {...props} />
-                <props.comp.Modules.Intro {...props} />
-                <props.comp.Modules.InfoTextList {...props} />
-                <props.comp.Modules.GetToKnowUs {...props} />
-                <props.comp.Modules.ApplyNow {...props} />
-                <props.comp.Modules.Impuls {...props} />
+                <FundingTimeInfoBox text={props.text} />
+                <Intro text={props.text} />
+                <InfoTextList text={props.text} />
+                <HorizontalLine />
+                <GetToKnowUs text={props.text} />
+                <HorizontalLine />
+                <ApplyNow text={props.text} />
+                <HorizontalLine />
+                <Impuls text={props.text} />
+                <HorizontalLine />
                 {children}
               </div>
               <hr />

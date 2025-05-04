@@ -24,7 +24,7 @@ header_about_the_advisory_board_link.de: "#ueber-den-beirat"
 header_about_the_advisory_board_link.en: "#about-the-advisory-board"
 header_apply.de: Bewerben
 header_apply.en: Apply
-header_apply_link.de: "#bewerben"
+header_apply_link.de: "#apply"
 header_apply_link.en: "#apply"
 header_publication.de: "Publikationen"
 header_publication.en: "Publications"
@@ -88,6 +88,8 @@ impuls_heading3.de: "Die Arbeiten der letzten Jahre"
 impuls_heading3.en: "What has already been funded"
 impuls_text3.de: "Auf der Seite unserer Veröffentlichungen findest du eine Übersicht der von uns geförderten Arbeiten. Hier kannst du einen Überblick erhalten welche Themen den Beirat bereits überzeugen konnten."
 impuls_text3.en: "On our publications page you will find an overview of the work we have sponsored. Here you can get an overview of the topics that have already convinced the advisory board."
+impuls_buttonText.de: "Zu den Publikationen"
+impuls_buttonText.en: "To publications"
 
 hackerEthic_title.de: "Hacker*innen-Ethik"
 hackerEthic_title.en: "CCC Hacker Ethics"

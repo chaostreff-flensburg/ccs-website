@@ -20,11 +20,11 @@ export default ({ title, children, ...props }) => (
           <section class="shadow header">
             <nav class="navbar">
               <a href="/">Startseite</a>
-              <a href="/team/">Team</a>
-              <a href="/blog/page/1/">Blog</a>
-              <a class="active" href="/publication/page/1/">
-                Publikationen
+              <a href="/team/" class="active">
+                Team
               </a>
+              <a href="/blog/page/1/">Blog</a>
+              <a href="/publication/page/1/">Publikationen</a>
             </nav>
           </section>
           <div class="card-body content">

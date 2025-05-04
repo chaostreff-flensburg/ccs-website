@@ -11,6 +11,12 @@ const pages = [
       title: "Publication",
     },
   },
+  {
+    data: {
+      url: "/team/",
+      title: "Team",
+    },
+  },
 ];
 
 export default ({ search, ...props }) => (

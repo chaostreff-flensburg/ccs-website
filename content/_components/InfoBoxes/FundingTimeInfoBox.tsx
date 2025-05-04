@@ -1,14 +1,14 @@
+import InfoBox from "./InfoBox.tsx";
+
 const styles = {
   body: {
     marginBottom: "0",
   },
 };
-export default function ({ ...props }) {
+export default function ({ text }) {
   return (
-    <props.comp.InfoBoxes.InfoBox
-      title={props.text.info_currentFundingRound_title}
-    >
-      <p style={styles.body}>{props.text.info_currentFundingRound_body}</p>
-    </props.comp.InfoBoxes.InfoBox>
+    <InfoBox title={text.info_currentFundingRound_title}>
+      <p style={styles.body}>{text.info_currentFundingRound_body}</p>
+    </InfoBox>
   );
 }

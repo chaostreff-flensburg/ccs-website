@@ -1,11 +1,16 @@
-export default ({ ...props }) => (
+import TextImage from "../Layouts/TextImage.tsx";
+import Image from "../Image.tsx";
+import Button from "../Buttons/Button.tsx";
+import OutlineButton from "../Buttons/OutlineButton.tsx";
+
+export default ({ text }) => (
   <>
-    <props.comp.Layouts.TextImage
-      title={props.text.info_title1}
-      text={props.text.info_text1}
+    <TextImage
+      title={text.info_title1}
+      text={text.info_text1}
       textPosition="left"
       image={
-        <props.comp.Image
+        <Image
           src="/media/41366316404_6da486eb34_c.jpg"
           alt="Baum mit leuchtenden LED Stripes"
           copyrightText="Leah Oswald"
@@ -15,12 +20,12 @@ export default ({ ...props }) => (
         />
       }
     />
-    <props.comp.Layouts.TextImage
-      title={props.text.info_title2}
-      text={props.text.info_text2}
+    <TextImage
+      title={text.info_title2}
+      text={text.info_text2}
       textPosition="right"
       image={
-        <props.comp.Image
+        <Image
           src="/media/48014359776_c90ee30f82_c.jpg"
           alt="Mechanischer gehender Roboter aus Holzbauteilen"
           copyrightText="Leah Oswald"
@@ -30,12 +35,12 @@ export default ({ ...props }) => (
         />
       }
     />
-    <props.comp.Layouts.TextImage
-      title={props.text.info_title3}
-      text={props.text.info_text3}
+    <TextImage
+      title={text.info_title3}
+      text={text.info_text3}
       textPosition="left"
       image={
-        <props.comp.Image
+        <Image
           src="/media/49287961713_3a33cbd1e4_c.jpg"
           alt="Fairydust Rakete in der Leipzeiger Messe Eingangshalle"
           copyrightText="Leah Oswald"
@@ -45,13 +50,14 @@ export default ({ ...props }) => (
         />
       }
       addOn={
-        <div style="display:flex; gap:10px;">
-          <props.comp.Buttons.OutlineButton link={"/#stipendiumsbedingungen"}>
-            {props.text.info_button1}
-          </props.comp.Buttons.OutlineButton>
-          <props.comp.Buttons.Button link={"/#apply"}>
-            {props.text.info_button2}
-          </props.comp.Buttons.Button>
+        <div
+          style="display: flex; flex-direction: column;
+        gap: 10px; max-width: fit-content;"
+        >
+          <OutlineButton link={"/#stipendiumsbedingungen"}>
+            {text.info_button1}
+          </OutlineButton>
+          <Button link={"/#apply"}>{text.info_button2}</Button>
         </div>
       }
     />

@@ -1,17 +1,19 @@
-export default ({ ...props }) => (
+import OutlineButton from "../Buttons/OutlineButton.tsx";
+
+export default ({ text }) => (
   <section>
-    <h2 class="text-primary text-center">{props.text.getToKnowUs_title}</h2>
+    <h2 class="text-primary text-center">{text.getToKnowUs_title}</h2>
     <p>
-      {props.text.getToKnowUs_text}
+      {text.getToKnowUs_text}
       <div class="col-md-7">
         <ul>
-          <li>{props.text.getToKnowUs_date1}</li>
-          <li>{props.text.getToKnowUs_date2}</li>
+          <li>{text.getToKnowUs_date1}</li>
+          <li>{text.getToKnowUs_date2}</li>
         </ul>
       </div>
     </p>
-    <props.comp.Buttons.OutlineButton link="https://meet.ffmuc.net/ccs-info">
-      {props.text.getToKnowUs_buttonText}
-    </props.comp.Buttons.OutlineButton>
+    <OutlineButton link="https://meet.ffmuc.net/ccs-info">
+      {text.getToKnowUs_buttonText}
+    </OutlineButton>
   </section>
 );
