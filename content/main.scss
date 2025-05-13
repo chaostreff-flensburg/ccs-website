@@ -234,6 +234,10 @@ a{
 }
 
 /* team.css */
+.team-section {
+  padding: 20px 0px;
+}
+
 .team-container {
   display: flex;
   flex-direction: column;
@@ -243,9 +247,12 @@ a{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .team-card {
+  display: flex;
+  flex-direction: column;
   max-width: 600px;
   margin: 15px;
   border-radius: 8px;
@@ -256,6 +263,7 @@ a{
 
 .team-card-body {
   margin: 25px 25px;
+  flex-grow: 2;
 }
 
 .team-name {
@@ -267,6 +275,8 @@ a{
 
 .team-image {
   width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
 }
 
 .team-title {
@@ -276,19 +286,59 @@ a{
   font-size: smaller;
 }
 
+.team-info {
+  color: #333;
+  font-size: smaller;
+  align-self: center;
+  padding: 5px;
+  border-top: 1px solid #111623;
+  margin-bottom: 0 !important;
+  width: 100%;
+  line-height: normal;
+  text-align: center;
+}
+
+.team-thesis {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+  font-size: smaller;
+  line-height: normal;
+  margin-bottom: 5px !important;
+}
+
 .team-socialLinks {
   list-style: none;
   padding: 0;
   margin-bottom: 15px;
 }
 
+.team-year {
+  background-color: #c293ff;
+  color: white;
+  text-align: center;
+  font-size: x-large;
+  padding: 6px;
+  font-weight: 700;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin-bottom: 0 !important;
+}
+
 .team-link {
-  text-decoration: none;
+  text-decoration: transparent;
   background-color: #9340ff;
   padding: 2px 10px;
   border-radius: 5px;
   color: #fff !important;
   font-size: medium;
+}
+
+.team-linkUnderline {
+  color: #9340ff !important;
+  padding: 2px 0px;
+  font-size: medium;
+
 }
 
 .team-content {
@@ -307,13 +357,36 @@ a{
     align-items: center;
   }
 
+  .team-image {
+    width: 50%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    object-fit: cover;
+  }
+
+  .team-year {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 0px;
+    margin: 0;
+    writing-mode: vertical-lr;
+  }
+
   .team-card {
     width: 100%;
+    flex-direction: row;
   }
 
   .button-group {
     flex-direction: column;
     display: flex;
     gap: 10px;
+  }
+
+  .team-info {
+    border-left: 1px solid #111623;
+    border-top: 0px;
+    line-height: normal;
+    text-align: start;
   }
 }

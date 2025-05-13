@@ -4,9 +4,6 @@ export default ({ text }) => (
       <a href="#headline" class="active">
         {text.startpage}
       </a>
-      <a href={text.header_about_the_advisory_board_link}>
-        {text.header_about_the_advisory_board}
-      </a>
       <a href={text.header_apply_link}>{text.header_apply}</a>
       <a href="#faq">F.A.Q.</a>
       <a href="/team/">Team</a>
