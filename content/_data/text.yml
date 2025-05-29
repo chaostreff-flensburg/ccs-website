@@ -1,5 +1,5 @@
-current_semester.de: "2024/2025.Winter"
-current_semester.en: "2024/2025.Winter"
+semester.de: "Förderperiode"
+semester.en: "Funding period"
 
 language_short.de: DE
 language_short.en: EN
@@ -9,6 +9,9 @@ startpage.de: Startseite
 startpage.en: Home
 title_season.de: Sommer
 title_season.en: Summer
+
+newsletter.de: "Newsletter"
+newsletter.en: "Newsletter"
 
 subscribe_newsletter.de: Newsletter abonnieren
 subscribe_newsletter.en: Subscribe to newsletter
@@ -27,22 +30,24 @@ header_publication.en: "Publications"
 
 info_currentFundingRound_title.de: "Bald geht es weiter"
 info_currentFundingRound_title.en: "Soon we will continue"
-info_currentFundingRound_body.de: "Aktuell organisieren wir die Finanzierung der nächsten Runde. Dies kann noch einige Tage dauern. Abonniere unseren Newsletter, sende uns eine e-Mail um direkt infomiert zu werden wenn es weiter geht, oder schaue zu einer spären Zeit noch Mal bei uns vorbei."
-info_currentFundingRound_body.en: "We are currently organising the funding for the next round. This may take a few more days. Subscribe to our newsletter, send us an e-mail to be informed directly when it continues, or check back with us at a later date."
+info_currentFundingRound_body.de: "Die nächste Förderperiode beginnt in Kürze.\nDies kann noch einige Tage dauern. Abonniere unseren Newsletter, sende uns eine Mail um direkt informiert zu werden wenn es weiter geht, oder schaue zu einer späteren Zeit noch Mal bei uns vorbei."
+info_currentFundingRound_body.en: "The next funding period will begin shortly.\nThis may take a few more days. Subscribe to our newsletter, send us an email to be informed directly when the next round of funding starts, or check back with us at a later date."
 
 intro_title.de: "Catalysiere deine Masterarbeit"
 intro_title.en: "Catalyse your Master's thesis"
-intro_text.de: "Mit dem Chaotischen Katalysator Stipendium (CCS) werden jedes Semester vier ausgewählte Masterarbeiten mit jeweils 1.500 € gefördert. Unser Ziel ist es dabei, die Forschung zu Technologien mit gesellschaftlichem Weitblick zu fördern, offene Daten bereitzustellen und Studierende, die mit ihrer Arbeit einen gesellschaftlichen Mehrwert bieten, zu unterstützen."
-intro_text.en: "The Chaotic Catalyst Scholarship (CCS) supports four selected Master's theses each semester with €1,500 each. Our aim is to promote research into technologies with a social vision, provide open data and support students whose work offers added social value."
+intro_text.de: "Mit dem Chaotischen Catalysator Stipendium (CCS) werden jedes Semester vier ausgewählte Masterarbeiten mit jeweils 1.500 € gefördert. Unser Ziel ist es dabei, die Forschung zu Technologien mit gesellschaftlichem Weitblick, das Nutzen von offene Daten zu fördern und die Ergebnisse selbst ohne Zugangsbeschränkung zu veröffentlichen. Dafür wollen wir wissenschaftliche Arbeiten, die gesellschaftlichen Mehrwert bieten, finanziell und mit unserer Expertise unterstützen."
+intro_text.en: "The Chaotic Catalyser Scholarship (CCS) supports four selected Master's theses each semester with €1,500 each. Our aim is to promote research into technologies with a social vision, to encourage the use of open data and to publish the results themselves without access restrictions. We want to support and promote scientific work that offers added social value."
+intro_text2.de: "Uns ist es egal, aus welchem Fachbereich du kommst oder welche Fachrichtung du studierst. Wenn dein Thema Informationstechnologien nutzt, untersucht, oder analysiert um einen positiven Wandel herbeizuführen, sind wir interessiert!"
+intro_text2.en: "We don't care what subject area you come from or what subject you are studying. If your subject uses, investigates or analyses information technologies to bring about positive change, we are interested!"
 
-info_title1.de: "Interesse?"
-info_title1.en: "Interested?"
-info_text1.de: "Uns ist es egal, aus welchem Fachbereich du kommst oder welche Fachrichtung du studierst. Wir suchen nach Themen, die Informationstechnologien dieser Welt genauer betrachten, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt verbessert werden kann. Egal aus welcher Perspektive. Mit diesem Stipendium wollen wir dafür sorgen, dass deine Arbeitsergebnisse nicht in den geheimen Schubladen eines Konzerns landen, sondern frei zugänglich sind."
-info_text1.en: "We don't care what department you come from or what subject you are studying. We are looking for topics that take a closer look at the world's information technologies, analyse their impact on society and develop ideas on how the world can be improved. No matter what your perspective. With this scholarship, we want to ensure that the results of your work do not end up in the secret drawers of a corporation, but are freely accessible."
-info_title2.de: "Mehr als finanzielle Unterstützung"
-info_title2.en: "More than just financial support"
-info_text2.de: "Neben der finanziellen Unterstützung des Stipendiums stehen wir dir mit unserem Netzwerk zur Seite. Als Stipendiat*in stehen dir unsere Mentor*innen aus unterschiedlichen fachlichen Perspektiven und Hintergründen zur Verfügung, auch noch nach deiner Abgabe. Profitiere von unseren Alumni-Aktionen und Stipendiumstreffen. Nutze das Netzwerk des Chaos Computer Clubs, um dein Thema auf Events in Form von Vorträgen und Workshops weiterzubringen. Lass uns gemeinsam Mehrwert über deine Masterarbeit hinaus schaffen."
-info_text2.en: "In addition to the financial support of the scholarship, we will also support you with our network. As a scholarship holder, our mentors from different professional perspectives and backgrounds are available to you, even after you have submitted your application. Benefit from our alumni events and scholarship meetings. Use the Chaos Computer Club network to promote your topic at events in the form of lectures and workshops. Let's create added value together beyond your Master's thesis."
+info_title1.de: "Wir stärken Dir den Rücken"
+info_title1.en: "We have your back"
+info_text1.de: "Nicht nur eine finanzielle Belastung lastet häufig auf den Schultern eines Studiums. Manchmal sind es Konflikte in der Betreuung, ein Feststecken in der Recherche, eine Blockade beim Schreiben oder fehlende Erfahrung mit der Methodik.\nWir stehen dir so gut es geht schon während der Arbeit zur Seite. Vor, während und nach deiner Masterarbeit."
+info_text1.en: "It's not just a financial burden that often weighs on us during our studies. Sometimes it's conflicts in supervision, getting stuck in research, a block in writing or a lack of experience with the methodology.\nWe will support you as best we can during your work. Before, during and after your master's thesis."
+info_title2.de: "Mach mehr aus deiner Arbeit"
+info_title2.en: "Get more out of your thesis"
+info_text2.de: "Wäre es nicht Schade wenn deine Masterarbeit am Ende nur in einer Schublade verstaubt?\nWir wollen mehr aus deinen Ergebnissen raus holen. Nach deiner Abgabe helfen wir dir, dass deine Message eine Bühne, deine Worte unser Magazin, deine Kunst unser Event, oder deine Stimme einen Podcast findet.\nWir suchen Menschen, die nicht nur einen Abschluss, sondern mit ihrem Thema was bewegen wollen."
+info_text2.en: "Wouldn't it be a shame if your Master's thesis ended up gathering dust in a drawer?\nWe want to get more out of your results. After you've submitted your thesis, we'll help your message find a stage, your words our magazine, your art our event, or your voice a podcast.\nWe are looking for people who not only want a degree, but also want to make a difference with their topic."
 info_title3.de: "Wie kann ich mich bewerben?"
 info_title3.en: "How do I apply?"
 info_text3.de: "In nur wenigen Klicks geht es bei uns zum Stipendium. Nimm dir vorher einmal die Zeit, unsere Stipendiumsbedingungen durchzulesen. Im Anschluss kannst du unser Formular ausfüllen. Mehr braucht es bei uns nicht. Achte bei deiner Bewerbung darauf, dass diese auch für fachfremde Personen verständlich ist. Der Beirat prüft bei jeder Bewerbung die Sinnhaftigkeit (Thema, Methodik, Umfang, Machbarkeit usw.) sowie, ob ein gesellschaftlicher Mehrwert erkennbar ist."
@@ -65,24 +70,38 @@ getToKnowUs_buttonText.en: "Join VideoCall"
 
 applyNow_title.de: "Bewirb dich jetzt!"
 applyNow_title.en: "Apply Now!"
-applyNow_text.de: "Um dich auf ein Stipendium zu bewerben musst du das Formular im CCS Bewerbungs-Tool ausfüllen. Bitte lies dir vorher die Stipendiumsbedingungen durch. Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir dir leider keine ausführlichen Begründungen liefern. Viel Erfolg!"
-applyNow_text.en: "To apply for a scholarship, you must complete the form in the CCS application tool. Please read the scholarship conditions beforehand. Once your application has been received, it will be made available to the advisory board. We will try to confirm or reject your application as quickly as possible. In the latter case, you can receive a brief explanation if you wish. Due to the voluntary nature of the advisory board, we are unfortunately unable to provide you with detailed reasons. Good luck!"
-applyNow_buttonText.de: "Bewerben"
-applyNow_buttonText.en: "Apply"
+applyNow_info1.de: "Bei uns braucht es nicht viel um sich zu bewerben. Ließ dir im Vorfeld "
+applyNow_info.en: "With us, it doesn't take much to apply. Read through "
+applyNow_conditions.de: "unsere Stipendiumsbedingungen"
+applyNow_conditions.en: "our scholarship conditions"
+applyNow_info2.de: " durch und fülle unser Bewerbungs-Formular.\nSchreibe deine Bewerbung am Besten so, dass sie auch für fachfremde Personen verständlich ist. Es ist uns wichtig dass dein methodischer Ansatz und dein Thema deutlich wird. Bei Fragen melden wir uns bei dir zurück."
+applyNow_info2.en: " in advance and fill out our application form.\nIt is best to write your application in such a way that it can be understood by people from outside your field. It is important to us that your methodological approach and your topic are clear. We will get back to you if we have any questions."
+applyNow_text.de: "Nach dem Eingang deiner Bewerbung wird diese dem Beirat zur Verfügung gestellt. Wir versuchen dir möglichst schnell eine Zusage oder Absage zu erteilen. Bei letzterer kannst du nach Wunsch eine kurze Begründung bekommen. Aufgrund der ehrenamtlichen Natur des Beirats können wir dir leider keine ausführlichen Begründungen liefern und manchmal kann es etwas dauern. Viel Erfolg!"
+applyNow_text.en: "Once your application has been received, it will be made available to the advisory board. We will try to confirm or reject your application as quickly as possible. In the latter case, you can receive a brief explanation if you wish. Unfortunately, due to the voluntary nature of the advisory board, we cannot provide you with detailed reasons and sometimes it can take a while. Good luck!"
+applyNow_buttonText.de: "Zum Bewerbungsformular"
+applyNow_buttonText.en: "To the application form"
 
-impuls_title.de: "Noch auf Ideen-Suche?"
-impuls_title.en: "Still searching for ideas?"
-impuls_heading1.de: "Impulsfragen"
-impuls_heading1.en: "Impulse questions"
-impuls_text1.de: "Welchen Einfluss hat die Informationstechnologie auf das Wahlverhalten der Bürger*innen? Entwickeln sich Unternehmen, die auf Open Data setzen, besser als andere? Inwieweit ist Datenschutz relevant für generelle Konsumentscheidungen? Welchen Mehrwert bringt Open Data für xyz? Wie kann man Schutz vor Überwachung künstlerisch umsetzen?"
-impuls_text1.en: "What influence does information technology have on the voting behaviour of citizens? Do companies that rely on open data perform better than others? To what extent is data protection relevant for general consumer decisions? What added value does open data bring for xyz? How can protection against surveillance be realised artistically?"
-impuls_heading2.de: "Hacker*innen-Ethik"
-impuls_heading2.en: "CCC Hacker Ethics"
-impuls_text2.de: "Der Chaos Computer Club hat mit der Häcker*innen Ethik als Basis des ethischen Hacken. Ihre Prinzipien sind heute noch genauso relevant wie zu ihrer Niederschrift in den 1980ern. Ihre Werte prägen uns auch im Stipendium."
+
+impuls_heading1.de: "Noch unsicher?"
+impuls_heading1.en: "Still unsure?"
+impuls_text1a.de: "Schreibst du eine Masterarbeit? Hat deine Masterarbeit mit Technologie zu tun? Schaust du wie etwas in der Gesellschaft verbessert werden kann, oder analysierst wie wir etwas aufhalten können, oder schaffst Bewusstsein für etwas? Dann check ob du unsere "
+impuls_text1a.en: "Are you writing a Master's thesis? Is your Master's thesis related to technology? Are you looking at how something can be improved in society, or analysing how we can stop something, or creating awareness for something? Then check if you meet "
+impuls_conditions.de: "organisatorischen Stipendiumsbedingungen"
+impuls_conditions.en: "our organisational scholarship requirements"
+impuls_text1b.de: " erfüllst und bewirb dich!"
+impuls_text1b.en: " and apply!"
+impuls_text12.de: "Immer noch am Zweifeln? Bewirb dich trotzdem. Unser Formular ist kurz."
+impuls_text12.en: "Still having doubts? Apply anyway. Our form is short."
+
+impuls_heading2.de: "Unsere Werte"
+impuls_heading2.en: "Our Values"
+impuls_text2.de: "Der Chaos Computer Club hat mit der Hacker*innen Ethik als Basis des ethischen Hacken. Ihre Prinzipien sind heute noch genauso relevant wie zu ihrer Niederschrift in den 1980ern. Ihre Werte prägen uns auch im Stipendium."
 impuls_text2.en: "The Chaos Computer Club has developed the hacker ethic as the basis for ethical hacking. Its principles are just as relevant today as they were when they were written in the 1980s. Their values also characterise our scholarship."
+impuls_text22.de: "Bewerbungen werden danach bewertet ob sie die Punkte der Hacker*innen Ethik erfüllen."
+impuls_text22.en: "Applications are considered according to whether they fulfil the Hacker Ethics criteria."
 impuls_heading3.de: "Die Arbeiten der letzten Jahre"
 impuls_heading3.en: "What has already been funded"
-impuls_text3.de: "Auf der Seite unserer Veröffentlichungen findest du eine Übersicht der von uns geförderten Arbeiten. Hier kannst du einen Überblick erhalten welche Themen den Beirat bereits überzeugen konnten."
+impuls_text3.de: "Auf der Seite unserer Publikationen findest du eine Übersicht der von uns geförderten Arbeiten. Hier kannst du einen Überblick erhalten welche Themen den Beirat bereits überzeugen konnten."
 impuls_text3.en: "On our publications page you will find an overview of the work we have sponsored. Here you can get an overview of the topics that have already convinced the advisory board."
 impuls_buttonText.de: "Zu den Publikationen"
 impuls_buttonText.en: "To publications"
@@ -105,3 +124,77 @@ hackerEthic_point7.de: "Mülle nicht in den Daten anderer Leute."
 hackerEthic_point7.en: "Don't mess around with other people's data."
 hackerEthic_point8.de: "Öffentliche Daten nützen, private Daten schützen."
 hackerEthic_point8.en: "Use public data, protect private data."
+
+faq_title.de: "FAQ"
+faq_title.en: "FAQ"
+
+faq_question1.de: "Auszahlung der Gelder"
+faq_question1.en: "Disbursement of the funds"
+faq_answer1.de: "Das Geld wird in zwei Tranchen ausgezahlt. Der erste Betrag von 750 € wird ausgezahlt, sobald wir einen Nachweis der Anmeldung erhalten haben und die Bearbeitungszeit gestartet ist. Die zweite Auszahlung von weiteren 750 € erfolgt am Anfangs des 4. Monats der Bearbeitungszeit. Beim Abbruch der Masterarbeit wird auch das Stipendium vorzeitig beendet, alle bis dahin gezahlten Gelder müssen aber nicht zurückgezahlt werden."
+faq_answer1.en: "The money will be paid out in two instalments. The first instalment of €750 will be paid out as soon as we have received proof of registration and the processing period has started. The second payment of a further €750 will be made at the beginning of the 4th month of the processing period. If the Master's thesis is cancelled, the scholarship will also be terminated prematurely, but all monies paid up to that point do not have to be repaid."
+
+faq_question2.de: "Woher kommen die Gelder?"
+faq_question2.en: "Where does the funding come from?"
+faq_answer2.de: "Der Chaos Computer Club e.V. stellt derzeit die gesamten 6.000 € pro Semester zur Verfügung. Alle Stipendien werden vom Chaostreff Flensburg e.V. verteilt."
+faq_answer2.en: "The Chaos Computer Club e.V. currently provides the entire €6,000 per semester. All scholarships are distributed by Chaostreff Flensburg e.V."
+
+faq_question3.de: "Gibt es eine Möglichkeit das Stipendium zu verlängern?"
+faq_question3.en: "Is there a possibility to extend the scholarship?"
+faq_answer3.de: "In der aktuellen Phase ist das leider nicht möglich. Wenn du für deine Arbeit länger brauchst, ist das trotzdem in Ordnung, nur mehr Geld können wir nicht zahlen."
+faq_answer3.en: "Unfortunately, this is not possible in the current phase. If you need longer for your work, that's still fine, we just can't pay you more money."
+
+faq_question4.de: "Welche Organisationen sind beteiligt?"
+faq_question4.en: "Which organisations are involved?"
+faq_answer4.de: "Die rechtliche und steuerliche Verantwortung liegt beim Chaostreff Flensburg e.V. mit Unterstützung des Chaotikum e.V. und weiteren engagierten Individuen. Alle Organisationen und Individuen sind im Umkreis des Chaos Computer Club aktiv."
+faq_answer4.en: "The legal and fiscal responsibility lies with Chaostreff Flensburg e.V. with the support of Chaotikum e.V. and other committed individuals. All organisations and individuals are active in the area of the Chaos Computer Club."
+
+faq_question5.de: "Warum gibt es nur 4 Stipendien?"
+faq_question5.en: "Why are there only 4 scholarships?"
+faq_answer5.de: "Zur Zeit haben wir nur genug Geld, um bis zu 4 Stipendien pro Semester zu vergeben. Wenn du Ideen und Mittel hast, um das Projekt zu erweitern, melde dich gern unter ccs@chaostreff-flensburg.de!"
+faq_answer5.en: "At the moment we only have enough money to award up to 4 scholarships per semester. If you have ideas and funds to expand the project, please get in touch at ccs@chaostreff-flensburg.de!"
+
+faq_question6.de: "Was zählt alles als Masterarbeit?"
+faq_question6.en: "What counts as a Master's thesis?"
+faq_answer6.de: "Eine Masterarbeit ist eine Abschlussarbeit eines Masterstudienganges nach Vorgaben der jeweiligen Prüfungsordnung. Auch Förderung von Diplomarbeiten als Abschlussarbeiten eines Diplomstudienganges sind möglich."
+faq_answer6.en: "A Master's thesis is a final thesis for a Master's degree programme in accordance with the relevant examination regulations. Diploma theses can also be funded as final theses of a diploma programme."
+
+faq_question7.de: "Wie lange kann ich mich bewerben?"
+faq_question7.en: "How long can I apply?"
+faq_answer7.de: "Für die Bewerbung auf ein Stipendium gibt keine zeitliche Begrenzung. Sobald alle Gelder vergeben sind, wird es keine Möglichkeit mehr geben, sich zu bewerben."
+faq_answer7.en: "How long can I apply? There is no time limit for applying for a scholarship. Once all the funds have been allocated, there will be no more opportunities to apply."
+
+faq_question8.de: "Ich bin Professor*in, Teil eines Institut, Wissenschaftler*in"
+faq_question8.en: "I am a professor, part of an institute, a scientist"
+faq_answer8.de: "Schön dass du hier bist! Wir suchen immer spannende Kontakte. Am besten schreibst du eine kurze E-Mail an ccs@chaostreff-flensburg.de und wir starten ins Gespräch. Erzähle gern deinen Studierenden von diesem Stipendienprogramm und erarbeite mit ihnen gemeinsam interessante Themengebiete für eine mögliche Abschlussarbeit, die sie dann bei uns einreichen können."
+faq_answer8.en: "Nice that you are here! We are always looking for exciting contacts. The best thing to do is to write a short email to ccs@chaostreff-flensburg.de and we'll start a dialogue. Feel free to tell your students about this scholarship programme and work with them to find interesting topics for a possible thesis, which they can then submit to us."
+
+faq_question9.de: "Du hast noch weitere Fragen?"
+faq_question9.en: "Do you have any further questions?"
+faq_answer9.de: "Dann schreib uns eine E-Mail an ccs@chaostreff-flensburg.de. Wenn du irgendwelche Probleme beim Beirat oder beim Prozess melden möchtest, schreib bitte eine E-Mail an vorstand@chaostreff-flensburg.de Beide E-Mail-Adressen werden in einem Ticketsystem verarbeitet und werden ggf. von verschiedenen Personen gesehen."
+faq_answer9.en: "Then send us an email to ccs@chaostreff-flensburg.de. If you would like to report any problems with the advisory board or the process, please send an e-mail to vorstand@chaostreff-flensburg.de. Both e-mail addresses are processed in a ticket system and may be seen by different people."
+
+terms_title.de: "Stipendiumsbedingungen"
+
+terms_point1a.de: "Du schreibst im "
+terms_point1b.de: " eine Master- oder Diplomarbeit."
+
+terms_point11a.de: "Der Bearbeitungsbeginn liegt zwischen "
+terms_point11b.de: " und "
+
+terms_point12.de: "Du kannst sowohl Themen einreichen, die noch nicht offiziell bei deiner Universität angemeldet werden, als auch solche, die bereits bestätigt wurden."
+
+terms_point2.de: "Du schreibst über ein Thema, das sich die Informationstechnologien dieser Welt genauer anschaut, ihren Einfluss auf die Gesellschaft untersucht und/oder Ideen entwickelt, wie die Welt nach den Grundsätzen der Hacker*innen-Ethik verbesserbar ist."
+terms_point21.de: "Die Fachrichtung ist uns egal, wir freuen uns auf Einreichungen aus vielen verschiedenen Wissenschaftsbereichen."
+
+terms_point3.de: "Du schreibst deine Masterarbeit an einer deutschen Universität oder Hochschule und bist in Deutschland steuerpflichtig."
+
+terms_point4.de: "Wir nehmen keinen Einfluss auf den Inhalt der Arbeit."
+
+terms_point5.de: "Die Arbeit wird frei zugänglich veröffentlicht."
+terms_point51.de: "Das bedeutet, es darf keine Geheimhaltungsvereinbarungen geben."
+terms_point52.de: "Die Arbeit muss kostenlos im Internet aufrufbar sein, wir stellen hierfür bei Bedarf auch die Infrastruktur bereit."
+terms_point53.de: "Nach Benotung deiner Arbeit ist uns diese zur Verfügung zu stellen."
+
+terms_point6.de: "Du bist damit einverstanden sein, dass wir deine Arbeit öffentlich bewerben und dass die Arbeit und dein Name damit möglicherweise bekannter werden, als bei einer Masterarbeit üblich ist."
+
+terms_point7.de: "Einverständnis von deiner*m Professor*in/Institut für die oben genannten Punkte."

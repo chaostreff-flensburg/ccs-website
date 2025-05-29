@@ -4,7 +4,7 @@ export default ({ title, children, ...props }) => (
       <title>
         {title
           ? `${title} - "#CCS"`
-          : "Chaotischer Catalysator Stipendien #CCS"}
+          : "Chaotisches Catalysator Stipendien #CCS"}
       </title>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -27,8 +27,6 @@ export default ({ title, children, ...props }) => (
       <link rel="stylesheet" href="/code.css" />
       <link rel="stylesheet" href="/main.css" />
     </head>
-    <body>
-      {children}
-    </body>
+    <body>{children}</body>
   </html>
 );

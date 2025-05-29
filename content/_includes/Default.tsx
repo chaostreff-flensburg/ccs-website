@@ -1,10 +1,13 @@
-import HorizontalLine from "../_components/HorizontalLine.tsx";
 import GetToKnowUs from "../_components/Modules/GetToKnowUs.tsx";
 import Impuls from "../_components/Modules/Impuls.tsx";
 import InfoTextList from "../_components/Modules/InfoTextList.tsx";
 import Intro from "../_components/Modules/Intro.tsx";
 import FundingTimeInfoBox from "../_components/InfoBoxes/FundingTimeInfoBox.tsx";
 import ApplyNow from "../_components/Modules/ApplyNow.tsx";
+import Faq from "../_components/Modules/Faq.tsx";
+import { CURRENT_SEMESTER, SHOW_FUNDING_BOX } from "../_data/variables.ts";
+import Terms from "../_components/Modules/Terms.tsx";
+import Sponsors from "../_components/Modules/Sponsors.tsx";
 
 export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
@@ -18,7 +21,10 @@ export default ({ title, children, ...props }) => (
                 Catalysator <br />
                 Stipendium
               </h1>
-              <p>{props.text.current_semester}</p>
+              <p>
+                {props.text.semester}
+                {CURRENT_SEMESTER}
+              </p>
               <ul class="list-inline">
                 {props.alternates?.map((alt) => (
                   <li class="list-inline-item">
@@ -51,23 +57,24 @@ export default ({ title, children, ...props }) => (
           <div class="card-body content">
             <main class="p-md-4">
               <div class="homeContent">
-                <FundingTimeInfoBox text={props.text} />
+                {SHOW_FUNDING_BOX && <FundingTimeInfoBox text={props.text} />}
                 <Intro text={props.text} />
+                <hr />
                 <InfoTextList text={props.text} />
-                <HorizontalLine />
-                <GetToKnowUs text={props.text} />
-                <HorizontalLine />
+                <hr />
                 <ApplyNow text={props.text} />
-                <HorizontalLine />
+                <hr />
                 <Impuls text={props.text} />
-                <HorizontalLine />
+                <hr />
+                <GetToKnowUs text={props.text} />
+                <hr />
+                <Faq text={props.text} />
+                <hr />
+                <Terms text={props.text} />
                 {children}
               </div>
               <hr />
-              <h2 id="newsletter-anmelden" class="mt-6 mb-2">
-                Newsletter
-              </h2>
-              <props.comp.Newsletter />
+              <props.comp.Newsletter text={props.text} />
             </main>
           </div>
         </div>

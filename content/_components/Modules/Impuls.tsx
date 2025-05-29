@@ -1,42 +1,56 @@
-import TextImage from "../Layouts/TextImage.tsx";
 import Image from "../Image.tsx";
 import OutlineButton from "../Buttons/OutlineButton.tsx";
+import IconPaperSVG from "../Images/IconPaperSVG.tsx";
+import SixtyFourtyLayout from "../Layouts/SixtyFourtyLayout.tsx";
 
 export default ({ text }) => (
   <>
-    <h2 class="text-primary text-center">{text.impuls_title}</h2>
-    <TextImage
+    <SixtyFourtyLayout
       title={text.impuls_heading1}
-      text={text.impuls_text1}
-      textPosition="left"
-      image={
+      sixtyProcentSide="left"
+      contentLeft={
+        <div>
+          <p>
+            {text.impuls_text1a}
+            <a href={"/#scholarhip-terms"} className={"link-inside-text"}>
+              {text.impuls_conditions}
+            </a>
+            {text.impuls_text1b}
+          </p>
+          <p>{text.impuls_text12}</p>
+        </div>
+      }
+      contentRight={
         <Image
-          src="/media/27667957447_5137ae86e8_c.jpg"
-          alt="Junger Mensch mit VR Brille und Kopfhörern auf dem Kopf"
-          copyrightText="Chaostreff Flensburg"
-          copyrightLink="https://www.flickr.com/photos/ctfl/27667957447/"
-          cc="CC0 1.0"
-          ccLink="https://creativecommons.org/publicdomain/zero/1.0/"
+          src="/media/testbild.jpg"
+          alt="Ein testbild wird mit einem Projektor an eine Steinwand projeziert"
+          copyrightHolder="Leah Oswald"
+          ccType="CC BY 2.0"
+          link="https://www.flickr.com/photos/leahoswald/54461243277/in/album-72177720325186951"
         />
       }
     />
     <div id="hacker-innen-ethik">
-      <TextImage
+      <SixtyFourtyLayout
         title={text.impuls_heading2}
-        text={text.impuls_text2}
-        textPosition="right"
-        image={
+        contentRight={
+          <div>
+            <p>{text.impuls_text2}</p>
+            <p>{text.impuls_text22}</p>
+          </div>
+        }
+        sixtyProcentSide="right"
+        contentLeft={
           <Image
             src="/media/38514211235_cf83decce2_c.jpg"
             alt="Beleuchtete Glashalle in Leipzig"
-            copyrightText="Leah Oswald"
-            copyrightLink="https://www.flickr.com/photos/leahoswald/38514211235/in/album-72157664143705788/"
-            cc="CC BY 2.0"
-            ccLink="https://creativecommons.org/licenses/by/2.0/"
+            copyrightHolder="Leah Oswald"
+            link="https://www.flickr.com/photos/leahoswald/38514211235/in/album-72157664143705788/"
+            ccType="CC BY 2.0"
           />
         }
         addOn={
-          <div>
+          <div style={{ paddingBottom: 20 }}>
             <h3>{text.hackerEthic_title}</h3>
             <ul>
               <li>{text.hackerEthic_point1}</li>
@@ -52,27 +66,20 @@ export default ({ text }) => (
         }
       />
     </div>
-    <TextImage
+    <SixtyFourtyLayout
       title={text.impuls_heading3}
-      text={text.impuls_text3}
-      textPosition="left"
-      image={
-        <Image
-          src="/media/49287968448_da6d385313_c.jpg"
-          alt="In der Farbe Orange leuchtender Kristall"
-          copyrightText="Leah Oswald"
-          copyrightLink="https://www.flickr.com/photos/leahoswald/49287968448/in/album-72157712400345071/"
-          cc="CC BY 2.0"
-          ccLink="https://creativecommons.org/licenses/by/2.0/"
-        />
-      }
-      addOn={
+      contentRight={
         <div>
-          <OutlineButton link={"/publication/page/1/"}>
-            {text.impuls_buttonText}
-          </OutlineButton>
+          <p>{text.impuls_text3}</p>
+          <div style={{ maxWidth: 300 }}>
+            <OutlineButton link={"/publication/page/1/"}>
+              {text.impuls_buttonText}
+            </OutlineButton>
+          </div>
         </div>
       }
+      sixtyProcentSide="right"
+      contentLeft={<IconPaperSVG />}
     />
   </>
 );

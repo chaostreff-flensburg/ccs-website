@@ -5,10 +5,6 @@ const styles = {
   body: {
     marginBottom: "0",
   },
-  content: {
-    display: "flex",
-    flexDirection: "row",
-  },
   icon: {
     width: "30%",
     height: "auto",
@@ -19,7 +15,7 @@ const styles = {
 export default function ({ text }) {
   return (
     <InfoBox title={text.info_currentFundingRound_title}>
-      <div style={styles.content}>
+      <div className={"display-row"}>
         <p style={styles.body}>{text.info_currentFundingRound_body}</p>
         <div style={styles.icon}>
           <IconSignpostSVG />
