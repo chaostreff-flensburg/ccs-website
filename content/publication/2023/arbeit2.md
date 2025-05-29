@@ -1,5 +1,5 @@
 ---
-layout: Blog.tsx
+layout: Publications.tsx
 tags:
   - publication
 title: 'Arbeit Nr. 2: "Von der (Un-)Möglichkeit, digital mündig zu sein"'

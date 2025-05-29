@@ -1,5 +1,5 @@
 ---
-layout: Blog.tsx
+layout: Publications.tsx
 tags:
   - publication
 title: "Arbeit Nr. 8: You and Eye"

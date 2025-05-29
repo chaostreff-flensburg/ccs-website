@@ -1,5 +1,5 @@
 ---
-layout: Blog.tsx
+layout: Publications.tsx
 tags:
   - publication
 title: 'Arbeit Nr. 3: "Leben ohne Smartphone – Geographien der Entnetzung in einer mediatisierten Welt"'

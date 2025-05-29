@@ -1,5 +1,5 @@
 ---
-layout: Blog.tsx
+layout: Publications.tsx
 tags:
   - publication
 title: 'Arbeit Nr. 1: "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"'

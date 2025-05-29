@@ -1,5 +1,5 @@
 ---
-layout: Blog.tsx
+layout: Publications.tsx
 tags:
   - publication
 title: 'Arbeit Nr. 4: "Kindliche Perspektiven auf Interaktionen mit sozialen Robotern - Eine Repertory Grid Analyse"'

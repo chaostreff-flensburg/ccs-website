@@ -1,5 +1,5 @@
 ---
-layout: Blog.tsx
+layout: Publications.tsx
 tags:
   - publication
 title: "Arbeit Nr. 6: Robots as Allies Against Sexism in Human-Robot Groups"
