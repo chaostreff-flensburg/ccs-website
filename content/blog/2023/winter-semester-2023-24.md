@@ -5,6 +5,7 @@ tags:
 title: 'Die dritte Runde im Wintersemester 2023/24 startet'
 excerpt: 'Du kannst dich bis zum 31.03.2024 bewerben'
 date: "2023-10-01T01:23:39.000Z"
+img: "/media/blog/ccs.png"
 ---
 
 # Die dritte Runde im Wintersemester 2023/24 startet

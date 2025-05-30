@@ -5,6 +5,7 @@ tags:
 title: 'Hello World - #CCS stellt sich vor'
 excerpt: 'Das CCS startet die aller erste Runde - Hello World'
 date: "2022-10-30T18:23:39.000Z"
+img: "/media/blog/ccs.png"
 ---
 
 # 🎉 #CCS startet durch 🎉

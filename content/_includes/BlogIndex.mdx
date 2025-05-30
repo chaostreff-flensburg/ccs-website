@@ -6,39 +6,30 @@ id: blogpage
 blog: true
 ---
 
-
 <div>
   {page.data.results.map((page) => (
-    <a class="text-decoration-none" href={page.data.url}>
-      <div class="card my-4 text-white">
-        <div class="card-header">
-            <div class="row">
-              <div class="col-10">
-                <h2 class="text-xl font-medium">{page.data.title}</h2>
-              </div>
-              <div class="col-2 text-right d-flex justify-content-end">
-              <span>
-                {new Date(page.data.date).toLocaleDateString("de-DE", {
-                  year: "numeric",
-                  month: "numeric",
-                  day: "numeric",
-                })}
-              </span>
-          </div>
-            </div>
-
+    <div class="blog-card">
+      <div class="blog-image-container">
+        <img src={page.data.img ? page.data.img : "/media/blog/ccs.png"} alt={page.data.alt} class="blog-image"/>
+      </div>
+      <div>
+        <div class="blog-title-container">
+          <h2 class="text-xl font-medium blog-title">{page.data.title}</h2>
+          <span>
+            {new Date(page.data.date).toLocaleDateString("de-DE", {
+            year: "numeric",
+            month: "numeric",
+            day: "numeric",
+            })}
+          </span>
         </div>
-        <div class="card-body">
-          {page.data.imgUrl ? (
-            <img class="w-full" src={page.data.imgUrl} />
-          ) : null}
-          <div class="m-1">{page.data.excerpt}</div>
+        <div class="blog-text-container">
+          <p class="m-1">{page.data.excerpt}</p>
+          <a href={page.data.url} class="blog-link">Weiterlesen</a>
         </div>
       </div>
-    </a>
-
-))}
-
+    </div>
+  ))}
 </div>
 
 <nav>

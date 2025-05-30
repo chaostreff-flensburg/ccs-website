@@ -3,7 +3,8 @@ layout: Blog.tsx
 tags:
   - blog
 title: "Unser Mentoring startet!"
-excerpt: "Es ist so weit! Von nun an unterstützen wir unsere Stipendiat*innen nicht nur finanziell, sondern auch mit einem Mentoring Programm."
+excerpt: "2022 haben wir das Projekt gestartet. 2023 wurde die erste geförderte Masterarbeit veröffentlicht. 2024 hat unser erstes Stipendiumstreffen stattgefunden und nun 2025 starten wir ein Mentoring-Programm!
+Kommende Stipendiat*innen können sich genauso wie unsere Alumni darauf freuen, dass wir tolle Menschen im Umfeld gefunden haben, die uns in Zukunft unterstützen. Das Mentoring ist dabei keine 1-zu-1-Betreuung, sondern wird bei Bedarf bereitgestellt..."
 date: "2025-02-12T01:23:39.000Z"
 img: "/media/blog/cuteBunny.jpg"
 alt: "Zwei kleine katzen Figuren sitzen neben zwei kleinen hasen Figuren auf einem LED Streifen."

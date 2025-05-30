@@ -5,6 +5,7 @@ tags:
 title: "Projekt Startschuss auf der GPN21!"
 excerpt: "Das CCS unterstützt Master Arbeiten, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der Hacker*innen-Ethik verbesserbar ist. Projektvorstellung des Stipendienprogramms ..."
 date: "2023-06-10T01:23:39.000Z"
+img: "/media/blog/gpn21.png"
 ---
 
 <h3 id="gpn21-video">Projekt Startschuss auf der GPN21!</h3>

@@ -3,8 +3,9 @@ layout: Blog.tsx
 tags:
   - blog
 title: "Offline: Nathalie zu Gast bei Zeit Online"
-excerpt: "Hast du ein Smartphone? Ohne Internet oder Endgerät stehst du vür einigen Hürden. Nathalie hat zu dem mit der Zeit gesprochen."
+excerpt: "Die Offliner heißt der Online-Artikel des Zeit Reporters Markus Wanzeck in dem er unterschiedliche Expert*innen zum Leben in Deutschland ohne Internet und Smartphone befragt. Darunter auch unsere Stpendiatin Nathalie."
 date: "2024-06-30T14:23:39.000Z"
+img: "/media/blog/offline.png"
 ---
 
 # Kein Leben ohne Internet? Nathalie zu Gast bei der Zeit

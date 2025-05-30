@@ -3,8 +3,9 @@ layout: Blog.tsx
 tags:
   - blog
 title: "Mareike gewinnt Weizenbaum-Studienpreis"
-excerpt: "Herzlichen Glückwunsch! Unsere Stipendiatin Mareike hat den Weizenbaum-Studienpreises erhalten."
+excerpt: "Unsere Stipendiatin Mareike hat mit der von uns geförderten Masterarbeit 'Von der (Un-)Möglichkeit, digital mündig zu sein' den Weizenbaum-Studienpreis 2023 abgeräumt! Der Weizenbaum-Studienpreis wird jährlich vom FIfF in Erinnerung an den Wissenschaftler..."
 date: "2023-11-05T09:23:39.000Z"
+img: "/media/blog/fiff.png"
 ---
 
 # Herzlichen Glückwunsch Mareike!
@@ -17,6 +18,6 @@ Der Weizenbaum-Studienpreis wird jährlich vom FIfF in Erinnerung an den Wissens
 Wir gratulieren ganz herzlich!
 Du hast es dir verdient.
 
-Die gesamte Preisverleihung ist [im Internet frei verfügbar](https://media.ccc.de/v/fiffkon23-51-verleihung-des-weizenbaum-studienpreise). Mereike tritt ab Minute 25 auf und gibt ein Einblick in ihre Arbeitsergebnisse.
+Die gesamte Preisverleihung ist [im Internet frei verfügbar](https://media.ccc.de/v/fiffkon23-51-verleihung-des-weizenbaum-studienpreises). Mereike tritt ab Minute 25 auf und gibt ein Einblick in ihre Arbeitsergebnisse.
 
 Die preisgekrönte Arbeit von Mareike könnt ihr [hier bei uns](/publication/2023/arbeit2/) lesen.
