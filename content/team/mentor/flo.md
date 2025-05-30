@@ -1,10 +1,11 @@
 ---
-name: John Doe
+name: Florian
 tags:
   - team
-picture:
-title: Project Manager
+picture: "/media/teamPictures/flo.jpg"
+title: KI- und Softwareentwicklung
+socialLinks:
+  Mastodon: https://sigmoid.social/@florian
+  Web: https://casualcoding.com
 type: mentor
 ---
-
-John Doe is an experienced project manager who oversees several projects in our organization.

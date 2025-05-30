@@ -1,8 +1,9 @@
 ---
-name: John Doe
+name: Ben Schultz
 tags:
   - team
 picture:
-title: Project Manager
+year: 2024
+position: Organisiert unser Schreibtreffen
 type: alumni
 ---

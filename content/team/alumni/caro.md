@@ -1,10 +1,11 @@
 ---
-name: John Doe
+name: Carolin Kinzl
 tags:
   - team
 picture:
-title: Project Manager
 type: alumni
+year: 2023
+position: Organisiert unser Schreibtreffen
+title: Kindliche Perspektiven auf Interaktionen mit sozialen Robotern
+thesis: "/publication/2023/arbeit4/"
 ---
-
-John Doe is an experienced project manager who oversees several projects in our organization.
