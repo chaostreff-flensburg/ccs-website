@@ -17,7 +17,7 @@ export default ({ title, children, ...props }) => (
           <div class="headerBackground row">
             <div class="col">
               <h1 class="headLine">
-                Chaotisches <br />
+                Chaotischer <br />
                 Catalysator <br />
                 Stipendium
               </h1>
