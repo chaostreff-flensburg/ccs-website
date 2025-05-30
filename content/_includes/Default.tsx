@@ -75,11 +75,13 @@ export default ({ title, children, ...props }) => (
               </div>
               <hr />
               <props.comp.Newsletter text={props.text} />
+              <hr />
+              <Sponsors text={props.text} />
             </main>
           </div>
         </div>
       </main>
-      <footer class="p-4">
+      <footer class="p-4 container">
         <props.comp.Footer {...props} />
       </footer>
     </section>
