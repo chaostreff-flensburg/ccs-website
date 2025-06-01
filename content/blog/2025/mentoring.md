@@ -3,8 +3,9 @@ layout: Blog.tsx
 tags:
   - blog
 title: "Unser Mentoring startet!"
-excerpt: "2022 haben wir das Projekt gestartet. 2023 wurde die erste geförderte Masterarbeit veröffentlicht. 2024 hat unser erstes Stipendiumstreffen stattgefunden und nun 2025 starten wir ein Mentoring-Programm!
-Kommende Stipendiat*innen können sich genauso wie unsere Alumni darauf freuen, dass wir tolle Menschen im Umfeld gefunden haben, die uns in Zukunft unterstützen. Das Mentoring ist dabei keine 1-zu-1-Betreuung, sondern wird bei Bedarf bereitgestellt..."
+excerpt: "In den letzten Jahren haben wir viel erreicht. Das Projekt, das wir 2022 gestartet haben, hat endlich Fahrt aufgenommen. 2023 wurde die erste geförderte Masterarbeit veröffentlicht, und 2024 fand unser erstes Stipendiumstreffen statt. Nun, 2025, beginnen wir mit einem neuen Kapitel: dem Start unseres Mentoring-Programms!
+Um die Bedürfnisse unserer Stipendiat*innen besser zu verstehen, haben wir das Stipendiusmtreffen genutzt und ausführlich mit Ihnen gesprochen. Wo hätte man Ihnen noch zur Hand gehen können? Was braucht es eigentlich zusätzlich während dem Schreibprozess, oder der Recherche?
+Wir sitzen auf Kontakten. Wir sind gut vernetzte und wir haben Reichweite. All das hätte unseren Stipentiat*innen aus den ersten Zyklen bereits helfen können, aber man wusste zu wenig über uns. Wir waren nur eine E-Mail im Hintergrund. Das wollen wir nun Ändern. Unser Ziel ist es, ein starkes Netzwerk zu bilden und unsere Kontakte aus dem CCC-Umfeld für die Stipendiatinnen bereitzustellen..."
 date: "2025-02-12T01:23:39.000Z"
 img: "/media/blog/cuteBunny.jpg"
 alt: "Zwei kleine katzen Figuren sitzen neben zwei kleinen hasen Figuren auf einem LED Streifen."
@@ -12,18 +13,16 @@ alt: "Zwei kleine katzen Figuren sitzen neben zwei kleinen hasen Figuren auf ein
 
 # Unser Mentoring startet!
 
-2022 haben wir das Projekt gestartet.
-2023 wurde die erste geförderte Masterarbeit veröffentlicht.
-2024 hat unser erstes Stipendiumstreffen stattgefunden
-und nun 2025 starten wir ein Mentoring-Programm!
+In den letzten Jahren haben wir viel erreicht. Das Projekt, das wir 2022 gestartet haben, hat endlich Fahrt aufgenommen. 2023 wurde die erste geförderte Masterarbeit veröffentlicht, und 2024 fand unser erstes Stipendiumstreffen statt. Nun, 2025, beginnen wir mit einem neuen Kapitel: dem Start unseres Mentoring-Programms!
 
-Kommende Stipendiat\*innen können sich genauso wie unsere Alumni darauf freuen, dass wir tolle Menschen im Umfeld gefunden haben, die uns in Zukunft unterstützen.
-Das Mentoring ist dabei keine 1-zu-1-Betreuung, sondern wird bei Bedarf bereitgestellt.
+Um die Bedürfnisse unserer Stipendiat\*innen besser zu verstehen, haben wir das Stipendiusmtreffen genutzt und ausführlich mit Ihnen gesprochen. Wo hätte man Ihnen noch zur Hand gehen können? Was braucht es eigentlich zusätzlich während dem Schreibprozess, oder der Recherche?
+Wir sitzen auf Kontakten. Wir sind gut vernetzte und wir haben Reichweite. All das hätte unseren Stipentiat\*innen aus den ersten Zyklen bereits helfen können, aber man wusste zu wenig über uns. Wir waren nur eine E-Mail im Hintergrund. Das wollen wir nun Ändern. Unser Ziel ist es, ein starkes Netzwerk zu bilden und unsere Kontakte aus dem CCC-Umfeld für die Stipendiatinnen bereitzustellen.
 
-Brauchst du fachliche Expertise in einem Gebiet, vermitteln wir dich an Expertinnen.
-Brauchst du Unterstützung im Schreibprozess, nimm an unseren von Alumni organisierten Schreibtreffen teil.
-Organisation ist nicht einfach für dich? Wir geben dir Ideen auch aus neurodivergenter Perspektive.
-Stress? Wir geben dir Tools an die Hand.
-Hast du Probleme mit deiner Betreuerin oder deinem Betreuer, beraten wir dich gerne zu deinen Optionen.
+Wir konnten viele wunderbare Menschen fördern und sind stolz darauf, dass sowohl kommende Stipendiatinnen als auch unsere Alumni von unserer Gemeinschaft profitieren können. Wir haben engagierte und erfahrene Unterstützerinnen gefunden, die uns auf unserem Weg begleiten und zukünftig großartige Unterstützung leisten werden.
 
-Auch wenn wir die Betreuung deiner Uni nicht ersetzen können und wollen, werden unsere Mentor\*innen ihr Bestes geben!
+Zukünftig heißt das:
+Brauchst du fachliche Expertise in einem bestimmten Gebiet? Wir vermitteln dich an Expertinnen. Benötigst du Unterstützung im Schreibprozess? Nimm an unseren von Alumni organisierten Schreibtreffen teil. Findest du Organisation schwierig? Wir geben dir Tipps und Ideen, auch aus einer neurodivergenten Perspektive. Hast du Probleme mit Stress? Wir stellen dir hilfreiche Tools zur Verfügung. Siehst du dich mit Herausforderungen in der Betreuung konfrontiert? Wir beraten dich gerne zu deinen Optionen.
+
+Auch wenn wir die Betreuung deiner Hochschule nicht ersetzen können und wollen, werden unsere Mentor\*innen ihr Bestes geben, um dich tatkräftig zu unterstützen!
+
+Wir freuen uns darauf, gemeinsam mit dir das nächste Kapitel unserer Reise zu beschreiten und dich auf deinem Weg zu begleiten.
