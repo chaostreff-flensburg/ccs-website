@@ -6,5 +6,5 @@ picture:
 type: alumni
 year: 2025
 title: You and Eye - Interaktive Installation
-thesis: "/publication/2025/arbeit6/"
+thesis: "/publication/2025/arbeit8/"
 ---
