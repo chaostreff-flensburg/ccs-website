@@ -8,7 +8,10 @@ export const START_DATE = "01.10.2024";
 export const END_DATE = "30.04.2024";
 
 /* Set to 'true' to display funding info box on main site */
-export const SHOW_FUNDING_BOX = true;
+export const SHOW_FUNDING_BOX = false;
+
+/* Set to 'true' when all scolarships have been awarded to display the info on main site */
+export const FUNDING_IS_OUT = false;
 
 export const NEWSLETTER_URL =
   "https://newsletter.chaostreff-flensburg.de/subscription/form";

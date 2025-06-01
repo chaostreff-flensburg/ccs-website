@@ -5,9 +5,14 @@ import Intro from "../_components/Modules/Intro.tsx";
 import FundingTimeInfoBox from "../_components/InfoBoxes/FundingTimeInfoBox.tsx";
 import ApplyNow from "../_components/Modules/ApplyNow.tsx";
 import Faq from "../_components/Modules/Faq.tsx";
-import { CURRENT_SEMESTER, SHOW_FUNDING_BOX } from "../_data/variables.ts";
+import {
+  CURRENT_SEMESTER,
+  FUNDING_IS_OUT,
+  SHOW_FUNDING_BOX,
+} from "../_data/variables.ts";
 import Terms from "../_components/Modules/Terms.tsx";
 import Sponsors from "../_components/Modules/Sponsors.tsx";
+import AllFundingGoneBox from "../_components/InfoBoxes/AllFundingGoneBox.tsx";
 
 export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
@@ -58,6 +63,7 @@ export default ({ title, children, ...props }) => (
             <main class="p-md-4">
               <div class="homeContent">
                 {SHOW_FUNDING_BOX && <FundingTimeInfoBox text={props.text} />}
+                {FUNDING_IS_OUT && <AllFundingGoneBox text={props.text} />}
                 <Intro text={props.text} />
                 <hr />
                 <InfoTextList text={props.text} />
