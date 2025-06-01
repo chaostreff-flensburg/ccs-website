@@ -12,6 +12,7 @@ export default ({ text }) => (
           Name:
         </label>
         <input
+          id="name"
           type="text"
           placeholder="Please enter your name (optional)"
           name="name"
@@ -23,6 +24,7 @@ export default ({ text }) => (
           E-Mail:
         </label>
         <input
+          id="email"
           type="email"
           placeholder="e.g. yourName@mail-domain.de"
           name="email"

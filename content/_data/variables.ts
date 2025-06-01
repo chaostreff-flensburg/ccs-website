@@ -14,7 +14,7 @@ export const SHOW_FUNDING_BOX = false;
 export const FUNDING_IS_OUT = false;
 
 export const NEWSLETTER_URL =
-  "https://newsletter.chaostreff-flensburg.de/subscription/form";
+  "https://newsletter.c3fl.de/subscription/form";
 
 /* Next Dates for "Get to Know Us" Calls: */
 export const GTKU_DATE_ONE = "Do, 05.06.2025 - 19:00 bis 20:00 Uhr";
