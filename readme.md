@@ -2,6 +2,12 @@
 
 Repo der Webseite des #CCS Chaotischer Catalysator Stipendien. [Live Version](https://chaos-stipendien.de/). Gebaut mit [Lume](https://lume.land/) auf Basis von [Deno](https://deno.com).
 
+## Update Content
+To update content easily, regularly changing content is located in
+```file
+content/_data/variables.ts
+```
+
 ## Framework Setup
 
 Development
