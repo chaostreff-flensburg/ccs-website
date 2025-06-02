@@ -1,0 +1,146 @@
+---
+layout: Team.tsx
+title: team
+lang: de
+id: teamPage
+blog: false
+---
+
+ <div className="team-container">
+      <h1>Das Team</h1>
+
+      <section className='team-section'>
+        <h2>Organisation</h2>
+        <p>Jedes Projekt braucht Menschen, die es möglich machen. Hier sind unsere:</p>
+        <div className="team-card-container">
+        {page.data.team.orga.length > 0 ? (
+          page.data.team.orga.map((teamMember) => (
+            <div key={teamMember.name} className="team-card">
+              <img
+                src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
+                alt={`${teamMember.name}'s picture`}
+                className="team-image"
+              />
+              <div className="team-card-body">
+              <h3 className="team-name">{teamMember.name}</h3>
+              <h4 className="team-title">{teamMember.title}</h4>
+              {teamMember.socialLinks && (
+                <ul className="team-socialLinks">
+                  {Object.entries(teamMember.socialLinks).map(([platform, url]) => (
+                    <li key={platform}>
+                      <a href={url} className="team-link">{platform}</a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+              </div>
+            </div>
+          ))
+        ) : (
+          <p className="team-noData">No organisation members available.</p>
+        )}
+        </div>
+      </section>
+
+      <section className='team-section'>
+        <h2>Der Beirat</h2>
+        <p>Unser Beirat entscheidet nicht nur darüber, welche Arbeiten gefördert werden, sondern ist auch in unterschiedlichen lokalen und Bundesgruppen des CCC engagiert. </p>
+        <p>Der Beirat ist jederzeit unter ccs@chaostreff-flensburg.de zu erreichen. Alle Fragen sind willkommen!</p>
+        <div className="team-card-container">
+        {page.data.team.beirat.length > 0 ? (
+          page.data.team.beirat.map((teamMember) => (
+            <div key={teamMember.name} className="team-card">
+              <img
+                src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
+                alt={`${teamMember.name}'s picture`}
+                className="team-image"
+              />
+              <div className="team-card-body">
+              <h3 className="team-name">{teamMember.name}</h3>
+              <h4 className="team-title">{teamMember.title}</h4>
+              {teamMember.socialLinks && (
+                <ul className="team-socialLinks">
+                  {Object.entries(teamMember.socialLinks).map(([platform, url]) => (
+                    <li key={platform}>
+                      <a href={url} className="team-link">{platform}</a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+              </div>
+            </div>
+          ))
+        ) : (
+          <p className="team-noData">No organisation members available.</p>
+        )}
+        </div>
+      </section>
+
+      <section className='team-section'>
+        <h2>Unsere Mentor\*innen</h2>
+        <p>Unser Mentor\*innen Team kommt ebenfalls aus dem Chaos Computer Club Umfeld und steht unseren Stipendiat*innen ehrenamtlich mit Rat, Tat und Unterstützung zur Seite.</p>
+        <div className="team-card-container">
+        {page.data.team.mentor.length > 0 ? (
+          page.data.team.mentor.map((teamMember) => (
+            <div key={teamMember.name} className="team-card">
+              <img
+                src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
+                alt={`${teamMember.name}'s picture`}
+                className="team-image"
+              />
+              <div className="team-card-body">
+              <h3 className="team-name">{teamMember.name}</h3>
+              <h4 className="team-title">{teamMember.title}</h4>
+              {teamMember.socialLinks && (
+                <ul className="team-socialLinks">
+                  {Object.entries(teamMember.socialLinks).map(([platform, url]) => (
+                    <li key={platform}>
+                      <a href={url} className="team-link">{platform}</a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+              </div>
+            </div>
+          ))
+        ) : (
+          <p className="team-noData">No mentor available.</p>
+        )}
+        </div>
+      </section>
+
+      <section className='team-section'>
+        <h2>Unsere Alumnis</h2>
+        <p>Als ob ein Stipendium erhalten nicht schon schwer genug ist, muss die Masterarbeit auch nich geschrieben werden. Wir freuen uns sagen zu können folgende Personen gefördert zu haben: </p>
+        <div className="team-card-container">
+        {page.data.team.alumni.length > 0 ? (
+          page.data.team.alumni.map((teamMember) => (
+            <div key={teamMember.name} className="team-card">
+            <p className="team-year">{teamMember.year}</p>
+              {teamMember.picture && (<img
+                src={teamMember.picture}
+                alt={`${teamMember.name}'s picture`}
+                className="team-image"
+              />)}
+              <div className="team-card-body">
+              <h3 className="team-name">{teamMember.name}</h3>
+              {teamMember.thesis && <div><p className='team-thesis'><strong>Master Thesis: </strong>"{teamMember.title}"</p><a href={teamMember.thesis} className="team-linkUnderline">jetzt lesen</a></div>}
+              {teamMember.socialLinks && (
+                <ul className="team-socialLinks">
+                  {Object.entries(teamMember.socialLinks).map(([platform, url]) => (
+                    <li key={platform}>
+                      <a href={url} className="team-link">{platform}</a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+              </div>
+              {teamMember.position && <p className='team-info'>{teamMember.position}</p>}
+            </div>
+          ))
+        ) : (
+          <p className="team-noData">No alumni members available.</p>
+        )}
+        </div>
+      </section>
+    </div>

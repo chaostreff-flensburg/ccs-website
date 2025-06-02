@@ -5,6 +5,18 @@ const pages = [
       title: "Blog",
     },
   },
+  {
+    data: {
+      url: "/publication/",
+      title: "Publication",
+    },
+  },
+  {
+    data: {
+      url: "/team/",
+      title: "Team",
+    },
+  },
 ];
 
 export default ({ search, ...props }) => (

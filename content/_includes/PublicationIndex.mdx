@@ -1,0 +1,76 @@
+---
+layout: Publications.tsx
+title: Publication
+lang: de
+id: publicationPage
+blog: true
+---
+
+
+<div>
+  {page.data.results.map((page) => (
+    <a class="text-decoration-none" href={page.data.url}>
+      <div class="card my-4 text-white">
+        <div class="card-header">
+            <div class="row">
+              <div class="col-10">
+                <h2 class="text-xl font-medium">{page.data.title}</h2>
+              </div>
+              <div class="col-2 text-right d-flex justify-content-end">
+              <span>
+                {new Date(page.data.date).toLocaleDateString("de-DE", {
+                  year: "numeric",
+                  month: "numeric",
+                  day: "numeric",
+                })}
+              </span>
+          </div>
+            </div>
+
+        </div>
+        <div class="card-body">
+          {page.data.imgUrl ? (
+            <img class="w-full" src={page.data.imgUrl} />
+          ) : null}
+          <div class="m-1">{page.data.excerpt}</div>
+        </div>
+      </div>
+    </a>
+
+))}
+
+</div>
+
+<nav>
+  <ul class="pagination">
+    {page.data.pagination.previous ? (
+      <li class="page-item">
+        <a class="page-link" href={`/publication/${page.data.pagination.previous}`}>
+          &laquo;
+        </a>
+      </li>
+    ) : (
+      <li class="page-item">
+        <a class="page-link disabled">&laquo;</a>
+      </li>
+    )}
+    {new Array(page.data.pagination.totalPages).fill().map((_, index) => (
+      <li class="page-item">
+        <a class="page-link" href={`/publication/page/${index + 1}`}>
+          {index + 1}
+        </a>
+      </li>
+    ))}
+    {page.data.pagination.next ? (
+      <li class="page-item">
+        <a class="page-link" href={`/publication/${page.data.pagination.next}`}>
+          &raquo;
+        </a>
+      </li>
+    ) : (
+      <li class="page-item">
+        <a class="page-link disabled">&raquo;</a>
+      </li>
+    )}
+  </ul>
+</nav>

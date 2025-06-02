@@ -1,15 +1,11 @@
-export default (
-  { title, children, ...props },
-) => (
+export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
     <section data-theme="dark" class="layout">
       <main class="container">
         <div class="card border-0 shadow rounded">
           <div class="headerBackground row">
             <div class="col">
-              <h1>
-                Chaotischer Catalysator Stipendien
-              </h1>
+              <h1>Chaotischer Catalysator Stipendium</h1>
             </div>
             <div class="col-auto d-flex flex-column justify-content-end">
               <a
@@ -24,16 +20,15 @@ export default (
           <section class="shadow header">
             <nav class="navbar">
               <a href="/">Startseite</a>
-              <a class="active" href="/blog/page/1/">Blog</a>
+              <a href="/team/">Team</a>
+              <a class="active" href="/blog/page/1/">
+                Blog
+              </a>
+              <a href="/publication/page/1/">Publikationen</a>
             </nav>
           </section>
           <div class="card-body content">
-            <main class="p-md-4">
-              {children}
-              <hr />
-              <h2 id="newsletter-anmelden" class="mt-6 mb-2">Newsletter</h2>
-              <props.comp.Newsletter />
-            </main>
+            <main class="p-md-4">{children}</main>
           </div>
         </div>
       </main>

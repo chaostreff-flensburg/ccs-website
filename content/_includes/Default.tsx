@@ -1,3 +1,19 @@
+import GetToKnowUs from "../_components/Modules/GetToKnowUs.tsx";
+import Impuls from "../_components/Modules/Impuls.tsx";
+import InfoTextList from "../_components/Modules/InfoTextList.tsx";
+import Intro from "../_components/Modules/Intro.tsx";
+import FundingTimeInfoBox from "../_components/InfoBoxes/FundingTimeInfoBox.tsx";
+import ApplyNow from "../_components/Modules/ApplyNow.tsx";
+import Faq from "../_components/Modules/Faq.tsx";
+import {
+  CURRENT_SEMESTER,
+  FUNDING_IS_OUT,
+  SHOW_FUNDING_BOX,
+} from "../_data/variables.ts";
+import Terms from "../_components/Modules/Terms.tsx";
+import Sponsors from "../_components/Modules/Sponsors.tsx";
+import AllFundingGoneBox from "../_components/InfoBoxes/AllFundingGoneBox.tsx";
+
 export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
     <section data-theme="dark" class="layout">
@@ -6,10 +22,14 @@ export default ({ title, children, ...props }) => (
           <div class="headerBackground row">
             <div class="col">
               <h1 class="headLine">
-                {props.text.title_season} <br />
-                2024/2025
+                Chaotischer <br />
+                Catalysator <br />
+                Stipendium
               </h1>
-              <p>{props.text.subtitle}</p>
+              <p>
+                {props.text.semester}
+                {CURRENT_SEMESTER}
+              </p>
               <ul class="list-inline">
                 {props.alternates?.map((alt) => (
                   <li class="list-inline-item">
@@ -41,17 +61,33 @@ export default ({ title, children, ...props }) => (
           <props.comp.Header {...props} />
           <div class="card-body content">
             <main class="p-md-4">
-              {children}
+              <div class="homeContent">
+                {SHOW_FUNDING_BOX && <FundingTimeInfoBox text={props.text} />}
+                {FUNDING_IS_OUT && <AllFundingGoneBox text={props.text} />}
+                <Intro text={props.text} />
+                <hr />
+                <InfoTextList text={props.text} />
+                <hr />
+                <ApplyNow text={props.text} />
+                <hr />
+                <Impuls text={props.text} />
+                <hr />
+                <GetToKnowUs text={props.text} />
+                <hr />
+                <Faq text={props.text} />
+                <hr />
+                <Terms text={props.text} />
+                {children}
+              </div>
               <hr />
-              <h2 id="newsletter-anmelden" class="mt-6 mb-2">
-                Newsletter
-              </h2>
-              <props.comp.Newsletter />
+              <props.comp.Newsletter text={props.text} />
+              <hr />
+              <Sponsors text={props.text} />
             </main>
           </div>
         </div>
       </main>
-      <footer class="p-4">
+      <footer class="p-4 container">
         <props.comp.Footer {...props} />
       </footer>
     </section>

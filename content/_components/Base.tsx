@@ -27,8 +27,6 @@ export default ({ title, children, ...props }) => (
       <link rel="stylesheet" href="/code.css" />
       <link rel="stylesheet" href="/main.css" />
     </head>
-    <body>
-      {children}
-    </body>
+    <body>{children}</body>
   </html>
 );
