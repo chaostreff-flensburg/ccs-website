@@ -1,10 +1,8 @@
 import lume from "lume/mod.ts";
 import jsx_preact from "lume/plugins/jsx_preact.ts";
 import mdx from "lume/plugins/mdx.ts";
-import minify_html from "lume/plugins/minify_html.ts";
 import pagefind from "lume/plugins/pagefind.ts";
 import postcss from "lume/plugins/postcss.ts";
-import tailwindcss from "lume/plugins/tailwindcss.ts";
 import sass from "lume/plugins/sass.ts";
 import multilanguage from "lume/plugins/multilanguage.ts";
 
