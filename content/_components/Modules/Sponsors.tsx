@@ -25,22 +25,34 @@ export default ({ text }) => (
   <section>
     <div style={styles.container} className="display-row">
       <div className={"twentyFive"}>
-        <a href={"https://www.ccc.de/"}>
+        <a
+          href={"https://www.ccc.de/"}
+          aria-label="Visit the site of our funding sponsor: The Chaos Computer Club."
+        >
           <CccSVG />
         </a>
       </div>
       <div className={"twentyFive"}>
-        <a href={"https://c3fl.de/"}>
+        <a
+          href={"https://c3fl.de/"}
+          aria-label="Visit the site of our organisation: The Chaos Computer Club Flensburg e.V."
+        >
           <CccflSVG />
         </a>
       </div>
       <div className={"twentyFive"}>
-        <a href={"https://chaotikum.org/"}>
+        <a
+          href={"https://chaotikum.org/"}
+          aria-label="Visit the site of our partner organisation: The Chaotikum."
+        >
           <ChaotikumSVG />
         </a>
       </div>
       <div className={"twentyFive"}>
-        <a href={"https://fnordserver.eu/"}>
+        <a
+          href={"https://fnordserver.eu/"}
+          aria-label="Visit the site of our tech and infrastruture sponsor: FnordServer."
+        >
           <FnordserverSVG />
         </a>
       </div>
