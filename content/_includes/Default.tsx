@@ -50,7 +50,7 @@ export default ({ title, children, ...props }) => (
             </div>
             <div class="col-auto d-flex flex-column justify-content-end">
               <a
-                href="#newsletter-anmelden"
+                href="#newsletter"
                 target="blank"
                 class="btn btn-outline-light"
               >

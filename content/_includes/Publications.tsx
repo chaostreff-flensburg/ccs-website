@@ -5,16 +5,7 @@ export default ({ title, children, ...props }) => (
         <div class="card border-0 shadow rounded">
           <div class="headerBackground row">
             <div class="col">
-              <h1>Chaotischer Catalysator Stipendien</h1>
-            </div>
-            <div class="col-auto d-flex flex-column justify-content-end">
-              <a
-                href="#newsletter-anmelden"
-                target="blank"
-                class="btn btn-outline-light"
-              >
-                Newsletter abonnieren
-              </a>
+              <h1>Chaotischer Catalysator Stipendium</h1>
             </div>
           </div>
           <section class="shadow header">

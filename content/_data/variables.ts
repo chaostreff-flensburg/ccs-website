@@ -13,8 +13,7 @@ export const SHOW_FUNDING_BOX = false;
 /* Set to 'true' when all scolarships have been awarded to display the info on main site */
 export const FUNDING_IS_OUT = false;
 
-export const NEWSLETTER_URL =
-  "https://newsletter.c3fl.de/subscription/form";
+export const NEWSLETTER_URL = "https://newsletter.c3fl.de/subscription/form";
 
 /* Next Dates for "Get to Know Us" Calls: */
 export const GTKU_DATE_ONE = "Do, 05.06.2025 - 19:00 bis 20:00 Uhr";
