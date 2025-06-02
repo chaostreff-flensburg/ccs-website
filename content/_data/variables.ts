@@ -1,11 +1,11 @@
 /* External URL to the Apllication Form */
-export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20242";
+export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20251";
 
 /* Current Semester,
 used in Header and Text */
-export const CURRENT_SEMESTER = "WS 24/25";
-export const START_DATE = "01.10.2024";
-export const END_DATE = "30.04.2024";
+export const CURRENT_SEMESTER = "Sommer Semester 2025";
+export const START_DATE = "01.05.2025";
+export const END_DATE = "25.10.2025";
 
 /* Set to 'true' to display funding info box on main site */
 export const SHOW_FUNDING_BOX = false;
