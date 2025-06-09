@@ -27,6 +27,7 @@ export default ({ title, children, ...props }) => (
                 Stipendium
               </h1>
               <p>
+                {props.semester}
                 {props.text.semester}
                 {CURRENT_SEMESTER}
               </p>

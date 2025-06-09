@@ -10,13 +10,13 @@ blog: true
   {page.data.results.map((page) => (
     <div class="blog-card">
       <div class="blog-image-container">
-        <img src={page.data.img ? page.data.img : "/media/blog/ccs.png"} alt={page.data.alt} class="blog-image"/>
+        <img src={page.img ? page.img : "/media/blog/ccs.png"} alt={page.alt} class="blog-image"/>
       </div>
       <div>
         <div class="blog-title-container">
-          <h2 class="text-xl font-medium blog-title">{page.data.title}</h2>
+          <h2 class="text-xl font-medium blog-title">{page.title}</h2>
           <span>
-            {new Date(page.data.date).toLocaleDateString("de-DE", {
+            {new Date(page.date).toLocaleDateString("de-DE", {
             year: "numeric",
             month: "numeric",
             day: "numeric",
@@ -24,8 +24,8 @@ blog: true
           </span>
         </div>
         <div class="blog-text-container">
-          <p class="m-1">{page.data.excerpt}</p>
-          <a href={page.data.url} class="blog-link">Weiterlesen</a>
+          <p class="m-1">{page.excerpt}</p>
+          <a href={page.url} class="blog-link">Weiterlesen</a>
         </div>
       </div>
     </div>

@@ -22,18 +22,18 @@ export default function* ({ search }) {
 
   for (const file of allFiles) {
     const member: Member = {
-      name: file.data.name,
-      picture: file.data.picture,
-      title: file.data.title,
-      type: file.data.type,
-      socialLinks: file.data.socialLinks,
-      content: file.data.content,
-      year: file.data.year,
-      position: file.data.position,
-      thesis: file.data.thesis,
+      name: file?.name,
+      picture: file?.picture,
+      title: file?.title,
+      type: file?.type,
+      socialLinks: file?.socialLinks,
+      content: file?.content,
+      year: file?.year,
+      position: file?.position,
+      thesis: file?.thesis,
     };
 
-    switch (file.data.type) {
+    switch (file?.type) {
       case "orga":
         orgaData.push(member);
         break;
