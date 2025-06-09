@@ -5,6 +5,7 @@ tags:
 title: 'Arbeit Nr. 4: "Kindliche Perspektiven auf Interaktionen mit sozialen Robotern - Eine Repertory Grid Analyse"'
 excerpt: "Geschrieben von: Carolin Kinzl"
 date: "2024-03-02T12:23:39.000Z"
+oldUrl: /blog/2023/arbeit4/
 ---
 
 # "Kindliche Perspektiven auf Interaktionen mit sozialen Robotern

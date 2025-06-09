@@ -7,6 +7,7 @@ segmentation models for solar energy applications using deep
 learning and synthetic data augmentation"
 excerpt: "Geschrieben von: Raphael Gut"
 date: "2025-06-01T15:23:39.000Z"
+oldUrl: /blog/2025/arbeit9/
 ---
 
 # "Development of advanced cloud classification and segmentation models for solar energy applications using deep learning and synthetic data augmentation"

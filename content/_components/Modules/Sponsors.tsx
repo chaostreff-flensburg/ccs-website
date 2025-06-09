@@ -9,13 +9,13 @@ const styles = {
   },
   lgbtq: {
     width: "100%",
-    height: 20,
+    height: "20px",
     background:
       "linear-gradient(180deg, #FE0000 16.66%, #FD8C00 16.66%, 33.32%, #FFE500 33.32%, 49.98%, #119F0B 49.98%, 66.64%,#0644B3 66.64%, 83.3%, #C22EDC 83.3%)",
   },
   trans: {
     width: "100%",
-    height: 20,
+    height: "20px",
     background:
       "linear-gradient(180deg, #5BCEFA 20%, #F5A9B8 20%, 40%, #FFFFFF 40%, 60%, #F5A9B8 60%, 80%, #5BCEFA 80%)",
   },

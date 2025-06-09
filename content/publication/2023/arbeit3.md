@@ -5,6 +5,7 @@ tags:
 title: 'Arbeit Nr. 3: "Leben ohne Smartphone – Geographien der Entnetzung in einer mediatisierten Welt"'
 excerpt: "Geschrieben von: Natalie Hilmers"
 date: "2023-09-24T18:23:39.000Z"
+oldUrl: /blog/2023/arbeit3/
 ---
 
 # "Leben ohne Smartphone – Geographien der Entnetzung in einer mediatisierten Welt"

@@ -10,7 +10,7 @@ type PositionType = "left" | "right";
 
 const styles = {
   container: {
-    gap: 50,
+    gap: "50px",
   },
 };
 

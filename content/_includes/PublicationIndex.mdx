@@ -9,16 +9,16 @@ blog: true
 
 <div>
   {page.data.results.map((page) => (
-    <a class="text-decoration-none" href={page.data.url}>
+    <a class="text-decoration-none" href={page.url}>
       <div class="card my-4 text-white">
         <div class="card-header">
             <div class="row">
               <div class="col-10">
-                <h2 class="text-xl font-medium">{page.data.title}</h2>
+                <h2 class="text-xl font-medium">{page.title}</h2>
               </div>
               <div class="col-2 text-right d-flex justify-content-end">
               <span>
-                {new Date(page.data.date).toLocaleDateString("de-DE", {
+                {new Date(page.date).toLocaleDateString("de-DE", {
                   year: "numeric",
                   month: "numeric",
                   day: "numeric",
@@ -29,10 +29,10 @@ blog: true
 
         </div>
         <div class="card-body">
-          {page.data.imgUrl ? (
+          {page.imgUrl ? (
             <img class="w-full" src={page.data.imgUrl} />
           ) : null}
-          <div class="m-1">{page.data.excerpt}</div>
+          <div class="m-1">{page.excerpt}</div>
         </div>
       </div>
     </a>

@@ -7,12 +7,12 @@ const styles = {
   summary: {
     background:
       "linear-gradient(217deg,rgba(124, 20, 38, 1) 0%, rgba(15, 34, 77, 1) 37%)",
-    borderRadius: 5,
+    "border-radius": 5,
     padding: "10px 6px",
     margin: "10px 0px",
   },
   text: {
-    paddingTop: 10,
+    "padding-top": "10px",
   },
 };
 

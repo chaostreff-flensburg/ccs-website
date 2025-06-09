@@ -5,6 +5,8 @@ tags:
 title: "Arbeit Nr. 5: Zwischen Überwachungskapitalismus und Überwachungsstaat"
 excerpt: "Geschrieben von: Julia Steinke"
 date: "2024-04-24T18:23:39.000Z"
+oldUrl: /blog/2024/arbeit5/
+
 ---
 
 # "Zwischen Überwachungskapitalismus und Überwachungsstaat"

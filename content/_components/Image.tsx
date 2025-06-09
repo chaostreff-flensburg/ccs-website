@@ -9,16 +9,16 @@ interface ImageProps {
 const styles = {
   imageContainer: {
     display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-    justifyContent: "center",
+    'flex-direction': "column",
+    'align-items': "center",
+    'justify-content': "center",
   },
   image: {
     aspectRatio: 1,
     objectFit: "cover",
     width: "100%",
     boxShadow: "0.5rem 0.5rem 1rem #222a",
-    borderRadius: 10,
+    borderRadius: "10px",
   },
   text: {
     color: "#c4c4c4",
