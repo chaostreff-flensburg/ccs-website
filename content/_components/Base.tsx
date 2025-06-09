@@ -11,6 +11,10 @@ export default ({ title, children, ...props }) => (
       <meta name="robots" content="index, follow" />
       <meta name="author" content="Chaostreff Flensburg e.V." />
       <meta name="publisher" content="Chaostreff Flensburg e.V." />
+      <meta
+        name="description"
+        content="The Chaotischer Catalysator Scholarship Program."
+      ></meta>
 
       <link rel="icon" sizes="32x32" href="/favicon/favicon-32x32.png" />
       <link rel="icon" sizes="16x16" href="/favicon/favicon-16x16.png" />
