@@ -2,18 +2,18 @@ import IconRocketSVG from "../Images/IconRocketSVG.tsx";
 
 const styles = {
   section: {
-    paddingTop: 20,
+    "padding-top": "20px",
   },
   container: {
     display: "flex",
-    flexDirection: "row",
-    alignItems: "center",
+    "flex-direction": "row",
+    "align-ttems": "center",
   },
   title: {
-    paddingBottom: 10,
+    "padding-bottom": "10px",
   },
   icon: {
-    margin: 40,
+    margin: "40px",
   },
 };
 

@@ -4,7 +4,7 @@ import Button from "../Buttons/Button.tsx";
 const styles = {
   buttonContainer: {
     display: "flex",
-    justifyContent: "center",
+    "justify-content": "center",
   },
 };
 

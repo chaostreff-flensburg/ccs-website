@@ -4,7 +4,7 @@ import OutlineButton from "../Buttons/OutlineButton.tsx";
 const styles = {
   buttonContainer: {
     display: "flex",
-    justifyContent: "center",
+    "justify-content": "center",
   },
 };
 

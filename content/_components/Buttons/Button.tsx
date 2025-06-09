@@ -2,7 +2,7 @@ import ButtonBase from "./ButtonBase.tsx";
 
 const styles = {
   button: {
-    backgroundColor: "#9340ff",
+    "background-color": "#9340ff",
     color: "#ffffff !important",
   },
 };

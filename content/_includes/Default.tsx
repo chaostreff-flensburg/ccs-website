@@ -28,7 +28,6 @@ export default ({ title, children, ...props }) => (
               </h1>
               <p>
                 {props.semester}
-                {props.text.semester}
                 {CURRENT_SEMESTER}
               </p>
               <ul class="list-inline">
@@ -55,7 +54,7 @@ export default ({ title, children, ...props }) => (
                 target="blank"
                 class="btn btn-outline-light"
               >
-                {props.text.subscribe_newsletter}
+                {props.subscribe_newsletter}
               </a>
             </div>
           </div>
@@ -63,27 +62,27 @@ export default ({ title, children, ...props }) => (
           <div class="card-body content">
             <main class="p-md-4">
               <div class="homeContent">
-                {SHOW_FUNDING_BOX && <FundingTimeInfoBox text={props.text} />}
-                {FUNDING_IS_OUT && <AllFundingGoneBox text={props.text} />}
-                <Intro text={props.text} />
+                {SHOW_FUNDING_BOX && <FundingTimeInfoBox text={props} />}
+                {FUNDING_IS_OUT && <AllFundingGoneBox text={props} />}
+                <Intro text={props} />
                 <hr />
-                <InfoTextList text={props.text} />
+                <InfoTextList text={props} />
                 <hr />
-                <ApplyNow text={props.text} />
+                <ApplyNow text={props} />
                 <hr />
-                <Impuls text={props.text} />
+                <Impuls text={props} />
                 <hr />
-                <GetToKnowUs text={props.text} />
+                <GetToKnowUs text={props} />
                 <hr />
-                <Faq text={props.text} />
+                <Faq text={props} />
                 <hr />
-                <Terms text={props.text} />
+                <Terms text={props} />
                 {children}
               </div>
               <hr />
-              <props.comp.Newsletter text={props.text} />
+              <props.comp.Newsletter text={props} />
               <hr />
-              <Sponsors text={props.text} />
+              <Sponsors text={props} />
             </main>
           </div>
         </div>

@@ -1,5 +1,5 @@
 const defaultStyle = {
-  backgroundColor: "#9340ff",
+  "background-color": "#9340ff",
   height: "4px",
   border: "none",
   margin: "50px 0",

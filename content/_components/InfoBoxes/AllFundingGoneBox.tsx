@@ -3,13 +3,13 @@ import InfoBox from "./InfoBox.tsx";
 
 const styles = {
   body: {
-    marginBottom: "0",
+    marginBottom: "0px",
   },
   icon: {
     width: "30%",
     height: "auto",
-    alignSelf: "flex-end",
-    marginLeft: 80,
+    "align-self": "flex-end",
+    "margin-left": "80px",
   },
 };
 export default function ({ text }) {

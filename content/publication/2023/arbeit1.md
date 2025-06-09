@@ -5,6 +5,7 @@ tags:
 title: 'Arbeit Nr. 1: "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"'
 excerpt: "Geschrieben von: Joris Grahl"
 date: "2023-07-08T18:23:39.000Z"
+oldUrl: /blog/2023/arbeit1/
 ---
 
 # "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"
