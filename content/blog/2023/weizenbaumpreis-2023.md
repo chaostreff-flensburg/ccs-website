@@ -6,6 +6,7 @@ title: "Mareike gewinnt Weizenbaum-Studienpreis"
 excerpt: "Unsere Stipendiatin Mareike hat mit der von uns geförderten Masterarbeit 'Von der (Un-)Möglichkeit, digital mündig zu sein' den Weizenbaum-Studienpreis 2023 abgeräumt! Der Weizenbaum-Studienpreis wird jährlich vom FIfF in Erinnerung an den Wissenschaftler..."
 date: "2023-11-05T09:23:39.000Z"
 img: "/media/blog/fiff.png"
+alt: "Eine Frau mit langen braunen Haaren hält ein Mikrofon in der Hand"
 ---
 
 # Herzlichen Glückwunsch Mareike!

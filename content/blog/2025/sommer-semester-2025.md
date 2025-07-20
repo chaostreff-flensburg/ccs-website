@@ -7,6 +7,7 @@ img: "/media/blog/ccs.png"
 excerpt: "Das Chaotische Catalysatoren Stipendienprogramm geht in die nächste Runde!
 Im Rahmen des Chaotischen Catalysator Stipendienprogramms können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen..."
 date: "2025-05-31T01:23:39.000Z"
+alt: "Chaotische Catalysatoren Stipendium"
 ---
 
 # Die sechste Runde im Sommersemester 2025 startet

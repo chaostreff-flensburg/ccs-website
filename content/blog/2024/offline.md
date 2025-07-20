@@ -6,6 +6,7 @@ title: "Offline: Nathalie zu Gast bei Zeit Online"
 excerpt: "Die Offliner heißt der Online-Artikel des Zeit Reporters Markus Wanzeck in dem er unterschiedliche Expert*innen zum Leben in Deutschland ohne Internet und Smartphone befragt. Darunter auch unsere Stpendiatin Nathalie."
 date: "2024-06-30T14:23:39.000Z"
 img: "/media/blog/offline.png"
+alt: "Screenshot von einer Webseite mit dem Text: 'Die Offline Drei Millionen Menschen leben in Deutschland ohne Internet. Das kann für Betroffene zu einem existenziellen Problem werden. Braucht es ein Recht auf analoges Leben'"
 ---
 
 # Kein Leben ohne Internet? Nathalie zu Gast bei der Zeit

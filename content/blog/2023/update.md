@@ -7,6 +7,7 @@ excerpt: "Chaotischer Catalysator Stipendien (CCS) sucht nach Themen, die sich d
 Was genau im ersten Jahr passiert, wird in diesem Talk gezeigt. Also macht euch bereit auf Statistiken, einige Zahlen und sehr sehr coole Forschungsarbeiten."
 date: "2023-11-03T09:23:39.000Z"
 img: "/media/blog/nook-vortrag.png"
+alt: "Eine Karte von Deutschland mit roten Punkten 3 Semester Aktiv. 21 Bewerbungen. 8 Stipendien. 3 fertiggestellte Arbeiten."
 ---
 
 # 1 Jahr CCS – Was ist der Stand der Dinge?

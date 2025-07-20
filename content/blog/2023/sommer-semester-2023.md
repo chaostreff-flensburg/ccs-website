@@ -6,6 +6,7 @@ title: 'Die zweite Runde im Sommersemester 2023 startet'
 excerpt: 'Du kannst dich bis zum 30.09.2023 bewerben'
 date: "2023-04-01T18:23:39.000Z"
 img: "/media/blog/ccs.png"
+alt: "Chaotische Catalysatoren Stipendium"
 ---
 
 # Die zweite Runde im Sommersemester 2023 startet
