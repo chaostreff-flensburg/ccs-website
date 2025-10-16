@@ -2,6 +2,11 @@ export default ({ text }) => (
   <section class="row">
     <div class="col-auto">
       <p class="small">
+        <a rel="me" href="https://chaos.social/@ccs">Folge uns auf Mastodon</a>
+      </p>
+    </div>
+    <div class="col-auto">
+      <p class="small">
         {text.footer_slogan}{" "}
         <a href="https://c3fl.de/">Chaos Computer Club Flensburg e.V.</a>
       </p>
