@@ -5,7 +5,9 @@ tags:
 title: "Arbeit Nr. 8: You and Eye"
 excerpt: "Geschrieben von: Katharina Lübeck"
 date: "2025-03-12T15:23:39.000Z"
-oldUrl: /blog/2025/arbeit8/
+oldUrl: 
+  - /blog/2025/arbeit8/
+  - /p/9
 ---
 
 # "You and Eye"
