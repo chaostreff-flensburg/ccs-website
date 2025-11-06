@@ -2,6 +2,7 @@ import CccflSVG from "../Images/Logos/CccflSVG.tsx";
 import CccSVG from "../Images/Logos/CccSVG.tsx";
 import ChaotikumSVG from "../Images/Logos/ChaotikumSVG.tsx";
 import FnordserverSVG from "../Images/Logos/FnordserverSVG.tsx";
+import WauHollandPNG from "../Images/Logos/WauHollandPNG.tsx"
 
 const styles = {
   container: {
@@ -24,6 +25,9 @@ const styles = {
 export default ({ text }) => (
   <section>
     <div style={styles.container} className="display-row">
+      <div className={"twentyFive"}>
+        <h2>{text.sponsors_title1}</h2>
+      </div>
       <div className={"twentyFive"}>
         <a
           href={"https://www.ccc.de/"}
@@ -48,7 +52,20 @@ export default ({ text }) => (
           <ChaotikumSVG />
         </a>
       </div>
+    </div>
+    <div style={styles.container} className="display-row">
       <div className={"twentyFive"}>
+        <h2>{text.sponsors_title2}</h2>
+      </div>
+      <div className={"twentyFive"}>
+        <a
+          href={"https://www.wauland.de/"}
+          aria-label="Visit the site of our sponsor: Wau Holland Stiftung."
+        >
+          <WauHollandPNG />
+        </a>
+      </div>
+            <div className={"twentyFive"}>
         <a
           href={"https://fnordserver.eu/"}
           aria-label="Visit the site of our tech and infrastruture sponsor: FnordServer."

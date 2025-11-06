@@ -126,6 +126,8 @@ de:
   terms_title5: "5. Optionale Beteiligung"
   terms_point1_optional: "Die Teilnahme an Stipendiumstreffen,Vorträgen, Podcasts oder Workshops ist optional, aber ausdrücklich erwünscht. Wir übernehmen dafür deine Reisekosten und Unterbringung."
 
+  sponsors_title1: "Projekt von"
+  sponsors_title2: "Unterstützt durch"
 
 en:
   semester: "Funding period "
@@ -238,3 +240,5 @@ en:
   terms_title5: "5. Optional Participation"
   terms_point1_optional: "Participation in scholarship meetups, talks, podcasts, or workshops is optional, but strongly encouraged. We will cover your travel expenses and accommodation."
 
+  sponsors_title1: "Project by"
+  sponsors_title2: "With support of"
