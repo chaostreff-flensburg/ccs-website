@@ -1,6 +1,6 @@
 export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
-    <section data-theme="dark" class="layout">
+    <section data-theme="dark" class="layout min-vh-100">
       <main class="container">
         <div class="card border-0 shadow rounded">
           <div class="headerBackground row">
@@ -25,7 +25,7 @@ export default ({ title, children, ...props }) => (
           </div>
         </div>
       </main>
-      <footer class="p-4">
+      <footer class="p-4 container">
         <props.comp.Footer {...props} />
       </footer>
     </section>
