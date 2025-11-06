@@ -19,7 +19,9 @@ export default ({ title, children, ...props }) => (
             </nav>
           </section>
           <div class="card-body content">
-            <main class="p-md-4">{children}</main>
+            <main class="p-md-4">
+              {children}
+            </main>
           </div>
         </div>
       </main>
