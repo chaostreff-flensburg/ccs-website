@@ -38,10 +38,12 @@ Large Language Models</td>
 <td><strong>Geschrieben von:</strong></td>
 <td>Paul Gottschalk</td>
 </tr>
+<td><strong>Veröffentlicht unter:</strong></td>
+<td><a href="https://doi.org/10.5281/zenodo.17045747">DOI 10.5281/zenodo.17045747</a></td>
+</tr>
 </tbody>
 </table>
 
-[Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-13_hey-chatty.pdf)
 
 ## Abstract
 

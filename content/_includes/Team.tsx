@@ -23,7 +23,7 @@ export default ({ title, children, ...props }) => (
           </div>
         </div>
       </main>
-      <footer class="p-4">
+      <footer class="p-4 container">
         <props.comp.Footer {...props} />
       </footer>
     </section>
