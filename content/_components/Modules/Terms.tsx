@@ -41,7 +41,7 @@ export default ({ text }) => (
       <h3 style={styles.title}>{text.terms_title3}</h3>
       <ul>
         <li>{text.terms_point1_supply}</li>
-        <li>{text.terms_point2_openAccess_beginn} <a href="test.de">{text.terms_point2_openAccess_link}</a> {text.terms_point2_openAccess_end}</li>
+        <li>{text.terms_point2_openAccess_beginn} <a href="https://zenodo.org/communities/ccstipendium/">{text.terms_point2_openAccess_link}</a> {text.terms_point2_openAccess_end}</li>
         <li>{text.terms_point3_fame}</li>
       </ul>
 

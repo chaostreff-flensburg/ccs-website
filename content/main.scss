@@ -506,7 +506,7 @@ input::placeholder {
   width: fit-content;
 }
 
-.coolinput input[type=text].input {
+.coolinput input[id=name].input {
   padding: 11px 10px;
   font-size: 1rem;
   border: 2px #ffffff solid;
