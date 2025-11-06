@@ -1,9 +1,11 @@
+import IconMastodonSVG from "./Images/IconMastodonSVG.tsx";
+import IconInstagramSVG from "./Images/IconInstagramSVG.tsx";
+
 export default ({ text }) => (
-  <section class="row">
+  <section class="row align-items-center">
     <div class="col-auto">
-      <p class="small">
-        <a rel="me" href="https://chaos.social/@ccs">Folge uns auf Mastodon</a>
-      </p>
+       <a rel="me" href="https://chaos.social/@ccs" style={{ padding: '10px' }}><IconMastodonSVG /></a>
+       <a rel="me" href="https://www.instagram.com/ccstipendium"><IconInstagramSVG /></a> 
     </div>
     <div class="col-auto">
       <p class="small">
