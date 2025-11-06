@@ -18,6 +18,6 @@ export const FUNDING_IS_OUT = false;
 export const NEWSLETTER_URL = "https://newsletter.c3fl.de/subscription/form";
 
 /* Next Dates for "Get to Know Us" Calls: */
-export const GTKU_DATE_ONE = "Di, 04.11.2025 - 18:00 bis 19:00 Uhr";
-export const GTKU_DATE_TWO = "Do, 18.12.2025 - 19:00 bis 20:00 Uhr";
+export const GTKU_DATE_ONE = "Mi, 03.12.2025 - 18:00 bis 19:00 Uhr";
+export const GTKU_DATE_TWO = "Do, 15.01.2026 - 19:00 bis 20:00 Uhr";
 export const GTKU_LINK = "https://meet.ffmuc.net/ccs-info";
