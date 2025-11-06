@@ -16,11 +16,16 @@ blog: false
         {page.data.team.orga.length > 0 ? (
           page.data.team.orga.map((teamMember) => (
             <div key={teamMember.name} className="team-card">
-              <img
-                src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
-                alt={`${teamMember.name}'s picture`}
-                className="team-image"
-              />
+              <picture>
+                <source
+                  srcSet={`${teamMember.picture?.replace(/\.(jpg|jpeg|png)$/, ".avif") || "/media/teamPictures/kitty.avif"}`}
+                  type="image/avif"
+                />
+                <img
+                  src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
+                  alt={`${teamMember.name}'s picture`}
+                  className="team-image"/>
+              </picture>
               <div className="team-card-body">
               <h3 className="team-name">{teamMember.name}</h3>
               <h4 className="team-title">{teamMember.title}</h4>
@@ -50,11 +55,16 @@ blog: false
         {page.data.team.beirat.length > 0 ? (
           page.data.team.beirat.map((teamMember) => (
             <div key={teamMember.name} className="team-card">
-              <img
-                src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
-                alt={`${teamMember.name}'s picture`}
-                className="team-image"
-              />
+              <picture>
+                <source
+                  srcSet={`${teamMember.picture?.replace(/\.(jpg|jpeg|png)$/, ".avif") || "/media/teamPictures/kitty.avif"}`}
+                  type="image/avif"
+                />
+                <img
+                  src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
+                  alt={`${teamMember.name}'s picture`}
+                  className="team-image"/>
+              </picture>
               <div className="team-card-body">
               <h3 className="team-name">{teamMember.name}</h3>
               <h4 className="team-title">{teamMember.title}</h4>
@@ -83,11 +93,16 @@ blog: false
         {page.data.team.mentor.length > 0 ? (
           page.data.team.mentor.map((teamMember) => (
             <div key={teamMember.name} className="team-card">
-              <img
-                src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
-                alt={`${teamMember.name}'s picture`}
-                className="team-image"
-              />
+              <picture>
+                <source
+                  srcSet={`${teamMember.picture?.replace(/\.(jpg|jpeg|png)$/, ".avif") || "/media/teamPictures/kitty.avif"}`}
+                  type="image/avif"
+                />
+                <img
+                  src={teamMember.picture || "/media/teamPictures/kitty.jpg"}
+                  alt={`${teamMember.name}'s picture`}
+                  className="team-image"/>
+              </picture>
               <div className="team-card-body">
               <h3 className="team-name">{teamMember.name}</h3>
               <h4 className="team-title">{teamMember.title}</h4>
