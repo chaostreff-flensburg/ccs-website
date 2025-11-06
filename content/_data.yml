@@ -96,30 +96,36 @@ de:
   faq_answer9: "Dann schreib uns eine E-Mail an ccs@chaostreff-flensburg.de. Wenn du irgendwelche Probleme beim Beirat oder beim Prozess melden möchtest, schreib bitte eine E-Mail an vorstand@chaostreff-flensburg.de Beide E-Mail-Adressen werden in einem Ticketsystem verarbeitet und werden ggf. von verschiedenen Personen gesehen."
 
   terms_title: "Stipendiumsbedingungen"
+  terms_title1: "1. Teilnahmevoraussetzungen"
+  terms_point1_dateframe1: "Du schreibst im "
+  terms_point1_dateframe2: " eine Master- oder Diplomarbeit."
+  terms_point2_begin: "Der Bearbeitungsbeginn (offizielle Anmeldung) deiner Arbeit liegt zwischen dem "
+  terms_point2_and: " und "
+  terms_point2_end: "."
+  terms_point3_uni: "Du schreibst deine Arbeit an einer deutschen Universität oder Hochschule."
+  terms_point4_taxes: "Du bist in Deutschland steuerpflichtig."
+  terms_point5_profs: "Du hast das Einverständnis deiner Professorin / deines Professors oder Instituts zu den unten genannten Punkten."
+  
+  terms_title2: "2. Thema der Abschlussarbeit"
+  terms_point1_theme: "Dein Thema beschäftigt sich mit Informationstechnologien und deren Einfluss auf die Gesellschaft und/oder Ideen, wie sich die Welt nach den Grundsätzen der Hacker*innen-Ethik verbessern lässt."
+  terms_point2_area: "Die Fachrichtung spielt keine Rolle. Einreichungen aus allen wissenschaftlichen Disziplinen sind willkommen."
+  terms_point3_indipendence: "Es können Themen eingereicht werden, die noch nicht offiziell angemeldet sind oder bereits von der Universität bestätigt wurden. Die geplante offizielle Anmeldung muss jedoch im oben genannten Bearbeitungszeitraum liegen."
+  terms_point4_content: "Der Inhalt der Arbeit bleibt vollständig unabhängig. Es erfolgt kein inhaltlicher Einfluss durch das Stipendium."
 
-  terms_point1a: "Du schreibst im "
-  terms_point1b: " eine Master- oder Diplomarbeit."
+  terms_title3: "3. Veröffentlichung und Zugänglichkeit"
+  terms_point1_supply: "Nach der Benotung ist die Arbeit den Stipendiengeber*innen zur Verfügung zu stellen."
+  terms_point2_openAccess_beginn: "Die bestandene Arbeit muss nach der Benotung frei zugänglich unter Creative Commons Lizenz auf Zendodo, einer Open Access Platform, in unserer "
+  terms_point2_openAccess_link: "Community"
+  terms_point2_openAccess_end: " veröffentlicht werden. Wir unterstützen dich dabei - eine Veröffentlichung unter Psydonym oder ohne Namen ist möglich."
+  terms_point3_fame: "Du erklärst dich damit einverstanden, dass deine Arbeit öffentlich beworben werden darf. Dein Name (oder Pseudonym) wird  dabei möglicherweise bekannter wird als bei einer üblichen Masterarbeit."
 
-  terms_point11a: "Der Bearbeitungsbeginn liegt zwischen "
-  terms_point11b: " und "
+  terms_title4: "4. Nach der Abgabe"
+  terms_point1_poster: "Nach Abschluss deiner Arbeit bereitest du (mit Unterstützung und Vorlage durch das Stipendiumsteam) ein wissenschaftliches Poster zu deinen Ergebnissen auf."
+  terms_point2_presentation: "Du hältst einen informellen Abschlusssvortrag zur Präsentation deiner Arbeitsergebnisse. Dies soll keine Prüfungsleistung sein, sondern eine gemeinsame Feier deines Abschlusses. Mit Snacks und dem Team."
 
-  terms_point12: "Du kannst sowohl Themen einreichen, die noch nicht offiziell bei deiner Universität angemeldet werden, als auch solche, die bereits bestätigt wurden."
+  terms_title5: "5. Optionale Beteiligung"
+  terms_point1_optional: "Die Teilnahme an Stipendiumstreffen,Vorträgen, Podcasts oder Workshops ist optional, aber ausdrücklich erwünscht. Wir übernehmen dafür deine Reisekosten und Unterbringung."
 
-  terms_point2: "Du schreibst über ein Thema, das sich die Informationstechnologien dieser Welt genauer anschaut, ihren Einfluss auf die Gesellschaft untersucht und/oder Ideen entwickelt, wie die Welt nach den Grundsätzen der Hacker*innen-Ethik verbesserbar ist."
-  terms_point21: "Die Fachrichtung ist uns egal, wir freuen uns auf Einreichungen aus vielen verschiedenen Wissenschaftsbereichen."
-
-  terms_point3: "Du schreibst deine Masterarbeit an einer deutschen Universität oder Hochschule und bist in Deutschland steuerpflichtig."
-
-  terms_point4: "Wir nehmen keinen Einfluss auf den Inhalt der Arbeit."
-
-  terms_point5: "Die Arbeit wird frei zugänglich veröffentlicht."
-  terms_point51: "Das bedeutet, es darf keine Geheimhaltungsvereinbarungen geben."
-  terms_point52: "Die Arbeit muss kostenlos im Internet aufrufbar sein, wir stellen hierfür bei Bedarf auch die Infrastruktur bereit."
-  terms_point53: "Nach Benotung deiner Arbeit ist uns diese zur Verfügung zu stellen."
-
-  terms_point6: "Du bist damit einverstanden sein, dass wir deine Arbeit öffentlich bewerben und dass die Arbeit und dein Name damit möglicherweise bekannter werden, als bei einer Masterarbeit üblich ist."
-
-  terms_point7: "Einverständnis von deiner*m Professor*in/Institut für die oben genannten Punkte."
 
 en:
   semester: "Funding period "
@@ -200,18 +206,35 @@ en:
   faq_answer8: "Nice that you are here! We are always looking for exciting contacts. The best thing to do is to write a short email to ccs@chaostreff-flensburg.de and we'll start a dialogue. Feel free to tell your students about this scholarship programme and work with them to find interesting topics for a possible thesis, which they can then submit to us."
   faq_question9: "Do you have any further questions?"
   faq_answer9: "Then send us an email to ccs@chaostreff-flensburg.de. If you would like to report any problems with the advisory board or the process, please send an e-mail to vorstand@chaostreff-flensburg.de. Both e-mail addresses are processed in a ticket system and may be seen by different people."
-  terms_title: "Scholarship terms and conditions"
-  terms_point1a: "You are writing a master's or diploma thesis in "
-  terms_point11a: "The start date for your Master's thesis is between "
-  terms_point11b: " and "
-  terms_point12: "You can submit topics that have not yet been officially registered with your university as well as those that have already been confirmed."
-  terms_point2: "You write about a topic that takes a closer look at the world's information technologies, examines their impact on society and/or develops ideas on how the world can be improved according to the principles of the hacker ethic."
-  terms_point21: "We are happy to receive submissions from many different scientific disciplines."
-  terms_point3: "You are writing your Master's thesis at a German university or college and are liable for tax in Germany."
-  terms_point4: "We have no influence on the content of the work."
-  terms_point5: "The work is published freely accessible."
-  terms_point51: "This means that there must be no non-disclosure agreements."
-  terms_point52: "The work must be accessible free of charge on the Internet, and we will also provide the infrastructure for this if required."
-  terms_point53: "After your work has been graded, it must be made available to us."
-  terms_point6: "You agree that we may advertise your work publicly and that the work and your name may become better known than is usual for a Master's thesis."
-  terms_point7: "Consent from your professor/institute for the above points."
+  
+  terms_title: "Scholarship Terms and Conditions"
+  terms_title1: "1. Eligibility Requirements"
+  terms_point1_dateframe1: "You are writing your Master’s or Diploma thesis in "
+  terms_point1_dateframe2: "."
+  terms_point2_begin: "The start of your thesis (official registration date) must fall between "
+  terms_point2_and: " and "
+  terms_point2_end: "."
+  terms_point3_uni: "You are writing your thesis at a German 'Universität' or 'Hochschule'."
+  terms_point4_taxes: "You are subject to taxation in Germany."
+  terms_point5_profs: "You have obtained the consent of your professor or institute regarding the points listed below."
+  
+  terms_title2: "2. Thesis Topic"
+  terms_point1_theme: "Your topic deals with information technologies and their impact on society and/or explores ideas on how to improve the world according to the principles of hacker ethics."
+  terms_point2_area: "The academic field does not matter. Submissions from all scientific disciplines are welcome."
+  terms_point3_indipendence: "Topics that have not yet been officially registered or have already been approved by the university may be submitted. However, the planned official registration must take place within the timeframe mentioned above."
+  terms_point4_content: "The content of your thesis remains completely independent. The scholarship does not exert any influence on the substance of your work."
+
+  terms_title3: "3. Publication and Accessibility"
+  terms_point1_supply: "After grading, your thesis must be made available to the scholarship providers."
+  terms_point2_openAccess_beginn: "Once your thesis has been graded and passed, it must be made freely accessible under a Creative Commons license on Zenodo, an open-access platform, in our "
+  terms_point2_openAccess_link: "community"
+  terms_point2_openAccess_end: " section. We will support you with this — publication under a pseudonym or anonymously is possible."
+  terms_point3_fame: "You agree that your thesis may be publicly promoted. Your name (or pseudonym) may therefore become more widely known than with a typical master’s thesis."
+
+  terms_title4: "4. After Submission"
+  terms_point1_poster: "After completing your thesis, you will prepare a scientific poster summarizing your results (with guidance and a template provided by the scholarship team)."
+  terms_point2_presentation: "You will give an informal final presentation to share your thesis results. This is not an examination, but a joint celebration of your achievement with snacks and the team."
+
+  terms_title5: "5. Optional Participation"
+  terms_point1_optional: "Participation in scholarship meetups, talks, podcasts, or workshops is optional, but strongly encouraged. We will cover your travel expenses and accommodation."
+
