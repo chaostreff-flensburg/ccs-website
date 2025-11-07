@@ -438,13 +438,6 @@ hr#one {
     align-items: center;
   }
 
-  .team-image {
-    width: 50%;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    object-fit: cover;
-  }
-
   .team-year {
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
@@ -456,6 +449,29 @@ hr#one {
   .team-card {
     width: 100%;
     flex-direction: row;
+    margin: 15px 0px;
+  }
+
+  .team-card-body {
+    width: 50%
+  }
+
+  .team-image-container{
+    width: 50%;
+  }
+
+  .team-picture {
+    display: flex;
+    height: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 8px;
+  }
+
+  .team-image {
+    object-fit: cover;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 8px;
   }
 
   .button-group {
