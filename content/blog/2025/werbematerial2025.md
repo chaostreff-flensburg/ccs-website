@@ -16,8 +16,8 @@ Dafür haben wir sowohl unser Poster, als auch unserer Flyer Design geupdated.
 
 Die digitale Version stellen wir dir gerne bereit:
 
-* [Plakat 2025, PDF 5,2MB](http://localhost:3000/documents/CCS_Plakat_2025.pdf)
-* [Flyer 2025, PDF 7,2MB](http://localhost:3000/documents/CCS_Flyer_2025.pdf)
+* [Plakat 2025, PDF 5,2MB](https://chaos-stipendien.de/documents/CCS_Plakat_2025.pdf)
+* [Flyer 2025, PDF 7,2MB](https://chaos-stipendien.de/documents/CCS_Flyer_2025.pdf)
 
 Wenn du auch gerne eine analoge Version erhalten möchtest, melde dich gerne per email an *ccs(at)chaostreff-flensburg.de*
 und wir schicken dir Poster und Flyer zu.
