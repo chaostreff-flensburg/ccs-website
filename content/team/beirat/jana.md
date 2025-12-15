@@ -5,6 +5,6 @@ tags:
 picture: "/media/teamPictures/jana.jpg"
 title: Ingenieurwissenschaften
 socialLinks:
-  linkedIn: https://de.linkedin.com/in/jana-peper
+  LinkedIn: https://de.linkedin.com/in/jana-peper
 type: beirat
 ---
