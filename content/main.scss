@@ -21,7 +21,8 @@ $grid-breakpoints: (
   font-weight: 400;
   src: local(""), url("/fonts/roboto-v30-latin-regular.woff2") format("woff2"),
     /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("/fonts/roboto-v30-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("/fonts/roboto-v30-latin-regular.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /* roboto-500 - latin */
@@ -31,7 +32,8 @@ $grid-breakpoints: (
   font-weight: 500;
   src: local(""), url("/fonts/roboto-v30-latin-500.woff2") format("woff2"),
     /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("/fonts/roboto-v30-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("/fonts/roboto-v30-latin-500.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /* roboto-700 - latin */
@@ -41,7 +43,8 @@ $grid-breakpoints: (
   font-weight: 700;
   src: local(""), url("/fonts/roboto-v30-latin-700.woff2") format("woff2"),
     /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("/fonts/roboto-v30-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("/fonts/roboto-v30-latin-700.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /* roboto-900 - latin */
@@ -51,7 +54,8 @@ $grid-breakpoints: (
   font-weight: 900;
   src: local(""), url("/fonts/roboto-v30-latin-900.woff2") format("woff2"),
     /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("/fonts/roboto-v30-latin-900.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("/fonts/roboto-v30-latin-900.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 /**  Overright Dark Theme: **/
@@ -111,9 +115,10 @@ body {
 @media (max-width: 768px) {
   .display-row {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     align-items: center;
   }
+
   .max-60 {
     max-width: 100%;
   }
@@ -135,9 +140,13 @@ ol {
   font-size: 1.2rem;
 }
 
-ol { ul { li {
-  font-size: 1rem;
-} } }
+ol {
+  ul {
+    li {
+      font-size: 1rem;
+    }
+  }
+}
 
 .link-inside-text {
   font-family: "Roboto", serif;
@@ -159,11 +168,13 @@ ol { ul { li {
   padding: 4rem 2rem;
   opacity: 0.8;
   margin: 0;
+
   .headLine {
     font-size: 5rem;
     font-weight: 900;
     letter-spacing: 0.1em;
   }
+
   .socialIcons {
     a {
       padding: 0.5rem;
@@ -177,6 +188,7 @@ ol { ul { li {
   top: 0;
   z-index: 20;
   background-color: #1e213a;
+
   nav {
     min-height: 38px;
     max-width: 920px;
@@ -193,11 +205,13 @@ ol { ul { li {
     border-radius: var(--border-radius);
     box-shadow: 0 4px 12px var(--shadow);
   }
+
   @media (max-width: 920px) {
     nav {
       border-radius: 0;
     }
   }
+
   a {
     padding: 6px 15px;
     color: var(--foreground);
@@ -209,16 +223,20 @@ ol { ul { li {
 }
 
 .homeContent {
-  h1, h2 {
+
+  h1,
+  h2 {
     margin: 2rem 0;
     font-size: 2.5rem;
     font-weight: bold;
   }
+
   h3 {
     margin: 2rem 0;
     font-size: 2rem;
     font-weight: bold;
   }
+
   summary {
     font-size: 1.25rem;
     margin-top: 0;
@@ -227,14 +245,17 @@ ol { ul { li {
     line-height: 1.2;
     font-family: "Roboto", serif;
   }
+
   .row.section {
     margin: 4rem 0;
   }
+
   .image-container {
     display: flex;
     align-items: center;
     justify-content: center;
   }
+
   img.flow {
     border-radius: 3rem;
     aspect-ratio: 1;
@@ -242,6 +263,7 @@ ol { ul { li {
     width: 100%;
     box-shadow: 0.5rem 0.5rem 1rem #222a;
   }
+
   p,
   ul,
   ol {
@@ -266,9 +288,9 @@ hr {
   outline: none;
   margin: 3em 3em 5em;
   position: relative;
-  
+
   &:before {
-    
+
     content: attr(data-symbol);
     position: absolute;
     top: 0;
@@ -286,35 +308,39 @@ hr#one {
 
 // Buttons
 
-.btn-grad {background-image: linear-gradient(to right, #7C1426 0%, #0F224D  51%, #7C1426  100%)}
 .btn-grad {
-   margin: 10px;
-   border: none;
-   padding: 15px 45px;
-   text-align: center;
-   text-transform: uppercase;
-   transition: 0.5s;
-   background-size: 200% auto;
-   color: white;            
-   border-radius: 10px;
-   display: block;
-   text-decoration: none !important;
-   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
- }
+  background-image: linear-gradient(to right, #7C1426 0%, #0F224D 51%, #7C1426 100%)
+}
 
- .btn-grad:hover {
-   background-position: right center; /* change the direction of the change here */
-   color: #fff;
-   text-decoration: none !important;
- }
+.btn-grad {
+  margin: 10px;
+  border: none;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+  display: block;
+  text-decoration: none !important;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+.btn-grad:hover {
+  background-position: right center;
+  /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none !important;
+}
 
 
-  .btn-grad {
-    a {
-      color: white !important;
-      text-decoration: none !important;
-    }
+.btn-grad {
+  a {
+    color: white !important;
+    text-decoration: none !important;
   }
+}
 
 /* team.css */
 .team-section {
@@ -341,7 +367,14 @@ hr#one {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color: #fff;
-  width: 25%
+}
+
+.team-three-row {
+  width: 25%;
+}
+
+.team-four-row {
+  width: 21%;
 }
 
 .team-card-body {
@@ -397,7 +430,7 @@ hr#one {
 }
 
 .team-year {
-  background-image: linear-gradient(217deg,rgba(124, 20, 38, 1) 0%, rgba(15, 34, 77, 1) 37%);
+  background-image: linear-gradient(217deg, rgba(124, 20, 38, 1) 0%, rgba(15, 34, 77, 1) 37%);
   color: white;
   text-align: center;
   font-size: x-large;
@@ -436,7 +469,7 @@ hr#one {
 
 @media (max-width: 768px) {
   .team-card-container {
-    flex-direction: column; 
+    flex-direction: column;
     align-items: center;
   }
 
@@ -454,11 +487,19 @@ hr#one {
     margin: 15px 0px;
   }
 
+  .team-three-row {
+    width: 100%;
+  }
+
+  .team-four-row {
+    width: 100%;
+  }
+
   .team-card-body {
     width: 50%
   }
 
-  .team-image-container{
+  .team-image-container {
     width: 50%;
   }
 
@@ -533,6 +574,7 @@ input::placeholder {
   color: #ffffff;
 
 }
+
 .coolinput input[type=email].input {
   padding: 11px 10px;
   font-size: 1rem;
@@ -574,7 +616,7 @@ input::placeholder {
 }
 
 .blog-title-container {
-  background: linear-gradient(217deg,rgba(15, 34, 77, 1) 0%, #7C1426 37%);
+  background: linear-gradient(217deg, rgba(15, 34, 77, 1) 0%, #7C1426 37%);
   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
   padding: 15px 20px;
   display: flex;
@@ -591,6 +633,7 @@ input::placeholder {
   align-self: end;
   margin-right: 20px;
 }
+
 /*
 @import "https://esm.sh/bootstrap@5.2.3/dist/css/bootstrap.min.css";
 @import "https://esm.sh/bootstrap-darkmode@5.0.1/css/darktheme.css";
