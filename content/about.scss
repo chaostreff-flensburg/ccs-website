@@ -1,0 +1,133 @@
+// Colors
+$wine: #7C1426;
+$rose: #8A1F4D;
+$violet: #5E2B8C;
+$white: #fff;
+
+// Gradients
+$gradient-primary: linear-gradient(135deg, $wine, $rose, $violet);
+$gradient-accent: linear-gradient(135deg, $wine, $violet);
+
+// Shadows
+$shadow-soft: 0 2px 6px rgba(0, 0, 0, 0.15);
+$shadow-image: 0.5rem 0.5rem 1rem #222;
+
+// Spacing
+$gap-lg: 45px;
+
+
+%gradient-circle {
+  border-radius: 50%;
+  background: $gradient-accent;
+  box-shadow: $shadow-soft;
+  transition: transform 0.2s ease;
+}
+
+.image {
+  aspect-ratio: 1;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: $shadow-image;
+}
+
+.imageContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.title {
+  margin: 30px 0;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+/* Flex utilities */
+.lessSpace { flex: 1.2 1 0; }
+.moreSpace { flex: 2 1 0; }
+.alignBaseline { align-items: baseline !important; }
+
+.gap { gap: $gap-lg; }
+.pt { padding-top: $gap-lg; }
+
+/* Highlighted text */
+mark {
+  margin: 0 -0.4em;
+  padding: 0.1em 0.4em;
+  border-radius: 0.8em 0.3em;
+  background: $gradient-primary;
+  color: $white;
+  line-height: 1.5em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Ordered list */
+.cool-list {
+  counter-reset: step;
+
+  li {
+    position: relative;
+    padding-left: 3rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    counter-increment: step;
+
+    &::before {
+      @extend %gradient-circle;
+      content: counter(step);
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 2rem;
+      height: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: $white;
+      font-weight: bold;
+    }
+
+    &:hover::before {
+      transform: scale(1.2);
+    }
+  }
+}
+
+/* Unordered list */
+.cool-ul {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    position: relative;
+    padding-left: 3rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.05rem;
+    line-height: 1.6;
+
+    &::before {
+      @extend %gradient-circle;
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.25rem;
+      width: 1.5rem;
+      height: 1.5rem;
+    }
+
+    &:hover::before {
+      transform: scale(1.2);
+    }
+  }
+}
+
+.noPoint {
+  list-style: none;
+}
