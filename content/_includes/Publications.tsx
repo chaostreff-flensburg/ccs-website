@@ -11,6 +11,9 @@ export default ({ title, children, ...props }) => (
           <section class="shadow header">
             <nav class="navbar">
               <a href="/">Startseite</a>
+              <a href="/about/">
+                Über uns
+              </a>
               <a href="/team/">Team</a>
               <a href="/blog/page/1/">Blog</a>
               <a class="active" href="/publication/page/1/">

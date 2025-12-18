@@ -12,6 +12,8 @@ $grid-breakpoints: (
   xxl: 1400px,
 );
 
+@use "about";
+
 /* roboto-regular - latin */
 @font-face {
   font-family: "Roboto";
