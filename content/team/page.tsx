@@ -49,11 +49,10 @@ export default function* ({ search }) {
     }
   }
 
-  console.log(alumniData);
   alumniData.sort((a, b) => b.year - a.year);
 
   yield {
-    url: "/team/",
+    url: "/team",
     layout: "TeamIndex.mdx",
     team: {
       orga: orgaData,
@@ -61,5 +60,18 @@ export default function* ({ search }) {
       alumni: alumniData,
       beirat: beiratData,
     },
+    lang:"de",
+  };
+
+  yield {
+    url: "/en/team",
+    layout: "TeamIndexEN.mdx",
+    team: {
+      orga: orgaData,
+      mentor: mentorData,
+      alumni: alumniData,
+      beirat: beiratData,
+    },
+    lang:"en",
   };
 }

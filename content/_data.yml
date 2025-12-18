@@ -13,6 +13,9 @@ de:
   header_apply: Bewerben
   header_apply_link: "#apply"
   header_publication: "Publikationen"
+  header_blog: Blog
+  header_about: Über uns
+  header_team: Team
 
   info_currentFundingRound_title: "Bald geht es weiter"
   info_currentFundingRound_body: "Die nächste Förderperiode beginnt in Kürze.\nDies kann noch einige Tage dauern. Abonniere unseren Newsletter, sende uns eine Mail um direkt informiert zu werden wenn es weiter geht, oder schaue zu einer späteren Zeit noch Mal bei uns vorbei."
@@ -143,6 +146,9 @@ en:
   header_apply: Apply
   header_apply_link: "#apply"
   header_publication: "Publications"
+  header_blog: Blog
+  header_about: About Us
+  header_team: Team
   info_currentFundingRound_title: "Soon we will continue"
   info_currentFundingRound_body: "The next funding period will begin shortly.\nThis may take a few more days. Subscribe to our newsletter, send us an email to be informed directly when the next round of funding starts, or check back with us at a later date."
   outOfFunding_title: "All scholarships have been awarded"

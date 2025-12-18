@@ -19,46 +19,8 @@ export default ({ title, children, ...props }) => (
     <section data-theme="dark" class="layout">
       <main class="container">
         <div class="card border-0 shadow rounded">
-          <div class="headerBackground row">
-            <div class="col">
-              <h1 class="headLine">
-                Chaotischer <br />
-                Catalysator <br />
-                Stipendium
-              </h1>
-              <p>
-                {props.semester}
-                {CURRENT_SEMESTER}
-              </p>
-              <ul class="list-inline">
-                {props.alternates?.map((alt) => (
-                  <li class="list-inline-item">
-                    <a
-                      class={
-                        alt.lang === props.lang
-                          ? "fw-bold text-white btn btn-outline-light"
-                          : "text-white btn"
-                      }
-                      aria-current={alt.lang === props.lang ? "page" : "false"}
-                      href={alt.url}
-                    >
-                      {alt.lang}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <div class="col-auto d-flex flex-column justify-content-end">
-              <a
-                href="#newsletter"
-                target="blank"
-                class="btn btn-outline-light"
-              >
-                {props.subscribe_newsletter}
-              </a>
-            </div>
-          </div>
           <props.comp.Header {...props} />
+          <props.comp.Navbar page={"home"} {...props} />
           <div class="card-body content">
             <main class="p-md-4">
               <div class="homeContent">
