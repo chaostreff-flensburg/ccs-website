@@ -3,13 +3,13 @@ export const layout = "TeamIndex.mdx";
 interface Member {
   name: string;
   picture: string | null;
-  title: string | undefined;
-  type: string | undefined;
-  socialLinks: string[] | undefined;
-  content: string | undefined;
-  year: number | undefined;
-  position: string | undefined;
-  thesis: string | undefined;
+  title?: string;
+  type?: string;
+  socialLinks?: string[];
+  content?: string;
+  year?: number;
+  position?: string;
+  thesis?: string;
 }
 
 export default function* ({ search }) {
@@ -21,19 +21,21 @@ export default function* ({ search }) {
   const beiratData: Member[] = [];
 
   for (const file of allFiles) {
+    if (!file || typeof file !== "object") continue; // skip invalid entries
+
     const member: Member = {
-      name: file?.name,
-      picture: file?.picture,
-      title: file?.title,
-      type: file?.type,
-      socialLinks: file?.socialLinks,
-      content: file?.content,
-      year: file?.year,
-      position: file?.position,
-      thesis: file?.thesis,
+      name: file.name ?? "Unnamed",
+      picture: file.picture ?? null,
+      title: file.title,
+      type: file.type,
+      socialLinks: Array.isArray(file.socialLinks) ? file.socialLinks : [],
+      content: file.content,
+      year: typeof file.year === "number" ? file.year : undefined,
+      position: file.position,
+      thesis: file.thesis,
     };
 
-    switch (file?.type) {
+    switch (file.type) {
       case "orga":
         orgaData.push(member);
         break;
@@ -46,32 +48,31 @@ export default function* ({ search }) {
       case "beirat":
         beiratData.push(member);
         break;
+      default:
+        console.warn("Unknown member type:", file.type);
     }
   }
 
-  alumniData.sort((a, b) => b.year - a.year);
+  alumniData.sort((a, b) => (b.year ?? 0) - (a.year ?? 0));
+
+  const teamData = {
+    orga: orgaData,
+    mentor: mentorData,
+    alumni: alumniData,
+    beirat: beiratData,
+  };
 
   yield {
     url: "/team",
     layout: "TeamIndex.mdx",
-    team: {
-      orga: orgaData,
-      mentor: mentorData,
-      alumni: alumniData,
-      beirat: beiratData,
-    },
-    lang:"de",
+    team: teamData,
+    lang: "de",
   };
 
   yield {
     url: "/en/team",
     layout: "TeamIndexEN.mdx",
-    team: {
-      orga: orgaData,
-      mentor: mentorData,
-      alumni: alumniData,
-      beirat: beiratData,
-    },
-    lang:"en",
+    team: teamData,
+    lang: "en",
   };
 }
