@@ -63,14 +63,14 @@ export default function* ({ search }) {
   };
 
   yield {
-    url: "/team",
+    url: "/team/",
     layout: "TeamIndex.mdx",
     team: teamData,
     lang: "de",
   };
 
   yield {
-    url: "/en/team",
+    url: "/en/team/",
     layout: "TeamIndexEN.mdx",
     team: teamData,
     lang: "en",
