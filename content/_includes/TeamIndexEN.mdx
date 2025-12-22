@@ -15,7 +15,7 @@ blog: false
     <div className="team-card-container">
       {page.data.team.orga.length > 0 ? (
         page.data.team.orga.map((teamMember) => (
-          <div key={teamMember.name} className="team-card" style={{ width: "21%" }}>
+          <div key={teamMember.name} className="team-card team-three-row">
             <div className="team-image-container">
               <picture className="team-picture">
                 <source
@@ -56,7 +56,7 @@ blog: false
     <div className="team-card-container">
       {page.data.team.beirat.length > 0 ? (
         page.data.team.beirat.map((teamMember) => (
-          <div key={teamMember.name} className="team-card">
+          <div key={teamMember.name} className="team-card team-three-row">
             <div className="team-image-container">
               <picture className="team-picture">
                 <source
@@ -96,7 +96,7 @@ blog: false
     <div className="team-card-container">
       {page.data.team.mentor.length > 0 ? (
         page.data.team.mentor.map((teamMember) => (
-          <div key={teamMember.name} className="team-card" style={{ width: "21%" }}>
+          <div key={teamMember.name} className="team-card team-three-row">
             <div className="team-image-container">
               <picture className="team-picture">
                 <source
@@ -136,7 +136,7 @@ blog: false
     <div className="team-card-container">
       {page.data.team.alumni.length > 0 ? (
         page.data.team.alumni.map((teamMember) => (
-          <div key={teamMember.name} className="team-card">
+          <div key={teamMember.name} className="team-card team-three-row">
             <p className="team-year">{teamMember.year}</p>
             {teamMember.picture && (<img
               src={teamMember.picture}
