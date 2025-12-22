@@ -28,7 +28,7 @@ export default function* ({ search }) {
       picture: file.picture ?? null,
       title: file.title,
       type: file.type,
-      socialLinks: Array.isArray(file.socialLinks) ? file.socialLinks : [],
+      socialLinks: file?.socialLinks,
       content: file.content,
       year: typeof file.year === "number" ? file.year : undefined,
       position: file.position,
