@@ -13,6 +13,7 @@ import {
 import Terms from "../_components/Modules/Terms.tsx";
 import Sponsors from "../_components/Modules/Sponsors.tsx";
 import AllFundingGoneBox from "../_components/InfoBoxes/AllFundingGoneBox.tsx";
+import FundingGoalBox from "../_components/InfoBoxes/FundingGoalBox.tsx";
 
 export default ({ title, children, ...props }) => (
   <props.comp.Base title={title} {...props}>
@@ -26,6 +27,7 @@ export default ({ title, children, ...props }) => (
               <div class="homeContent">
                 {SHOW_FUNDING_BOX && <FundingTimeInfoBox text={props} />}
                 {FUNDING_IS_OUT && <AllFundingGoneBox text={props} />}
+                <FundingGoalBox funding={props.funding}/>
                 <Intro text={props} />
                 <hr />
                 <InfoTextList text={props} />
