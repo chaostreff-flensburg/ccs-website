@@ -4,7 +4,7 @@ type fundingType = {
   percentage: number;
 };
 
-const fundedAmountNumber = 1985.72;
+const fundedAmountNumber = 16737.92;
 const goalNumber = 20000;
 
 const fundedAmount = new Intl.NumberFormat("de-DE", {
