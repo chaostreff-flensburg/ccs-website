@@ -13,7 +13,7 @@ export const END_DATE = "30.04.2026";
 export const SHOW_FUNDING_BOX = false;
 
 /* Set to 'true' when all scolarships have been awarded to display the info on main site */
-export const FUNDING_IS_OUT = false;
+export const FUNDING_IS_OUT = true;
 
 export const NEWSLETTER_URL = "https://newsletter.c3fl.de/subscription/form";
 
