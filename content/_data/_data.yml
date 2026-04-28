@@ -14,7 +14,7 @@ de:
   header_publication: "Publikationen"
 
   info_currentFundingRound_title: "Bald geht es weiter"
-  info_currentFundingRound_body: "Die nächste Förderperiode beginnt in Kürze.\nDies kann noch einige Tage dauern. Abonniere unseren Newsletter, sende uns eine Mail um direkt informiert zu werden wenn es weiter geht, oder schaue zu einer späteren Zeit noch Mal bei uns vorbei."
+  info_currentFundingRound_body: "Die nächste Förderperiode beginnt in Kürze.\nDies kann noch einige Tage dauern.\nAbonniere unseren Newsletter, sende uns eine Mail, oder schaue zu einer späteren Zeit noch Mal bei uns vorbei um direkt informiert zu werden wenn es weiter geht."
 
   outOfFunding_title: "Alle Stipendien wurden vergeben"
   outOfFunding_body: "Für dieses Semster wurden alle Stipendienplätze vergeben. Wir öffnen unsere nächste Förderperiode mit dem nächsten Semester."
@@ -136,8 +136,8 @@ en:
   header_apply: Apply
   header_apply_link: "#apply"
   header_publication: "Publications"
-  info_currentFundingRound_title: "Soon we will continue"
-  info_currentFundingRound_body: "The next funding period will begin shortly.\nThis may take a few more days. Subscribe to our newsletter, send us an email to be informed directly when the next round of funding starts, or check back with us at a later date."
+  info_currentFundingRound_title: "We will resume shortly."
+  info_currentFundingRound_body: "The next funding period will begin shortly.\nThis may take a few more days.\nSubscribe to our newsletter, send us an email, or check back with us later to be notified immediately when things get back underway."
   outOfFunding_title: "All scholarships have been awarded"
   outOfFunding_body: "All scholarships for this semester have already been awarded. We will open our next round next semester."
   intro_title: "Catalyse your Master's thesis"
