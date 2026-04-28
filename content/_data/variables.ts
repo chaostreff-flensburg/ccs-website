@@ -18,6 +18,6 @@ export const FUNDING_IS_OUT = false;
 export const NEWSLETTER_URL = "https://newsletter.c3fl.de/subscription/form";
 
 /* Next Dates for "Get to Know Us" Calls: */
-export const GTKU_DATE_ONE = "Mi, 04.02.2026 - 19:00 bis 20:00 Uhr";
-export const GTKU_DATE_TWO = "Mo, 16.03.2026 - 19:00 bis 20:00 Uhr";
+export const GTKU_DATE_ONE = "So, 17.05.2026 - 14:00 bis 15:00 Uhr";
+export const GTKU_DATE_TWO = "Di, 16.06.2026 - 18:00 bis 19:00 Uhr";
 export const GTKU_LINK = "https://meet.ffmuc.net/ccs-info";
