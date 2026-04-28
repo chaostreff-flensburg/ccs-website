@@ -3,11 +3,11 @@ export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20252";
 
 /* Current Semester,
 used in Header and Text */
-export const CURRENT_SEMESTER = "Winter Semester 2025/2026";
-export const START_DATE = "01.11.2025";
-export const END_DATE = "30.04.2026";
-//export const START_DATE = "01.05.2025";
-//export const END_DATE = "25.10.2025";
+export const CURRENT_SEMESTER = "Sommer Semester 2025";
+export const START_DATE = "01.05.2026";
+export const END_DATE = "30.09.2026";
+//export const START_DATE = "01.10.2026";
+//export const END_DATE = "31.04.2026";
 
 /* Set to 'true' to display ' we are currently setting up funding' info box on main site */
 export const SHOW_FUNDING_BOX = true;
