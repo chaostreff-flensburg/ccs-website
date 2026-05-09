@@ -3,7 +3,7 @@ export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20252";
 
 /* Current Semester,
 used in Header and Text */
-export const CURRENT_SEMESTER = "Sommer Semester 2025";
+export const CURRENT_SEMESTER = "Sommer Semester 2026";
 export const START_DATE = "01.05.2026";
 export const END_DATE = "30.09.2026";
 //export const START_DATE = "01.10.2026";
