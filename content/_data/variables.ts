@@ -10,7 +10,7 @@ export const END_DATE = "30.09.2026";
 //export const END_DATE = "31.04.2026";
 
 /* Set to 'true' to display ' we are currently setting up funding' info box on main site */
-export const SHOW_FUNDING_BOX = true;
+export const SHOW_FUNDING_BOX = false;
 
 /* Set to 'true' when all scolarships have been awarded to display the info on main site */
 export const FUNDING_IS_OUT = false;
