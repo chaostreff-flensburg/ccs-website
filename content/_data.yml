@@ -107,6 +107,9 @@ de:
   faq_question10: "Ich bin mir unsicher ob ich mich für ein Fokusthema, oder genrelles Stipendium bewerben sollte."
   faq_answer10: "Wenn ihr euch unsicher seid, ob die Art der Bewerbung besser generell oder fokussiert ist, dann schreibt das gerne mit in die Bewerbung. Auf welches Stipendium du dich bewirbst, kann im Laufe des Prozesses zu deinen Gunsten angepasst werden. Sind zum Zeitpunkt deiner Fokus-Thema-Bewerbung bereits alle Stipendien zum Fokus-Thema vergeben, wandert deine Bewerbung automatisch mit in die Auswahl des generellen Stipendiums."
 
+  faq_question11: "Ich habe einer anderen Stelle die Erst-Publikation meiner Masterarbeit versprochen, oder meine Masterarbeit muss auf die Publikation einer anderen Arbeit warten."
+  faq_answer11: "Wenn du in einerm Paper veröffentlichst, deine Masterarbeit die Grundlage einer Doktorarbeit ist oder andere Gründe gegen eine direkte Veröffentlichung bei uns sprechen, gib uns bitte Bescheid, sobald du das Stipendium erhältst oder diese Gründe auftreten. Wir unterstützen deinen Beitrag zur Wissenschaft und sind gerne bereit, nach Absprache, Sekundärveröffentlichungen, spätere Veröffentlichungen oder Verweise auf andere Open-Access-Plattformen zu unterstützen."
+
   terms_title: "Stipendiumsbedingungen"
   terms_title1: "1. Teilnahmevoraussetzungen"
   terms_point1_dateframe1: "Du schreibst im "
@@ -231,6 +234,8 @@ en:
   faq_answer9: "Then send us an email to ccs@chaostreff-flensburg.de. If you would like to report any problems with the advisory board or the process, please send an e-mail to vorstand@chaostreff-flensburg.de. Both e-mail addresses are processed in a ticket system and may be seen by different people."
   faq_question10: "I'm not sure whether I should apply for a specific focus area or a general scholarship."
   faq_answer10: "If you're unsure whether it's better to submit a general or a focused application, feel free to mention that in your application. Which scholarship you are applying for can be adjusted in your favor during the process. If all scholarships for your focused topic have already been awarded at the time of your application, your application will automatically be included in the selection for the general scholarship."
+  faq_question11: "I've promised the initial publication of my master's thesis to another party, or my thesis has to wait for the publication of another work."
+  faq_answer11: " If you are publishing in a paper, if your master's thesis is the basis of a doctoral thesis, or if there are other reasons against a direct publication with us, please let us know as soon as you receive the scholarship or as soon as they arise. We support your contribution to science and are willing, upon agreement, to support secondary publications, later publications, or references to other open access platforms."
 
   terms_title: "Scholarship Terms and Conditions"
   terms_title1: "1. Eligibility Requirements"
