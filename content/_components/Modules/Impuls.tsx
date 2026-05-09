@@ -5,7 +5,8 @@ import SixtyFourtyLayout from "../Layouts/SixtyFourtyLayout.tsx";
 
 export default ({ text }) => (
   <>
-    <SixtyFourtyLayout
+  {/* Remove Impuls um Seite schlanker zu machen. */}
+    {/* <SixtyFourtyLayout
       title={text.impuls_heading1}
       sixtyProcentSide="left"
       contentLeft={
@@ -29,7 +30,7 @@ export default ({ text }) => (
           link="https://www.flickr.com/photos/leahoswald/54461243277/in/album-72177720325186951"
         />
       }
-    />
+    /> */}
     <div id="hacker-innen-ethik">
       <SixtyFourtyLayout
         title={text.impuls_heading2}
