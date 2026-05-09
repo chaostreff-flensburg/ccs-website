@@ -11,6 +11,7 @@ export default ({ text }) => (
     <Detail title={text.faq_question6} content={text.faq_answer6} />
     <Detail title={text.faq_question7} content={text.faq_answer7} />
     <Detail title={text.faq_question8} content={text.faq_answer8} />
+    <Detail title={text.faq_question10} content={text.faq_answer10} />
     <Detail title={text.faq_question9} content={text.faq_answer9} />
   </section>
 );

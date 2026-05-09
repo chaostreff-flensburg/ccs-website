@@ -102,6 +102,9 @@ de:
   faq_question9: "Du hast noch weitere Fragen?"
   faq_answer9: "Dann schreib uns eine E-Mail an ccs@chaostreff-flensburg.de. Wenn du irgendwelche Probleme beim Beirat oder beim Prozess melden möchtest, schreib bitte eine E-Mail an vorstand@chaostreff-flensburg.de Beide E-Mail-Adressen werden in einem Ticketsystem verarbeitet und werden ggf. von verschiedenen Personen gesehen."
 
+  faq_question10: "Ich bin mir unsicher ob ich mich für ein Fokusthema, oder genrelles Stipendium bewerben sollte."
+  faq_answer10: "Wenn ihr euch unsicher seid, ob die Art der Bewerbung besser generell oder fokussiert ist, dann schreibt das gerne mit in die Bewerbung. Auf welches Stipendium du dich bewirbst, kann im Laufe des Prozesses zu deinen Gunsten angepasst werden. Sind zum Zeitpunkt deiner Fokus-Thema-Bewerbung bereits alle Stipendien zum Fokus-Thema vergeben, wandert deine Bewerbung automatisch mit in die Auswahl des generellen Stipendiums."
+
   terms_title: "Stipendiumsbedingungen"
 
   terms_point1a: "Du schreibst im "
@@ -213,6 +216,8 @@ en:
   faq_answer8: "Nice that you are here! We are always looking for exciting contacts. The best thing to do is to write a short email to ccs@chaostreff-flensburg.de and we'll start a dialogue. Feel free to tell your students about this scholarship programme and work with them to find interesting topics for a possible thesis, which they can then submit to us."
   faq_question9: "Do you have any further questions?"
   faq_answer9: "Then send us an email to ccs@chaostreff-flensburg.de. If you would like to report any problems with the advisory board or the process, please send an e-mail to vorstand@chaostreff-flensburg.de. Both e-mail addresses are processed in a ticket system and may be seen by different people."
+  faq_question10: "I'm not sure whether I should apply for a specific focus area or a general scholarship."
+  faq_answer10: "If you're unsure whether it's better to submit a general or a focused application, feel free to mention that in your application. Which scholarship you are applying for can be adjusted in your favor during the process. If all scholarships for your focused topic have already been awarded at the time of your application, your application will automatically be included in the selection for the general scholarship."
   terms_title: "Scholarship terms and conditions"
   terms_point1a: "You are writing a master's or diploma thesis in "
   terms_point11a: "The start date for your Master's thesis is between "

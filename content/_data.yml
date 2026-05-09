@@ -90,7 +90,7 @@ de:
   faq_question4: "Welche Organisationen sind beteiligt?"
   faq_answer4: "Die rechtliche und steuerliche Verantwortung liegt beim Chaos Computer Club Flensburg e.V. mit Unterstützung des Chaotikum e.V. und weiteren engagierten Individuen. Alle Organisationen und Individuen sind im Umkreis des Chaos Computer Club aktiv."
 
-  faq_question5: "Warum gibt es nur 4 Stipendien?"
+  faq_question5: "Warum gibt es nur 4 generelle Stipendien?"
   faq_answer5: "Zur Zeit haben wir nur genug Geld, um bis zu 4 Stipendien pro Semester zu vergeben. Wenn du Ideen und Mittel hast, um das Projekt zu erweitern, melde dich gern unter ccs@chaostreff-flensburg.de!"
 
   faq_question6: "Was zählt alles als Masterarbeit?"
@@ -103,6 +103,9 @@ de:
   faq_answer8: "Schön dass du hier bist! Wir suchen immer spannende Kontakte. Am besten schreibst du eine kurze E-Mail an ccs@chaostreff-flensburg.de und wir starten ins Gespräch. Erzähle gern deinen Studierenden von diesem Stipendienprogramm und erarbeite mit ihnen gemeinsam interessante Themengebiete für eine mögliche Abschlussarbeit, die sie dann bei uns einreichen können."
   faq_question9: "Du hast noch weitere Fragen?"
   faq_answer9: "Dann schreib uns eine E-Mail an ccs@chaostreff-flensburg.de. Wenn du irgendwelche Probleme beim Beirat oder beim Prozess melden möchtest, schreib bitte eine E-Mail an vorstand@chaostreff-flensburg.de Beide E-Mail-Adressen werden in einem Ticketsystem verarbeitet und werden ggf. von verschiedenen Personen gesehen."
+
+  faq_question10: "Ich bin mir unsicher ob ich mich für ein Fokusthema, oder genrelles Stipendium bewerben sollte."
+  faq_answer10: "Wenn ihr euch unsicher seid, ob die Art der Bewerbung besser generell oder fokussiert ist, dann schreibt das gerne mit in die Bewerbung. Auf welches Stipendium du dich bewirbst, kann im Laufe des Prozesses zu deinen Gunsten angepasst werden. Sind zum Zeitpunkt deiner Fokus-Thema-Bewerbung bereits alle Stipendien zum Fokus-Thema vergeben, wandert deine Bewerbung automatisch mit in die Auswahl des generellen Stipendiums."
 
   terms_title: "Stipendiumsbedingungen"
   terms_title1: "1. Teilnahmevoraussetzungen"
@@ -226,7 +229,9 @@ en:
   faq_answer8: "Nice that you are here! We are always looking for exciting contacts. The best thing to do is to write a short email to ccs@chaostreff-flensburg.de and we'll start a dialogue. Feel free to tell your students about this scholarship programme and work with them to find interesting topics for a possible thesis, which they can then submit to us."
   faq_question9: "Do you have any further questions?"
   faq_answer9: "Then send us an email to ccs@chaostreff-flensburg.de. If you would like to report any problems with the advisory board or the process, please send an e-mail to vorstand@chaostreff-flensburg.de. Both e-mail addresses are processed in a ticket system and may be seen by different people."
-  
+  faq_question10: "I'm not sure whether I should apply for a specific focus area or a general scholarship."
+  faq_answer10: "If you're unsure whether it's better to submit a general or a focused application, feel free to mention that in your application. Which scholarship you are applying for can be adjusted in your favor during the process. If all scholarships for your focused topic have already been awarded at the time of your application, your application will automatically be included in the selection for the general scholarship."
+
   terms_title: "Scholarship Terms and Conditions"
   terms_title1: "1. Eligibility Requirements"
   terms_point1_dateframe1: "You are writing your Master’s or Diploma thesis in "
