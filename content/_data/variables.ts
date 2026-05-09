@@ -1,5 +1,5 @@
 /* External URL to the Apllication Form */
-export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20252";
+export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20261";
 
 /* Current Semester,
 used in Header and Text */
