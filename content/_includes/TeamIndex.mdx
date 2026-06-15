@@ -71,7 +71,7 @@ blog: false
               </div>
               <div className="team-card-body">
               <h3 className="team-name">{teamMember.name}</h3>
-              <h4 className="team-title">{teamMember.title}</h4>
+              <h4 className="team-title" dangerouslySetInnerHTML={{ __html: teamMember.title }}></h4>
               {teamMember.socialLinks && (
                 <ul className="team-socialLinks">
                   {Object.entries(teamMember.socialLinks).map(([platform, url]) => (
