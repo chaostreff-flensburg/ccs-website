@@ -1,5 +1,5 @@
 ---
-name: Myriam Raboldt
+name: Dr. Myriam Raboldt
 tags:
   - team
 picture:
