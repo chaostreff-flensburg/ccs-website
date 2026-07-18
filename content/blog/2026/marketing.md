@@ -12,7 +12,7 @@ Das Thema Werbung begleitet uns deshalb schon von Beginn an. Bisher haben wir un
 Insgesamt über 200 Briefumschläge wurden verpackt und versendet...."
 date: "2026-05-01T01:23:39.000Z"
 img: "/media/blog/post.jpeg"
-alt: "Chaotisches Catalysator Stipendium lädt ein zu: Shit. the data is gone."
+alt: "Ein Stapel voller gepackter Briefumschläge."
 ---
 
 # Wir sind zurück mit Print
