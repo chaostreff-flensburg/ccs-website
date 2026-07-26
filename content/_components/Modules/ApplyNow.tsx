@@ -1,4 +1,4 @@
-import { APPLY_URL } from "../../_data/variables.ts";
+import { APPLY_URL, FOKUS_TOPIC_NUMBER_TAKEN, FOKUS_TOPIC_NUMBER_TOTAL, GENERAL_NUMBER_TAKEN, GENERAL_NUMBER_TOTAL } from "../../_data/variables.ts";
 import Button from "../Buttons/Button.tsx";
 
 const styles = {
@@ -24,11 +24,13 @@ export default ({ text }) => (
         <h3>{text.applyNow_focusTopicTitle}</h3>
         <p>{text.applyNow_focusTopicInfo}</p>
         <p>{text.applyNow_focusTopicHint}</p>
+        <p><mark>{FOKUS_TOPIC_NUMBER_TAKEN} {text.applyNow_numberleft1} {FOKUS_TOPIC_NUMBER_TOTAL} {text.applyNow_numberleft2}</mark></p>
       </div>
       <div style={"padding: 20px"}>
         <h3>{text.applyNow_generalTopicTitle}</h3>
         <p>{text.applyNow_generalTopicInfo}</p>
         <p>{text.applyNow_generalTopicHint}</p>
+        <p><mark>{GENERAL_NUMBER_TAKEN} {text.applyNow_numberleft1} {GENERAL_NUMBER_TOTAL} {text.applyNow_numberleft2}</mark></p>
       </div>
     </div>
       <div style={styles.buttonContainer}>

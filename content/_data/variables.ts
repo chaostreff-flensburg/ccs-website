@@ -21,3 +21,9 @@ export const NEWSLETTER_URL = "https://newsletter.c3fl.de/subscription/form";
 export const GTKU_DATE_ONE = "So, 17.05.2026 - 14:00 bis 15:00 Uhr";
 export const GTKU_DATE_TWO = "Di, 16.06.2026 - 18:00 bis 19:00 Uhr";
 export const GTKU_LINK = "https://meet.ffmuc.net/ccs-info";
+
+/* Number of Scolarships taken and an total to indicate how many scolarships are still availible*/
+export const FOKUS_TOPIC_NUMBER_TAKEN = 0
+export const FOKUS_TOPIC_NUMBER_TOTAL = 2
+export const GENERAL_NUMBER_TAKEN = 4
+export const GENERAL_NUMBER_TOTAL = 4
