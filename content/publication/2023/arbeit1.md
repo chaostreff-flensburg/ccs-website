@@ -38,6 +38,10 @@ oldUrl: /blog/2023/arbeit1/
 <td><strong>Geschrieben von:</strong></td>
 <td>Joris Grahl</td>
 </tr>
+<tr>
+<td><strong>Veröffentlicht unter:</strong></td>
+<td><a href="https://doi.org/10.5281/zenodo.20835206">DOI 10.5281/zenodo.20835206</a></td>
+</tr>
 </tbody>
 </table>
 
