@@ -38,8 +38,13 @@ oldUrl: /blog/2025/arbeit7/
 <td><strong>Geschrieben von:</strong></td>
 <td>Leoni Papritz</td>
 </tr>
+<tr>
+<td><strong>Veröffentlicht unter:</strong></td>
+<td><a href="https://doi.org/10.5281/zenodo.21892500">DOI 10.5281/zenodo.21892500</a></td>
+</tr>
 </tbody>
 </table>
+
 
 [Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-7_international-development-in-the-field-of-cybersecurity.pdf)
 
