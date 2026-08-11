@@ -35,7 +35,7 @@ blog: false
                 <ul className="team-socialLinks">
                   {Object.entries(teamMember.socialLinks).map(([platform, url]) => (
                     <li key={platform}>
-                      <a href={url} className="team-link">{platform}</a>
+                      <a href={url} rel={platform === "Mastodon" ? "me" : undefined} className="team-link">{platform}</a>
                     </li>
                   ))}
                 </ul>
