@@ -2,52 +2,20 @@
 layout: Publications.tsx
 tags:
   - publication
-title: 'Arbeit Nr. 1: "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"'
-excerpt: "Geschrieben von: Joris Grahl"
 date: "2023-07-08T18:23:39.000Z"
 oldUrl: /blog/2023/arbeit1/
+number: 1
+details:
+  title: "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"
+  subtitle: ""
+  university: "Hochschule Merseburg"
+  department: "Soziale Arbeit, Medien, Kultur"
+  degreeProgram: "Angewandte Medien-und Kulturwissenschaft"
+  author: "Joris Grahl"
+  doi: "https://doi.org/10.5281/zenodo.20835206"
 ---
 
-# "Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz"
-
-<table class="table table-striped">
-<thead>
-<tr>
-<th><strong>Titel:</strong></th>
-<th>Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Untertitel:</strong></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Hochschule:</strong></td>
-<td>Hochschule Merseburg</td>
-</tr>
-<tr>
-<td><strong>Fachbereich:</strong></td>
-<td>Soziale Arbeit, Medien, Kultur</td>
-</tr>
-<tr>
-<td><strong>Studiengang:</strong></td>
-<td>Angewandte Medien-und Kulturwissenschaft</td>
-</tr>
-<tr>
-<td><strong>Geschrieben von:</strong></td>
-<td>Joris Grahl</td>
-</tr>
-<tr>
-<td><strong>Veröffentlicht unter:</strong></td>
-<td><a href="https://doi.org/10.5281/zenodo.20835206">DOI 10.5281/zenodo.20835206</a></td>
-</tr>
-</tbody>
-</table>
-
-[Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-1.pdf)
-
-## Kurze Zusammenfassung: Selbstwirksamkeit und Empowerment in Makerspaces und FabLabs
+## Selbstwirksamkeit und Empowerment in Makerspaces und FabLabs
 
 Dieser Artikel beinhaltet die Zusammenfassung meiner an der Hochschule Merseburg geschriebenen Masterarbeit im Studienbereich „Angewandte Medien- und Kulturwissenschaft“. Titel der Arbeit lautet „Selbstwirksamkeit und Empowerment in Offenen Werkstätten in der Lausitz“. Sie sieht sich als Ergänzung des Forschungsprojektes „MoFab“ und konnte in dessen Rahmen verfasst werden. Außerdem wurde sie unterstützt durch das Chaotische Catalysator Stipendium des Chaostreff Flensburgs.
 
@@ -59,7 +27,7 @@ Die Art, wie die Lausitzer Tüfteltour geführt wurde, kann nach dieser Auswertu
 
 Hieraus folgt die Logik, dass Partizipation und langfristiges Engagement in transformatorischen Prozessen, in denen die Menschen sowieso schon in schwierigen sozialen und beruflichen Situationen sind, wenig Zulauf erfährt. Dementsprechend lässt sich schlussendlich nicht mehr die Frage stellen, wie sich ein Strukturwandel von Unten gestalten lässt. Sondern, wie ein Strukturwandel aussehen wird, wenn er nicht von Unten in demokratischen Prozessen mitgetragen wird.
 
-#### <a name="_wykq5cywjei8"></a>Hintergrund zur Forschung
+#### Hintergrund zur Forschung
 
 Untersuchungsgegenstand waren Workshops des Forschungsprojektes _MoFab_, die in Kooperation mit dem Fabmobil e.V. durchgeführt wurden. MoFab ist ein Projekt des Netzwerkes Offener Werkstätten Brandenburg (NOW BB) und wurde durch die Open Knowledge Foundation Deutschland e.V. (OKF), den AWO Regionalverband Brandenburg Süd e.V. (AWO BB Süd), den Wissenschaftsladen Potsdam e.V. (WiLaP) und die Universität Potsdam, mit dem Lehrstuhl für Wirtschaftsinformatik, insbesondere Prozesse und Systeme (LSWI), forschend begleitet und umgesetzt. Das zweijährige Foschungsvorhaben wurde durch das Bundesministerium für Bildung und Forschung (BMBF) gefördert und war Teil des Wartung, Instandhaltung und Reparatur (WI+R) Bündnisses.
 
@@ -69,13 +37,13 @@ Mit dem Fokus auf Reparaturkultur und Strukturwandel hatte das Projekt zum Ziel,
 
 Gemeinsam mit interessierten Bürger:innen sollten konkrete technische Lösungen für den Alltag der regionalen Akteur:innen entwickelt und in den mobilen FabLabs umgesetzt werden. Die FabLabs stellten als (offene) Werkstätten dabei Werkzeuge und Fachexpertise zur Verfügung. Die zu Projektbeginn ermittelten Bedarfe, Problemfelder und Ideen wurden im weiteren Verlauf an die Community der partizipierenden zivilgesellschaftlichen Akteur:innen herangetragen und durch diese Akteur:innen hin zu einer Open Hardware Projektidee gebracht (Verbund MoFab 2021: 20). In den durch die Praxispartner:innen durchgeführten Workshops stand im Fokus, diese für die lokalen Problemlagen zu sensibilisieren. Wissen und Werte wurden durch die praxisorientierten Anwendungsbeispiele von Innovator:innen in die Bürgerschaft getragen (Inside-Out), damit diese eine „inspirierende Symbiose entwickeln“ (Verbund MoFab 2021: 21).
 
-#### <a name="_8g7hhm4mk84r"></a>Untersuchung und Vorgehensweise
+#### Untersuchung und Vorgehensweise
 
 Die Masterarbeit ist in zwei Untersuchungsabschnitte eingeteilt. Inhalt der Forschung waren drei Workshops aus der Workshopreihe „Lausitzer Tüfteltour“ unter den Titeln _Neue Alte Technik_ und _Maximal Regional_. Die Lausitzer Tüfteltour fand im Zeitraum vom 05.03.2022 bis 03.07.2022 statt und wurde vom MoFab Forschungsprojekt in Kooperation mit dem Fabmobil e.V. aus Dresden durchgeführt. Aus dieser Tour wurden drei Termine herangezogen und mittels offener-teilnehmender Beobachtung begleitet. Im Anschluss wurden fünf Teilnehmende aus den Workshops ausgewählt, die im Nachhinein für eine etwa 45-minütige qualitative Befragung bereitstanden.
 
 Die Auswertung der Forschungsergebnisse basiert auf dem Konzept der Grounded Theory, das von den amerikanischen Soziologen Barney G. Glaser und Anselm L. Strauss (1967) entwickelt wurde. Die vorliegenden Daten aus den Interviews und der Beobachtung wurden induktiv analysiert und mittels generativ entwickelter Kategorien verglichen. Aus diesen Ergebnissen werden im folgenden vier Handlungsempfehlungen für Bildungsangebote an Drittorten vorgestellt.
 
-#### <a name="_pd5dcb9wsjcv"></a>Ergebnisse
+#### Ergebnisse
 
 Kreativität und offene Ergebnisse bedürfen eines Grundwissens und Sicherheit mit sich selbst, um seine eigenen Möglichkeiten zu entdecken: „Wer Erfahrung hat, immer mehr Kompetenz erlangt und die eigene Komfortzone im Griff hat, kann sich trauen, sie zu verlassen und ‚den einen Schritt mehr‘ zu tun.“ (Pépin 2017: 120) Scheitern und sich trauen zu scheitern müssen dementsprechend auch erst einmal gelernt werden. Herleiten lässt sich das am besten mit Blick auf Platons Höhlengleichnis und der Lebensrealität der Jugendlichen in Forst: „Die Position, die jemand im sozialen Raum einnimmt, das heißt in der Distributionsstruktur der verschiedenen Kapitalsorten, die auch Waren sind, bestimmt auch seine Vorstellungen von diesem Raum und die Positionen, die er in den Kämpfen um dessen Erhalt oder Veränderung bezieht.“ (Bourdieu 1985: 26)
 
