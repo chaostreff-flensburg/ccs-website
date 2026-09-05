@@ -8,7 +8,7 @@ details:
   title: "Kontrolle ohne Korrektiv"
   subtitle: "KI-gestütztes stellvertretendes Management als geschützter Raum in der Softwareentwicklung"
   university: "TU Berlin"
-  department: "-"
+  department: "Fakultät 6, Institut für Soziologie"
   degreeProgram: "Soziologie technikwissenschaftlicher Richtung"
   author: "Marlene Kulla"
   doi: "https://doi.org/10.5281/zenodo.21893583"

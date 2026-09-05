@@ -8,7 +8,7 @@ details:
   title: "Hegemoniale Männlichkeit in Videospielen"
   subtitle: "Inhaltsanalytische Perspektiven auf gegenwärtige Action-Adventures"
   university: "Europa-Universität Flensburg"
-  department: "-"
+  department: "Interdisziplinäres Institut für Umwelt-, Sozial- und Humanwissenschaften"
   degreeProgram: "Transformationsstudien"
   author: "Matthias Lyssy"
   doi: "https://doi.org/10.5281/zenodo.19226555"

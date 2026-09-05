@@ -8,7 +8,7 @@ details:
   title: "Die Wahrheit im Patriarchat"
   subtitle: "Eine hermeneutische Untersuchung von Wikipedia-Diskussionen"
   university: "Europa-Universität Flensburg"
-  department: "-"
+  department: "Interdisziplinäres Institut für Umwelt-, Sozial- und Humanwissenschaften"
   degreeProgram: "M. A. Transformationsstudien"
   author: "Patrick Nehren"
   doi: "https://doi.org/10.5281/zenodo.17619146"
