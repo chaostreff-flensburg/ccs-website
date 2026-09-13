@@ -1,5 +1,5 @@
 ---
-layout: Publications.tsx
+layout: PublicationLayout.tsx
 title: Publication
 lang: de
 id: publicationPage
@@ -14,7 +14,7 @@ blog: true
         <div class="card-header">
             <div class="row">
               <div class="col-10">
-                <h2 class="text-xl font-medium">{page.title}</h2>
+                <h2 class="text-xl font-medium">Arbeit Nr. {page.number}: {page.details.title}</h2>
               </div>
               <div class="col-2 text-right d-flex justify-content-end">
               <span>
@@ -32,7 +32,7 @@ blog: true
           {page.imgUrl ? (
             <img class="w-full" src={page.data.imgUrl} />
           ) : null}
-          <div class="m-1">{page.excerpt}</div>
+          <div class="m-1">Geschrieben von: {page.details.author}</div>
         </div>
       </div>
     </a>

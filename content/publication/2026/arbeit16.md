@@ -2,42 +2,17 @@
 layout: Publications.tsx
 tags:
   - publication
-title: "Arbeit Nr. 16: Sicher, aber wie? Strukturelle Herausforderungen für IT-Sicherheit in der freien Wohlfahrt - Eine Fallstudie zur Caritas"
-excerpt: "Geschrieben von: Katharina Schlotthauer"
 date: "2026-01-18T16:23:39.000Z"
+number: 16
+details:
+  title: "Sicher, aber wie? Strukturelle Herausforderungen für IT-Sicherheit in der freien Wohlfahrt"
+  subtitle: "Eine Fallstudie zur Caritas"
+  university: "TUM School of Social Science and Technology"
+  department: "Department of Governance"
+  degreeProgram: "-"
+  author: "Katharina Schlotthauer"
+  doi: "-"
 ---
-
-# "Sicher, aber wie? Strukturelle Herausforderungen für IT-Sicherheit in der freien Wohlfahrt - Eine Fallstudie zur Caritas"
-
-<table class="table table-striped">
-<thead>
-<tr>
-<th><strong>Titel:</strong></th>
-<th>Sicher, aber wie? Strukturelle Herausforderungen für IT-Sicherheit in der freien Wohlfahrt</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Untertitel:</strong></td>
-<td>Eine Fallstudie zur Caritas</td>
-</tr>
-<tr>
-<td><strong>Hochschule:</strong></td>
-<td>TUM School of Social Science and Technology</td>
-</tr>
-<tr>
-<td><strong>Fachbereich:</strong></td>
-<td>Department of Governance</td>
-</tr>
-<tr>
-<td><strong>Geschrieben von:</strong></td>
-<td>Katharina Schlotthauer</td>
-</tr>
-</tbody>
-</table>
-
-[Vollständige Arbeit als PDF zum Download](/arbeiten/arbeit-16-it-security.pdf)
-
 
 ## Abstract (Deutsch)
 Die IT-Sicherheit sozialer Organisationen gewinnt zunehmend an Bedeutung, insbesondere angesichts wachsender Cyberbedrohungen auf die Branche. Dennoch gibt es kaum Literatur in diesem Bereich. Daher untersucht diese Masterarbeit die politischen, wirtschaftlichen und organisationalen Rahmenbedingungen für IT-Sicherheit in der freien Wohlfahrt am Beispiel der Caritas. Basierend auf einer Literaturrecherche und auf Experteninterviews mit Führungskräften aus Caritas-Organisationen werden zentrale Herausforderungen und Handlungsoptionen identifiziert.

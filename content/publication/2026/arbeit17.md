@@ -2,47 +2,17 @@
 layout: Publications.tsx
 tags:
   - publication
-title: "Arbeit Nr. 17: Same words, new world: Controlling remote biometric surveillance in an age of illiberalism"
-excerpt: "Geschrieben von: Pauline Kussmann"
 date: "2026-01-18T17:23:39.000Z"
+number: 17
+details:
+  title: "Same words, new world: Controlling remote biometric surveillance in an age of illiberalism"
+  subtitle: "An evaluation of the AI Act's control mechanisms for the use of real-time remote biometric identification systems in public places by law enforcement and recommendations for their implementation in Germany, focusing on the risk of a strategic interpretative expansion of legal bases"
+  university: "European New School of Digital Studies, European University Viadrina Frankfurt (Oder)"
+  department: "Chair for Law and Ethics of the Digital Society"
+  degreeProgram: "Digital Entrepreneurship"
+  author: "Pauline Kussmann"
+  doi: "https://doi.org/10.5281/zenodo.18292283"
 ---
-
-# "Same words, new world: Controlling remote biometric surveillance in an age of illiberalism"
-
-<table class="table table-striped">
-<thead>
-<tr>
-<th><strong>Titel:</strong></th>
-<th>Same words, new world: Controlling remote biometric surveillance in an age of illiberalism</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Untertitel:</strong></td>
-<td>An evaluation of the AI Act's control mechanisms for the use of real-time remote biometric identification systems in public places by law enforcement and recommendations for their implementation in Germany, focusing on the risk of a strategic interpretative expansion of legal bases </td>
-</tr>
-<tr>
-<td><strong>Hochschule:</strong></td>
-<td>European New School of Digital Studies, European University Viadrina Frankfurt (Oder) </td>
-</tr>
-<tr>
-<td><strong>Fachbereich:</strong></td>
-<td>Chair for Law and Ethics of the Digital Society</td>
-</tr>
-<tr>
-<td><strong>Studiengang:</strong></td>
-<td>Digital Entrepreneurship</td>
-</tr>
-<tr>
-<td><strong>Geschrieben von:</strong></td>
-<td>Pauline Kussmann</td>
-</tr>
-<td><strong>Veröffentlicht unter:</strong></td>
-<td><a href="https://doi.org/10.5281/zenodo.18292283">DOI 10.5281/zenodo.18292283</a></td>
-</tr>
-</tbody>
-</table>
-
 
 ## Introduction
 
