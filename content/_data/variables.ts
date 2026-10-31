@@ -1,13 +1,13 @@
 /* External URL to the Apllication Form */
-export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20261";
+export const APPLY_URL = "https://bewerben.c3fl.de/#/?proposal=ccs-20262";
 
 /* Current Semester,
 used in Header and Text */
-export const CURRENT_SEMESTER = "Sommer Semester 2026";
-export const START_DATE = "01.05.2026";
-export const END_DATE = "30.09.2026";
-//export const START_DATE = "01.10.2026";
-//export const END_DATE = "31.04.2026";
+export const CURRENT_SEMESTER = "Winter Semester 2026/2027";
+//export const START_DATE = "01.05.2026";
+//export const END_DATE = "30.09.2026";
+export const START_DATE = "01.10.2027";
+export const END_DATE = "31.04.2027";
 
 /* Set to 'true' to display ' we are currently setting up funding' info box on main site */
 export const SHOW_FUNDING_BOX = false;
@@ -18,12 +18,12 @@ export const FUNDING_IS_OUT = false;
 export const NEWSLETTER_URL = "https://newsletter.c3fl.de/subscription/form";
 
 /* Next Dates for "Get to Know Us" Calls: */
-export const GTKU_DATE_ONE = "So, 17.05.2026 - 14:00 bis 15:00 Uhr";
-export const GTKU_DATE_TWO = "Di, 16.06.2026 - 18:00 bis 19:00 Uhr";
+export const GTKU_DATE_ONE = "Mi, 11.11.2026 - 18:00 bis 19:00 Uhr";
+export const GTKU_DATE_TWO = "Di, 15.12.2026 - 13:00 bis 14:00 Uhr";
 export const GTKU_LINK = "https://meet.ffmuc.net/ccs-info";
 
 /* Number of Scolarships taken and an total to indicate how many scolarships are still availible*/
 export const FOKUS_TOPIC_NUMBER_TAKEN = 0
 export const FOKUS_TOPIC_NUMBER_TOTAL = 2
-export const GENERAL_NUMBER_TAKEN = 4
+export const GENERAL_NUMBER_TAKEN = 0
 export const GENERAL_NUMBER_TOTAL = 4
