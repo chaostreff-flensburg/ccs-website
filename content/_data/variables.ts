@@ -6,7 +6,7 @@ used in Header and Text */
 export const CURRENT_SEMESTER = "Winter Semester 2026/2027";
 //export const START_DATE = "01.05.2026";
 //export const END_DATE = "30.09.2026";
-export const START_DATE = "01.10.2027";
+export const START_DATE = "01.10.2026";
 export const END_DATE = "31.04.2027";
 
 /* Set to 'true' to display ' we are currently setting up funding' info box on main site */
