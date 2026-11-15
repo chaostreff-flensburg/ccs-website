@@ -1,19 +1,17 @@
-FROM denoland/deno:alpine as builder
+FROM node:26.13.1-slim@sha256:e6bedef217677b276c591795e169840edd9096dbf13f29df8ef8d1856b8820bc AS builder
 
-# chache lume builder for future builds
+# cache dependencies for future builds
 WORKDIR /app
-ADD deno.json ./\
-    deno.lock ./\
-    build.ts ./
-RUN deno cache build.ts
+COPY package.json package-lock.json ./
+RUN npm ci --ignore-scripts
 
 # build site
 ADD . .
-RUN deno task build
+RUN npm run build
 
 
 # build nginx webserver
-FROM nginx:alpine
+FROM nginx:1.31.8-alpine@sha256:fed7e14be83cbd2661a75cdc5b872d936cf155d46c327084d30b8df19ae88d72
 
 EXPOSE 80
 

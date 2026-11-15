@@ -1,0 +1,31 @@
+{
+  "name": "ccs-website",
+  "private": true,
+  "type": "module",
+  "allowScripts": {
+    "esbuild": false,
+    "fsevents": false,
+    "@parcel/watcher": false
+  },
+  "scripts": {
+    "serve": "lume build -s",
+    "build": "lume build"
+  },
+  "dependencies": {
+    "@lumeland/core": "^1.0.4",
+    "@lumeland/lume": "^4.0.2",
+    "@lumeland/plugin-compress": "^1.0.0",
+    "@lumeland/plugin-jsx": "^1.0.0",
+    "@lumeland/plugin-mdx": "^1.0.0",
+    "@lumeland/plugin-minify-html": "^1.0.0",
+    "@lumeland/plugin-multilanguage": "^1.0.0",
+    "@lumeland/plugin-pagefind": "^1.0.0",
+    "@lumeland/plugin-postcss": "^1.0.0",
+    "@lumeland/plugin-redirects": "^1.0.0",
+    "@lumeland/plugin-robots": "^1.0.0",
+    "@lumeland/plugin-sass": "^1.0.0",
+    "@lumeland/plugin-sitemap": "^1.0.0",
+    "@lumeland/ssx": "^0.1.16",
+    "markdown-it-anchor": "^10.1.0"
+  }
+}

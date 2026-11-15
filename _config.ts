@@ -1,15 +1,16 @@
-import lume from "lume/mod.ts";
-import mdx from "lume/plugins/mdx.ts";
-import pagefind from "lume/plugins/pagefind.ts";
-import postcss from "lume/plugins/postcss.ts";
-import sass from "lume/plugins/sass.ts";
-import multilanguage from "lume/plugins/multilanguage.ts";
-import jsx from "lume/plugins/jsx.ts";
-import anchor from "npm:markdown-it-anchor";
-import redirects from "lume/plugins/redirects.ts";
-import sitemap from "lume/plugins/sitemap.ts";
-import minifyHTML from "lume/plugins/minify_html.ts";
-import gzip from "lume/plugins/gzip.ts";
+import lume from "@lumeland/lume";
+import mdx from "@lumeland/plugin-mdx";
+import pagefind from "@lumeland/plugin-pagefind";
+import postcss from "@lumeland/plugin-postcss";
+import sass from "@lumeland/plugin-sass";
+import multilanguage from "@lumeland/plugin-multilanguage";
+import jsx from "@lumeland/plugin-jsx";
+import anchor from "markdown-it-anchor";
+import redirects from "@lumeland/plugin-redirects";
+import sitemap from "@lumeland/plugin-sitemap";
+import robots from "@lumeland/plugin-robots";
+import minifyHTML from "@lumeland/plugin-minify-html";
+import compress from "@lumeland/plugin-compress";
 
 const markdown = {
   plugins: [[anchor, { level: 2 }]],
@@ -17,6 +18,7 @@ const markdown = {
 
 const site = lume({
   src: "./content",
+  location: new URL("https://chaos-stipendien.de"),
 },
   {
     markdown,
@@ -39,16 +41,20 @@ site
   .add("https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css", 'code.css')
   .add("https://esm.sh/bootstrap@5.2.3/dist/css/bootstrap.min.css", "bootstrap.css")
   .add("https://esm.sh/bootstrap-darkmode@5.0.1/css/darktheme.css", "darktheme.css")
-  
+
   .use(mdx())
   .add("media")
   .add("assets", ".")
   .add("main.js")
   .use(redirects())
   .use(minifyHTML(/* Options */))
-  .use(gzip())
+  .use(compress())
   ;
 
+site.use(robots({
+  disallowAI: true,
+  rules: [{ userAgent: "*", allow: "/" }],
+}));
 site.use(sitemap(/* Options */));
 
 export default site;

@@ -1,6 +1,6 @@
 # CCS Website
 
-Repo der Webseite des #CCS Chaotischer Catalysator Stipendien. [Live Version](https://chaos-stipendien.de/). Gebaut mit [Lume](https://lume.land/) auf Basis von [Deno](https://deno.com).
+Repo der Webseite des #CCS Chaotischer Catalysator Stipendien. [Live Version](https://chaos-stipendien.de/). Gebaut mit [Lume](https://lume.land/) auf Basis von [Node.js](https://nodejs.org).
 
 ## Update Content
 To update content easily, regularly changing content is located in
@@ -10,21 +10,29 @@ content/_data/variables.ts
 
 ## Framework Setup
 
+Install dependencies
+```bash
+npm install
+```
+
 Development
 ```bash
-deno task serve
+npm run serve
 ```
 
 Production
 ```bash
-deno task build
+npm run build
 ```
 
 ## start local with docker
 
-```yaml
-docker-compose -p ccs up -d
+```bash
+docker build -t ccs .
+docker run --rm -p 8080:80 ccs
 ```
+
+The site is then available at http://localhost:8080.
 
 ---
 
