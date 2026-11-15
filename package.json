@@ -22,6 +22,7 @@
     "@lumeland/plugin-pagefind": "^1.0.0",
     "@lumeland/plugin-postcss": "^1.0.0",
     "@lumeland/plugin-redirects": "^1.0.0",
+    "@lumeland/plugin-robots": "^1.0.0",
     "@lumeland/plugin-sass": "^1.0.0",
     "@lumeland/plugin-sitemap": "^1.0.0",
     "@lumeland/ssx": "^0.1.16",

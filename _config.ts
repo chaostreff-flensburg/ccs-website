@@ -8,6 +8,7 @@ import jsx from "@lumeland/plugin-jsx";
 import anchor from "markdown-it-anchor";
 import redirects from "@lumeland/plugin-redirects";
 import sitemap from "@lumeland/plugin-sitemap";
+import robots from "@lumeland/plugin-robots";
 import minifyHTML from "@lumeland/plugin-minify-html";
 import compress from "@lumeland/plugin-compress";
 
@@ -17,6 +18,7 @@ const markdown = {
 
 const site = lume({
   src: "./content",
+  location: new URL("https://chaos-stipendien.de"),
 },
   {
     markdown,
@@ -49,6 +51,10 @@ site
   .use(compress())
   ;
 
+site.use(robots({
+  disallowAI: true,
+  rules: [{ userAgent: "*", allow: "/" }],
+}));
 site.use(sitemap(/* Options */));
 
 export default site;
