@@ -9,7 +9,7 @@ import anchor from "markdown-it-anchor";
 import redirects from "@lumeland/plugin-redirects";
 import sitemap from "@lumeland/plugin-sitemap";
 import minifyHTML from "@lumeland/plugin-minify-html";
-import gzip from "lume/plugins/gzip.ts";
+import compress from "@lumeland/plugin-compress";
 
 const markdown = {
   plugins: [[anchor, { level: 2 }]],
@@ -39,14 +39,14 @@ site
   .add("https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css", 'code.css')
   .add("https://esm.sh/bootstrap@5.2.3/dist/css/bootstrap.min.css", "bootstrap.css")
   .add("https://esm.sh/bootstrap-darkmode@5.0.1/css/darktheme.css", "darktheme.css")
-  
+
   .use(mdx())
   .add("media")
   .add("assets", ".")
   .add("main.js")
   .use(redirects())
   .use(minifyHTML(/* Options */))
-  .use(gzip())
+  .use(compress())
   ;
 
 site.use(sitemap(/* Options */));
